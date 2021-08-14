@@ -6,7 +6,7 @@ LTSpice - contain simulation asc file<br>
 KiCad source PS - active rectification power supply KiCad source files<br>
 KiCad source - Q17 amplifier KiCad source files<br>
 Q17.pdf - detailed presentation - bill of materials included<br>
-gerber-ps.zip - production gerbers for PCB active rectification power supply<br>
+gerber-ps.zip - production gerber for PCB active rectification power supply<br>
 GerberQ17.zip - production gerber for Q17 amplifier<br>
 
 ![image](https://user-images.githubusercontent.com/22703498/129330605-c93fc8af-65c4-4e56-8a2d-c02d22d79e27.png)
