@@ -2,5 +2,10 @@
 Q17 is an amplifier based on the QUAD405 current dumping principle.
 Please refer to Q17.pdf for project description.
 Use KiCad 5.99 or later to open and edit source files.
+LTSpice - contain simulation asc file
+ps - power supply KiCad source files
+Q17 - amplifier KiCad source files
+Spiki - inductor generator - python script to generate inductors in KiCad
+Q17project_presentation.pdf - detailed presentation - bill of materials included
 
 ![image](https://user-images.githubusercontent.com/22703498/129330605-c93fc8af-65c4-4e56-8a2d-c02d22d79e27.png)
