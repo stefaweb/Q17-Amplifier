@@ -11,4 +11,4 @@ GerberQ17.zip - production gerber for Q17 amplifier<br>
 
 ![image](https://user-images.githubusercontent.com/22703498/129330605-c93fc8af-65c4-4e56-8a2d-c02d22d79e27.png)<br>
 
-Construction and support @ https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
+Construction, discussion and support @ https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
