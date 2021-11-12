@@ -7,7 +7,7 @@ KiCad source PS - active rectification power supply KiCad source files<br>
 KiCad source - Q17 amplifier KiCad source files<br>
 Q17.pdf - detailed presentation - bill of materials included<br>
 gerber-ps.zip - production gerber for PCB active rectification power supply<br>
-GerberQ17.zip - production gerber for Q17 amplifier<br>
+GerberQ17.zip - production gerber for Q17 amplifier - shasum=356cdb99a78638b7d7ac14ddb6db20ac32a4ed3d<br>
 
 ![image](https://user-images.githubusercontent.com/22703498/129330605-c93fc8af-65c4-4e56-8a2d-c02d22d79e27.png)<br>
 
