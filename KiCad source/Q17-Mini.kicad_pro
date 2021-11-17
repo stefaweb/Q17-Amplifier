@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.1,
-          "height": 2.2,
-          "width": 2.2
+          "drill": 0.75,
+          "height": 1.8,
+          "width": 1.1
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -345,7 +345,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Q17-95x75.kicad_pro",
+    "filename": "Q17-Mini.kicad_pro",
     "version": 1
   },
   "net_settings": {
