@@ -196,7 +196,7 @@
   )
 
   (footprint "Connector_Faston:Faston_connector" (layer "F.Cu")
-    (tedit 6194C267) (tstamp 0c4d0f9a-3b33-4f7f-bbbe-88258a5b5016)
+    (tedit 6197CA40) (tstamp 0c4d0f9a-3b33-4f7f-bbbe-88258a5b5016)
     (at 158.2296 113.05742 180)
     (attr through_hole)
     (fp_text reference "Faston Connector" (at -5.715 2.54) (layer "F.Fab")
@@ -225,7 +225,7 @@
       (net 18 "Net-(C16-Pad2)") (tstamp 39c22ef6-5e12-4e58-a873-443aa766c1bd))
     (pad "2" thru_hole circle (at 0 0 180) (size 2.5 2.5) (drill oval 1.4 0.9) (layers *.Cu *.Mask)
       (net 18 "Net-(C16-Pad2)") (tstamp 244a3688-1a45-4207-aeb1-39ac46078749))
-    (model "${KIPRJMOD}/Connector_Faston.pretty/c-63849-1-g-3d.stp"
+    (model "${KIPRJMOD}/KICAD Library/3dmodels/c-63849-1-g-3d.stp"
       (offset (xyz -2.5 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -180 -180 0))
@@ -772,7 +772,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8e18703b-fb81-4afc-bf91-80c0b45ae8ac)
     )
-    (fp_text value "IRF9610" (at 2.54 2.5 -90) (layer "F.Fab")
+    (fp_text value "FQP3P20" (at 2.54 2.5 -90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 16c9919f-3ed2-4c43-8c3e-4d65a275ff1d)
     )
@@ -1551,7 +1551,7 @@
   )
 
   (footprint "Silver_Mica:C_Mica_L11.4mm_W4.3mm_H9.1_P5.9mm" (layer "F.Cu")
-    (tedit 6194ECE5) (tstamp 3bfd13d3-58cb-4939-abec-2a1548256b20)
+    (tedit 6197CA55) (tstamp 3bfd13d3-58cb-4939-abec-2a1548256b20)
     (at 131.128153 106.553 180)
     (descr "C, Silver Mica series, Radial, pin pitch=5.00mm, , diameter*width=11*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf")
     (tags "C Silver Mica series Radial pin pitch 5.00mm  diameter 11mm width 5.0mm Capacitor")
@@ -1587,7 +1587,7 @@
       (net 2 "Net-(C1-Pad1)") (tstamp 5cb3e2e5-f436-4f69-96c9-ecf21c1c6c0e))
     (pad "2" thru_hole circle (at 5.911636 0.000287 180) (size 2 2) (drill 1) (layers *.Cu *.Mask)
       (net 1 "GND") (tstamp adabd399-1bb9-4c39-8272-a94282526d8b))
-    (model "${KIPRJMOD}/Mica Capacitor.pretty/mica-cap.step"
+    (model "${KIPRJMOD}/KICAD Library/3dmodels/mica-cap.step"
       (offset (xyz 2.95 0 -10))
       (scale (xyz 1.01 1 1))
       (rotate (xyz -180 0 0))
@@ -2295,7 +2295,7 @@
   )
 
   (footprint "Connector_Faston:Faston_connector" (layer "F.Cu")
-    (tedit 6194C267) (tstamp 57ddb6be-c1c3-46c3-80f0-de605bb09b28)
+    (tedit 6197CA2C) (tstamp 57ddb6be-c1c3-46c3-80f0-de605bb09b28)
     (at 151.062041 106.37722 90)
     (attr through_hole)
     (fp_text reference "Faston Connector" (at -5.715 2.54 90) (layer "F.Fab")
@@ -2324,7 +2324,7 @@
       (net 13 "GNDPWR") (tstamp ae7faba8-43ea-4672-8bef-46fe62a723d5))
     (pad "2" thru_hole circle (at 0 0 90) (size 2.5 2.5) (drill oval 1.4 0.9) (layers *.Cu *.Mask)
       (net 13 "GNDPWR") (tstamp c0058f66-5624-4cb2-9e22-9e72f9eccf83))
-    (model "${KIPRJMOD}/Connector_Faston.pretty/c-63849-1-g-3d.stp"
+    (model "${KIPRJMOD}/KICAD Library/3dmodels/c-63849-1-g-3d.stp"
       (offset (xyz -2.5 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -180 -180 0))
@@ -2332,7 +2332,7 @@
   )
 
   (footprint "Connector_Faston:Faston_connector" (layer "F.Cu")
-    (tedit 6194C267) (tstamp 5ab67729-04d9-4f24-947b-a250824008d7)
+    (tedit 6197C9E3) (tstamp 5ab67729-04d9-4f24-947b-a250824008d7)
     (at 137.981041 111.45722 -90)
     (attr through_hole)
     (fp_text reference "Faston Connector" (at -0.33222 -3.623959 -90) (layer "F.Fab")
@@ -2361,7 +2361,7 @@
       (net 23 "Net-(J2-Pad1)") (tstamp d0909bd8-9642-4b86-b1e9-c277543931a6))
     (pad "2" thru_hole circle (at 0 0 270) (size 2.5 2.5) (drill oval 1.4 0.9) (layers *.Cu *.Mask)
       (net 23 "Net-(J2-Pad1)") (tstamp 140213e3-d192-4853-841b-ba6e3e2c539a))
-    (model "${KIPRJMOD}/Connector_Faston.pretty/c-63849-1-g-3d.stp"
+    (model "${KIPRJMOD}/KICAD Library/3dmodels/c-63849-1-g-3d.stp"
       (offset (xyz -2.5 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -180 -180 0))
@@ -2664,7 +2664,7 @@
   )
 
   (footprint "Silver_Mica:C_Mica_L11.4mm_W4.3mm_H9.1_P5.9mm" (layer "F.Cu")
-    (tedit 6194ECE5) (tstamp 66b10af6-a53b-48d1-8529-97b794ea70a8)
+    (tedit 6197CA82) (tstamp 66b10af6-a53b-48d1-8529-97b794ea70a8)
     (at 143.696041 72.08722 -90)
     (descr "C, Silver Mica series, Radial, pin pitch=5.00mm, , diameter*width=11*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf")
     (tags "C Silver Mica series Radial pin pitch 5.00mm  diameter 11mm width 5.0mm Capacitor")
@@ -2700,7 +2700,7 @@
       (net 11 "Net-(C10-Pad1)") (tstamp 6d9df6d5-ac30-4282-b1c7-d42ee3326b4f))
     (pad "2" thru_hole circle (at 5.911636 0.000287 270) (size 2 2) (drill 1) (layers *.Cu *.Mask)
       (net 10 "Net-(C10-Pad2)") (tstamp 9478e9c7-3378-4b79-8120-b5987218ef18))
-    (model "${KIPRJMOD}/Mica Capacitor.pretty/mica-cap.step"
+    (model "${KIPRJMOD}/KICAD Library/3dmodels/mica-cap.step"
       (offset (xyz 2.95 0 -10))
       (scale (xyz 1.01 1 1))
       (rotate (xyz -180 0 0))
@@ -3911,7 +3911,7 @@
   )
 
   (footprint "Connector_Faston:Faston_connector" (layer "F.Cu")
-    (tedit 6194C267) (tstamp abd1f62c-deb6-4024-9dc9-c8d860f43480)
+    (tedit 6197CA05) (tstamp abd1f62c-deb6-4024-9dc9-c8d860f43480)
     (at 144.712041 106.37722 90)
     (attr through_hole)
     (fp_text reference "Faston Connector" (at -2.54 2.54 90) (layer "F.Fab")
@@ -3940,7 +3940,7 @@
       (net 13 "GNDPWR") (tstamp ab979a7a-2216-4aa2-aa28-f4a3727d0191))
     (pad "2" thru_hole circle (at 0 0 90) (size 2.5 2.5) (drill oval 1.4 0.9) (layers *.Cu *.Mask)
       (net 13 "GNDPWR") (tstamp 0e5021f5-8c7d-4b79-bc9b-f5547f307f05))
-    (model "${KIPRJMOD}/Connector_Faston.pretty/c-63849-1-g-3d.stp"
+    (model "${KIPRJMOD}/KICAD Library/3dmodels/c-63849-1-g-3d.stp"
       (offset (xyz -2.5 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -180 -180 0))
@@ -5514,7 +5514,7 @@
   )
 
   (footprint "Connector_Faston:Faston_connector" (layer "F.Cu")
-    (tedit 6194C267) (tstamp eed21903-dc25-4680-9b54-44fdb8314596)
+    (tedit 6197CA6A) (tstamp eed21903-dc25-4680-9b54-44fdb8314596)
     (at 158.2296 73.35722 180)
     (attr through_hole)
     (fp_text reference "Faston Connector" (at -2.54 2.54) (layer "F.Fab")
@@ -5543,7 +5543,7 @@
       (net 17 "Net-(C15-Pad1)") (tstamp 375e3342-53d9-49d1-a882-2f8340c71a14))
     (pad "2" thru_hole circle (at 0 0 180) (size 2.5 2.5) (drill oval 1.4 0.9) (layers *.Cu *.Mask)
       (net 17 "Net-(C15-Pad1)") (tstamp d07ac21f-0509-444c-bf02-e5a519328c3a))
-    (model "${KIPRJMOD}/Connector_Faston.pretty/c-63849-1-g-3d.stp"
+    (model "${KIPRJMOD}/KICAD Library/3dmodels/c-63849-1-g-3d.stp"
       (offset (xyz -2.5 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -180 -180 0))

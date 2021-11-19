@@ -1,6 +1,6 @@
 (footprint "Faston_connector" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6194C267)
+  (tedit 6197C999)
   (attr through_hole)
   (fp_text reference "REF**" (at -2.54 2.54) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -26,7 +26,7 @@
   (fp_line (start 0.635 -1.5621) (end -5.715 -1.5621) (layer "F.Fab") (width 0.1) (tstamp e4e79b42-95ac-4477-a6fb-18bdbeb30566))
   (pad "1" thru_hole circle (at -5.08 0) (size 2.5 2.5) (drill oval 1.4 0.9) (layers *.Cu *.Mask) (tstamp bd73285c-5362-4e63-95b6-a5c0f56ac358))
   (pad "2" thru_hole circle (at 0 0) (size 2.5 2.5) (drill oval 1.4 0.9) (layers *.Cu *.Mask) (tstamp ee5dd01d-3e66-491b-8031-c159eb4719f2))
-  (model "${KIPRJMOD}/Connector_Faston.pretty/c-63849-1-g-3d.stp"
+  (model "${KIPRJMOD}/KICAD Library/3dmodels/c-63849-1-g-3d.stp"
     (offset (xyz -2.5 0 9))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 -180 0))
