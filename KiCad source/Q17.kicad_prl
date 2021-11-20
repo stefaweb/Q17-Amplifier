@@ -71,6 +71,31 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "Q17.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 0,
+          "pos_y": 44,
+          "size_x": 1280,
+          "size_y": 685
+        }
+      },
+      {
+        "name": "Q17.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 21,
+          "pos_y": 39,
+          "size_x": 1280,
+          "size_y": 683
+        }
+      }
+    ]
   }
 }
