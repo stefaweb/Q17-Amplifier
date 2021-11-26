@@ -3910,7 +3910,7 @@
   )
 
   (footprint "Inductor_THT:L_Axial_L22mm_D10mm_P21mm_Horizontal_Q17_Mini" (layer "F.Cu")
-    (tedit 61A0B6CC) (tstamp abac9de3-4707-4a88-8a61-686a2f0bdb83)
+    (tedit 61A0D3FA) (tstamp abac9de3-4707-4a88-8a61-686a2f0bdb83)
     (at 132.1556 92.5838)
     (descr "Inductor, Axial series, Axial, Horizontal, Q17")
     (tags "Inductor Axial series Axial Horizontal pin pitch 21mm  length 16mm diameter 10mm Q17")
@@ -3933,9 +3933,9 @@
     (fp_rect (start -1.651 -5.008) (end 23.5626 5.008) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 2e6a8d0d-25c0-449b-81e8-501055f54e42))
     (fp_rect (start -1.7306 5.1072) (end 23.6774 -5.1088) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 44a59865-bcb6-4ea5-8c65-2b7e791ee636))
     (fp_rect (start -1.4916 -4.8334) (end 23.4208 4.8568) (layer "F.Fab") (width 0.12) (fill none) (tstamp 1fac4d30-d5d9-4ed1-be8a-e962ea0ddd8a))
-    (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.3) (layers *.Cu *.Mask)
+    (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.2) (layers *.Cu *.Mask)
       (net 23 "Net-(J2-1-Pad1)") (pinfunction "1") (pintype "passive") (tstamp 1886a93c-7bc3-4c8a-8fef-a54a7a25cfa7))
-    (pad "2" thru_hole circle (at 21.9746 0.0254) (size 3 3) (drill 1.3) (layers *.Cu *.Mask)
+    (pad "2" thru_hole circle (at 21.9746 0.0254) (size 3 3) (drill 1.2) (layers *.Cu *.Mask)
       (net 22 "Net-(L1-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 01a662f7-6cc5-4954-978c-538e90239add))
     (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L16.0mm_D7.5mm_P25.40mm_Horizontal_Fastron_XHBCC.wrl"
       (offset (xyz 0 0 0.5))
