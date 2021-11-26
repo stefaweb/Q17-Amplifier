@@ -5813,7 +5813,6 @@
   (gr_line (start 102.458349 129.867364) (end 192.280626 129.860674) (layer "Margin") (width 0.2) (tstamp 49b49a44-ea31-4c6e-b990-203176c6320c))
   (gr_arc (start 100.001478 57.547161) (mid 100.743435 55.860377) (end 102.488475 55.268284) (layer "Margin") (width 0.2) (tstamp 6cd8b5b4-302a-4747-86b9-351468e4aafa))
   (gr_arc (start 194.60834 127.475319) (mid 193.978178 129.188795) (end 192.280626 129.860674) (layer "Margin") (width 0.2) (tstamp fa6b8840-478b-4c91-a308-6fc350fbfcf2))
-  (gr_line (start 126.5555 55.626) (end 193.2305 55.626) (layer "User.2") (width 0.2) (tstamp 4e34e6fb-a9bf-4a21-8dd2-9232c9514d22))
   (gr_text "GND" (at 147.877574 108.966) (layer "B.SilkS") (tstamp 116117aa-c66c-437c-bd78-08bf35cd6a49)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
