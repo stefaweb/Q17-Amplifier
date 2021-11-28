@@ -6,7 +6,7 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2021-11-27")
+    (date "2021-11-28")
     (rev "1.0.8")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
@@ -3044,7 +3044,7 @@
     (property "Reference" "R11" (id 0) (at 180.5941 67.6846 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47R/1W" (id 1) (at 180.5941 69.9833 0)
+    (property "Value" "47R/2W" (id 1) (at 180.5941 69.9833 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal" (id 2) (at 177.038 68.834 90)
@@ -3588,7 +3588,7 @@
     (property "Reference" "R12" (id 0) (at 180.5941 99.9426 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47R/1W" (id 1) (at 180.5941 102.2413 0)
+    (property "Value" "47R/2W" (id 1) (at 180.5941 102.2413 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal" (id 2) (at 177.038 101.092 90)
@@ -5063,10 +5063,10 @@
       (reference "R10") (unit 1) (value "10R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/15b91c78-18e1-4f64-926c-7e4784683c4f"
-      (reference "R11") (unit 1) (value "47R/1W") (footprint "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal")
+      (reference "R11") (unit 1) (value "47R/2W") (footprint "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal")
     )
     (path "/650c038f-de6c-4533-9f4a-887a91a93957"
-      (reference "R12") (unit 1) (value "47R/1W") (footprint "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal")
+      (reference "R12") (unit 1) (value "47R/2W") (footprint "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal")
     )
     (path "/02f26f68-bf34-47b8-a58c-12fbe031c778"
       (reference "R13") (unit 1) (value "10R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
