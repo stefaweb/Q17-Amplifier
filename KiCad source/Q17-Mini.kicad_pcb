@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (title "Q17-Mini the Quad405 reborn")
-    (date "2021-11-27")
+    (date "2021-11-28")
     (rev "1.0.8")
     (company "PCB design by Stef")
     (comment 1 "Zize 95 x 75 mm")
@@ -6282,7 +6282,6 @@
   (segment (start 106.605197 99.991197) (end 106.605197 98.325503) (width 0.5) (layer "B.Cu") (net 36) (tstamp c7cb7d11-5767-4fe8-94b8-d25cfdadeeca))
   (segment (start 109.558903 97.578097) (end 111.541511 95.595489) (width 0.5) (layer "B.Cu") (net 36) (tstamp d5510e7b-3fed-4432-af17-c73c637ff91d))
   (segment (start 127.821041 67.00722) (end 127.821041 73.854959) (width 0.5) (layer "F.Cu") (net 37) (tstamp 03d489a8-2e71-45bb-b1ea-e75d3c738bfd))
-  (segment (start 128.110754 89.86722) (end 128.27 89.86722) (width 0.5) (layer "F.Cu") (net 37) (tstamp 074c681d-bd32-4091-bfe7-7c25957806da))
   (segment (start 122.82548 84.581946) (end 128.110754 89.86722) (width 0.5) (layer "F.Cu") (net 37) (tstamp 2e0c3178-268c-4bde-b270-a41e7ee1dd7d))
   (segment (start 122.82548 78.85052) (end 122.82548 84.581946) (width 0.5) (layer "F.Cu") (net 37) (tstamp a8c78d95-0147-45e5-bacb-18e1d1221166))
   (segment (start 127.821041 73.854959) (end 122.82548 78.85052) (width 0.5) (layer "F.Cu") (net 37) (tstamp b74f2e42-5b60-44f4-8bca-bfc1f408c985))
