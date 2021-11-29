@@ -6,8 +6,8 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2021-11-28")
-    (rev "1.0.8")
+    (date "2021-11-29")
+    (rev "1.0.9")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
     (comment 4 "Q17 a QUAD405 audiophile approach")
@@ -2716,7 +2716,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3d43165d-8f91-4438-a8e9-e6380283bce5)
   )
-  (text "R27 : Use good low noise and low ppm 1W resistor." (at 93.98 177.8 0)
+  (text "R27 : Use good low noise 1W resistor (CMF60560R00JKR6)."
+    (at 93.98 177.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3fc7e44e-eaa5-446c-aee1-c1bf6217aff8)
   )
