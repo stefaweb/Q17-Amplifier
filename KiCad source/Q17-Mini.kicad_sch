@@ -2700,7 +2700,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 120e5629-3b1a-4040-a863-164bd8861053)
   )
-  (text "J2 and J3: FASTON 250 PCB CONNECTOR (TE Connectivity 63849-1)"
+  (text "J2 and J3: FASTON 250 PCB connector (TE Connectivity 63849-1)"
     (at 93.98 173.99 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1807c891-5ccf-491b-b7cb-6605d0030f30)
@@ -2730,7 +2730,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 45f2d5bd-dbe0-42a5-afc8-9abd2664434e)
   )
-  (text "C15, C16 : The best choise is Vishay BC MAL204858222E3."
+  (text "C15, C16 : Vishay BC MAL204858222E3 or Nichicon UFW1J222MHD."
     (at 93.98 181.61 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4d658936-370f-4ab3-b028-b391714886f1)
