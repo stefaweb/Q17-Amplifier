@@ -2811,7 +2811,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3d43165d-8f91-4438-a8e9-e6380283bce5)
   )
-  (text "R26, R27, R28 : Use good non inductive 1W resistor (Vishay CMF60)."
+  (text "R26, R27, R28 : Use good non inductive 1W resistor (if they fit)."
     (at 93.98 177.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3fc7e44e-eaa5-446c-aee1-c1bf6217aff8)
