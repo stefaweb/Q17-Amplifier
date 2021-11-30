@@ -7,7 +7,7 @@
   (title_block
     (title "Q17-Mini Amplifier")
     (date "2021-11-30")
-    (rev "1.0.9")
+    (rev "1.1.0")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
     (comment 4 "Q17 a QUAD405 audiophile approach")
@@ -2811,7 +2811,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3d43165d-8f91-4438-a8e9-e6380283bce5)
   )
-  (text "R27 : Use good low noise 1W resistor (CMF60560R00JKR6)."
+  (text "R26, R27, R28 : Use good non inductive 1W resistor (Vishay CMF60)."
     (at 93.98 177.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3fc7e44e-eaa5-446c-aee1-c1bf6217aff8)
@@ -3556,7 +3556,7 @@
     (in_bom yes) (on_board yes)
     (uuid 553e7843-c1ff-4dc6-ae3e-d89ae303f31a)
     (property "Reference" "C6" (id 0) (at 57.6781 104.347 90))
-    (property "Value" "100uF/16V BP" (id 1) (at 59.69 111.76 90))
+    (property "Value" "100uF/25V" (id 1) (at 59.69 111.76 90))
     (property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" (id 2) (at 64.516 105.9688 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3650,7 +3650,7 @@
     (property "Reference" "C2" (id 0) (at 43.8682 114.7526 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100uF/25V" (id 1) (at 38.4365 117.74 0)
+    (property "Value" "100uF/16V BP" (id 1) (at 38.4365 117.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" (id 2) (at 50.4952 118.872 0)
@@ -4988,7 +4988,7 @@
       (reference "C1") (unit 1) (value "470p Mica") (footprint "Silver_Mica:C_Mica_L11.4mm_W4.3mm_H9.1_P5.9mm")
     )
     (path "/61bf8854-9a50-4642-8024-43beb183f09b"
-      (reference "C2") (unit 1) (value "100uF/25V") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+      (reference "C2") (unit 1) (value "100uF/16V BP") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/f9e8c33b-6fda-41be-bb30-ce5c13715e36"
       (reference "C3") (unit 1) (value "100uF/25V") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
@@ -5000,7 +5000,7 @@
       (reference "C5") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
     )
     (path "/553e7843-c1ff-4dc6-ae3e-d89ae303f31a"
-      (reference "C6") (unit 1) (value "100uF/16V BP") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+      (reference "C6") (unit 1) (value "100uF/25V") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/54c34d9c-31cf-4362-89c6-22284b93a5d2"
       (reference "C7") (unit 1) (value "1uF MKP") (footprint "Capacitor_THT:C_Rect_C7_Q17-Mini")
