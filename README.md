@@ -5,7 +5,7 @@ Use KiCad 5.99 or later to open and edit source files.  KiCad 5.99 can be downlo
 LTSpice - contain simulation asc file<br>
 KiCad source PS - active rectification power supply KiCad source files<br>
 KiCad source - Q17 amplifier KiCad source files<br>
-Q17.pdf - detailed presentation - bill of materials included<br>
+Project description.pdf - detailed presentation - bill of materials included<br>
 gerber-ps.zip - production gerber for PCB active rectification power supply<br>
 GerberQ17.zip - production gerber for Q17 amplifier<br>
 
