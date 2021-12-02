@@ -9,11 +9,11 @@ Project description.pdf - detailed presentation - bill of materials included<br>
 gerber-ps.zip - production gerber files for PCB active rectification power supply<br>
 GerberQ17.zip - production gerber files for Q17 amplifier<br>
 
-For the Q17-Mini project:<br>
+For the Q17-Mini project:<br><br>
 Gerber-Q17-Mini-1.0.9.zip - production gerber files for Q17 amplifier<br>
 Q17-Mini-schematic.pdf - schematic for Q17-Mini amplifier<br>
 Q17-Mini-BOM.html - interactive BOM for Q17-Mini amplifier<br>
 
 ![image](https://user-images.githubusercontent.com/12907102/144422773-0d96e4c1-fcfd-4bf5-82b9-dd2f3ed76c36.jpg)<br>
 
-Construction, discussion and support @ https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
+Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
