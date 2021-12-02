@@ -1,5 +1,6 @@
 # Q17-a-QUAD405-audiophile-approach
 Q17 is an amplifier based on the QUAD405 current dumping principle.<br>
+<br>
 Please refer to <a href="https://github.com/tvicol/Q17-a-QUAD405-audiophile-approach/blob/main/Project%20description.pdf">Project description.pdf</a> for project description.<br>
 Use KiCad 6.0rc or later to open and edit source files.  KiCad 6.0rc can be downloaded from CERN, for <a href="https://kicad-downloads.s3.cern.ch/index.html?prefix=windows/nightly/">windows</a>, for <a href="https://kicad-downloads.s3.cern.ch/index.html?prefix=osx/nightly/">macbook</a><br>
 <br>
