@@ -13,7 +13,9 @@ Project description.pdf - detailed presentation - bill of materials included.<br
 gerber-ps.zip - production gerber files for PCB active rectification power supply.<br>
 GerberQ17.zip - production gerber files for Q17 amplifier.<br>
 <br>
+
 For the Q17-Mini project:<br>
+The project is in development. Do not print ,board.<br>
 <br>
 KiCad source - Q17-Mini amplifier KiCad source files.<br>
 Gerber-Q17-Mini-[version].zip - production gerber files for Q17-Mini amplifier.<br>
