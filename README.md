@@ -15,6 +15,7 @@ GerberQ17.zip - production gerber files for Q17 amplifier.<br>
 <br>
 
 For the Q17-Mini project:<br>
+<br>
 <b>The project is in development. Do not print board.</b><br>
 <br>
 KiCad source - Q17-Mini amplifier KiCad source files.<br>
