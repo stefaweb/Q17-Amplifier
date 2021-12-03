@@ -4,7 +4,7 @@ Q17 is an amplifier based on the QUAD405 current dumping principle.<br>
 Please refer to <a href="https://github.com/tvicol/Q17-a-QUAD405-audiophile-approach/blob/main/Project%20description.pdf">Project description.pdf</a> for project description.<br>
 Use KiCad 6.0rc or later to open and edit source files.  KiCad 6.0rc can be downloaded from CERN, for <a href="https://kicad-downloads.s3.cern.ch/index.html?prefix=windows/nightly/">windows</a> or for <a href="https://kicad-downloads.s3.cern.ch/index.html?prefix=osx/nightly/">macbook</a>.<br>
 <br>
-For the main Q17 project:<br>
+<b>For the main Q17 project:</b><br>
 <br>
 LTSpice - contain simulation asc file.<br>
 KiCad source PS - active rectification power supply KiCad source files.<br>
@@ -14,7 +14,7 @@ gerber-ps.zip - production gerber files for PCB active rectification power suppl
 GerberQ17.zip - production gerber files for Q17 amplifier.<br>
 <br>
 
-For the Q17-Mini project:<br>
+<b>For the Q17-Mini project:</b><br>
 <br>
 <b>The project is in development. Do not print board.</b><br>
 <br>
