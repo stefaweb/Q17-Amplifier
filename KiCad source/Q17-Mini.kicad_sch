@@ -2785,13 +2785,26 @@
     (uuid fca6078b-6329-4564-8d44-1b010bd4c1ce)
   )
 
-  (text "C1 and C10 : Use good CDE Mica or Polystyrene capacitor."
-    (at 93.98 196.85 0)
+  (text "C13, C14 : Panasonic FC " (at 62.23 170.18 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 035aefe0-7417-4380-8cad-ff04e2942bb6)
+  )
+  (text "1W resistor : Vishay PR01" (at 62.23 177.8 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 0cbac7ea-faad-4611-9469-c068d0df90b7)
+  )
+  (text "C1, C10 : Use Mica CDE CD15 or Polystyrene capacitor."
+    (at 93.98 189.23 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 120e5629-3b1a-4040-a863-164bd8861053)
   )
+  (text "C3, C6 : Elna Silmic II (RFS-16V101MH3#5) or Nichicon Muse (UES1A101MPM1TD)"
+    (at 93.98 193.04 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 155df38b-b7f0-48ad-878b-fe1e2998dc03)
+  )
   (text "J2 and J3: FASTON 250 PCB connector (TE Connectivity 63849-1)"
-    (at 93.98 173.99 0)
+    (at 93.98 196.85 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1807c891-5ccf-491b-b7cb-6605d0030f30)
   )
@@ -2799,8 +2812,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 22eabd8e-6af3-4672-8286-e4a82c9e6851)
   )
-  (text "C7 : Use good MKP capacitor (MKP1F041005I00JYSD or MKP2D041001N00JSSD)."
-    (at 93.98 185.42 0)
+  (text "C7 : Use MKP capacitor (MKP1F041005I00JYSD or MKP2D041001N00JSSD)."
+    (at 93.98 177.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2b04ad9f-8d5f-4ab8-81bc-2515bd6c345f)
   )
@@ -2808,12 +2821,16 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 33cbaa85-05ae-4b8b-8ea0-270cdc43c4dd)
   )
+  (text "2W resistor : Vishay PR02" (at 62.23 181.61 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3460f78c-70b7-458e-a8fb-e2cd26acb01d)
+  )
   (text "Q2, Q10 : KSA992" (at 13.97 162.56 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3d43165d-8f91-4438-a8e9-e6380283bce5)
   )
-  (text "R26, R27, R28 : Use good non inductive 1W resistor (Vishay Dale)."
-    (at 93.98 177.8 0)
+  (text "R26, R27, R28 : If possible use non inductive 1W resistor (Vishay Dale)."
+    (at 93.98 170.18 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3fc7e44e-eaa5-446c-aee1-c1bf6217aff8)
   )
@@ -2821,8 +2838,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 45f2d5bd-dbe0-42a5-afc8-9abd2664434e)
   )
-  (text "C15, C16 : Vishay BC MAL204858222E3 or Nichicon UFW1J222MHD."
-    (at 93.98 181.61 0)
+  (text "C15, C16 : Vishay 048 RML (MAL204858222E3) or Nichicon UFW (UFW1J222MHD)."
+    (at 93.98 173.99 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4d658936-370f-4ab3-b028-b391714886f1)
   )
@@ -2836,7 +2853,7 @@
   )
   (text "L1 : 22 turns of a 1mm copper insulated wire wound around an 8mm tube."
     (at 62.23 160.02 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 7db1c116-53cc-43a8-9a9d-fcc8da2afbb1)
   )
   (text "Q3, Q7 : KSC1845" (at 13.97 170.18 0)
@@ -2848,7 +2865,7 @@
     (uuid 9a67f8d7-e4b4-4f5d-8c56-b61f683c9856)
   )
   (text "C2 : Use bipolar capacitor if possible (Nichicon Muse UES1A101MPM)."
-    (at 93.98 193.04 0)
+    (at 93.98 185.42 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a957b3fc-67cd-4a18-8991-6d481ba90fed)
   )
@@ -2868,8 +2885,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cfeddde5-810a-44f4-b22e-b69bd1c555d1)
   )
-  (text "C17 : Use good MKP capacitor (FKP3C031004C00JSSD or MKP1F031004B00KI00)."
-    (at 93.98 189.23 0)
+  (text "C17 : Use MKP capacitor (FKP3C031004C00JSSD or MKP1F031004B00KI00)."
+    (at 93.98 181.61 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d2ef8e6a-4cfd-4455-9e5d-aa245262921a)
   )
@@ -2885,9 +2902,13 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ee440357-d69a-48f5-9268-dc3957d90142)
   )
-  (text "This will give you a coil of 10x20mm (see picture on github)."
-    (at 62.23 163.83 0)
+  (text "100nF capacitor : Wima MKS2" (at 62.23 173.99 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ef3c20a9-74fe-4bea-a401-04991b56d78b)
+  )
+  (text "This will give you a coil of 10x20mm (see picture on github repository)."
+    (at 62.23 163.83 0)
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid fb014273-574f-4186-abc2-f84d5be2484e)
   )
   (text "Q8 : 2N7000 (not TA) or ZVN4206AV" (at 13.97 181.61 0)
