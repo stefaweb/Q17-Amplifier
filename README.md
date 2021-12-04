@@ -24,9 +24,9 @@ Q17-Mini-schematic.pdf - schematic for Q17-Mini amplifier.<br>
 Q17-Mini-BOM.html - interactive BOM for Q17-Mini amplifier.<br>
 <br>
 Q17-Mini (95x75mm)<br>
-![image](https://user-images.githubusercontent.com/12907102/144567168-5f8ceddd-76af-413d-a093-d6599416234b.jpg)<br>
+![image](https://user-images.githubusercontent.com/12907102/144702438-10645cae-3c23-4af0-9543-bc17d3933563.jpg)<br>
 <br>
-![image](https://user-images.githubusercontent.com/12907102/144575374-333b559f-20e6-492a-8653-8f448db6d8d2.jpg)<br>
+![image](https://user-images.githubusercontent.com/12907102/144702420-9e27873e-2d1d-45b8-8d9f-e7015d3f5009.jpg)<br>
 <br>
 Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
 
