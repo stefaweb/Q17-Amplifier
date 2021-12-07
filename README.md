@@ -24,7 +24,7 @@ Q17-Mini-schematic.pdf - schematic for Q17-Mini amplifier.<br>
 Q17-Mini-BOM.html - interactive BOM for Q17-Mini amplifier.<br>
 <br>
 Q17-Mini (95x75mm)<br>
-![image](https://user-images.githubusercontent.com/12907102/144828928-513001dc-d379-4d5b-9699-fd041a631a75.jpg)<br>
+![image](https://user-images.githubusercontent.com/12907102/144988516-9f9e5772-6366-467d-bf0d-ec4bc7b8e6d5.jpg)<br>
 <br>
 ![image](https://user-images.githubusercontent.com/12907102/144702420-9e27873e-2d1d-45b8-8d9f-e7015d3f5009.jpg)<br>
 <br>
