@@ -5980,7 +5980,7 @@
   (gr_text "Use a Speaker Protection Board." (at 114.5032 83.9216) (layer "B.SilkS") (tstamp 3d93a757-86c3-452d-8e7e-e1472380bc48)
     (effects (font (size 1 0.9) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "QUAD405 Audiophile\n\nCircuit design by Tiberiu Vicol\n\nPCB design by Stef\n\nPROTO RELEASE\n\n2022\n" (at 143.256 92.583) (layer "B.SilkS") (tstamp 82f37f79-9a02-4476-adbf-9859cf22e32b)
+  (gr_text "QUAD405 Audiophile\n\nCircuit design by Tiberiu Vicol\n\nPCB design by Stef\n\n2022\n" (at 143.8656 91.2876) (layer "B.SilkS") (tstamp 82f37f79-9a02-4476-adbf-9859cf22e32b)
     (effects (font (size 0.8 1) (thickness 0.175)) (justify mirror))
   )
   (gr_text "GND" (at 109.474 65.733914) (layer "B.SilkS") (tstamp 86f493d4-bfa1-4d81-a73c-a90139f1f511)
