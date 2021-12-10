@@ -6,8 +6,8 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2021-12-09")
-    (rev "1.1.2")
+    (date "2021-12-10")
+    (rev "1.1.3")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
     (comment 4 "Q17 a QUAD405 audiophile approach")
@@ -2645,7 +2645,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0cbac7ea-faad-4611-9469-c068d0df90b7)
   )
-  (text "C1, C10 : Use Mica CDE CD15 or Polystyrene capacitor."
+  (text "C1, C10 : use Mica CDE CD15 or Polystyrene capacitor."
     (at 95.25 189.23 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 120e5629-3b1a-4040-a863-164bd8861053)
@@ -2668,7 +2668,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 22eabd8e-6af3-4672-8286-e4a82c9e6851)
   )
-  (text "C7 : Use MKP capacitor (MKP1F041005I00JYSD or MKP2D041001N00JSSD)."
+  (text "C7 : use MKP capacitor (MKP1F041005I00JYSD or MKP2D041001N00JSSD)."
     (at 95.25 177.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2b04ad9f-8d5f-4ab8-81bc-2515bd6c345f)
@@ -2685,7 +2685,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3d43165d-8f91-4438-a8e9-e6380283bce5)
   )
-  (text "R26, R27, R28 : If possible use non inductive 1W resistor (Vishay Dale)."
+  (text "R26, R27, R28 : try to use non inductive 1W resistor (Vishay Dale or Ohmite)."
     (at 95.25 170.18 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3fc7e44e-eaa5-446c-aee1-c1bf6217aff8)
@@ -2724,7 +2724,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9a67f8d7-e4b4-4f5d-8c56-b61f683c9856)
   )
-  (text "C2 : Use bipolar capacitor if possible (Nichicon Muse UES1A101MPM)."
+  (text "C2 : use bipolar capacitor if possible (Nichicon Muse UES1A101MPM)."
     (at 95.25 185.42 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a957b3fc-67cd-4a18-8991-6d481ba90fed)
@@ -2745,12 +2745,12 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cfeddde5-810a-44f4-b22e-b69bd1c555d1)
   )
-  (text "C17 : Use MKP capacitor (FKP3C031004C00JSSD or MKP1F031004B00KI00)."
+  (text "C17 : use MKP capacitor (FKP3C031004C00JSSD or MKP1F031004B00KI00)."
     (at 95.25 181.61 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d2ef8e6a-4cfd-4455-9e5d-aa245262921a)
   )
-  (text "Q9, Q11 : BS250P (Diodes Inc) or ZVP2106A" (at 13.97 189.23 0)
+  (text "Q9, Q11 : ZVP2106A or BS250P (Diodes Inc)" (at 13.97 189.23 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d68e4baa-51f6-48be-ba29-380391477dce)
   )
@@ -3239,7 +3239,7 @@
     (property "Reference" "Q9" (id 0) (at 113.03 45.9739 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "BS250P" (id 1) (at 113.03 48.5139 0)
+    (property "Value" "ZVP2106A" (id 1) (at 113.03 48.5139 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_TO_SOT_THT:TO-92S_Wide" (id 2) (at 113.792 45.339 0)
@@ -4530,7 +4530,7 @@
     (property "Reference" "Q11" (id 0) (at 142.24 45.9739 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "BS250P" (id 1) (at 142.24 48.26 0)
+    (property "Value" "ZVP2106A" (id 1) (at 142.24 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_TO_SOT_THT:TO-92S_Wide" (id 2) (at 140.97 45.339 0)
@@ -4962,13 +4962,13 @@
       (reference "Q8") (unit 1) (value "ZVN4206AV") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
     (path "/36bb7cc5-40f2-497a-925f-69375e509408"
-      (reference "Q9") (unit 1) (value "BS250P") (footprint "Package_TO_SOT_THT:TO-92S_Wide")
+      (reference "Q9") (unit 1) (value "ZVP2106A") (footprint "Package_TO_SOT_THT:TO-92S_Wide")
     )
     (path "/071ef736-32b9-4357-93dc-ac14efe23e52"
       (reference "Q10") (unit 1) (value "KSA992") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/eb65f337-3059-4d5b-85d1-244932530fc7"
-      (reference "Q11") (unit 1) (value "BS250P") (footprint "Package_TO_SOT_THT:TO-92S_Wide")
+      (reference "Q11") (unit 1) (value "ZVP2106A") (footprint "Package_TO_SOT_THT:TO-92S_Wide")
     )
     (path "/0176de40-92f3-4877-816b-e22467593d70"
       (reference "Q12") (unit 1) (value "BD139") (footprint "Package_TO_SOT_THT:TO-126-3_Vertical")
