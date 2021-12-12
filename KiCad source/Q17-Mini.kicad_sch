@@ -6,7 +6,7 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2021-12-11")
+    (date "2021-12-12")
     (rev "1.1.3")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
@@ -2668,7 +2668,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 22eabd8e-6af3-4672-8286-e4a82c9e6851)
   )
-  (text "C7 : use MKP capacitor (MKP1F041005I00JYSD or MKP2D041001N00JSSD)."
+  (text "C7 : use MKP capacitor (MKP1F041005I00JYSD or MKP4D041005D00JSSD)."
     (at 95.25 177.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2b04ad9f-8d5f-4ab8-81bc-2515bd6c345f)
@@ -2749,7 +2749,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cfeddde5-810a-44f4-b22e-b69bd1c555d1)
   )
-  (text "C17 : use MKP capacitor (FKP3C031004C00JSSD or MKP1F031004B00KI00)."
+  (text "C17 : use MKP capacitor (MKP1F031004B00KI00 or FKP3C031004C00JSSD)."
     (at 95.25 181.61 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d2ef8e6a-4cfd-4455-9e5d-aa245262921a)
