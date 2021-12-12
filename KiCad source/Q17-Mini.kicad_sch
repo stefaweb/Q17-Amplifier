@@ -7,7 +7,7 @@
   (title_block
     (title "Q17-Mini Amplifier")
     (date "2021-12-12")
-    (rev "1.1.3")
+    (rev "1.1.4")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
     (comment 4 "Q17 a QUAD405 audiophile approach")
@@ -3638,7 +3638,7 @@
     (property "Reference" "R29" (id 0) (at 214.8841 29.5846 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10R" (id 1) (at 214.884 31.883 0)
+    (property "Value" "10K" (id 1) (at 214.884 31.883 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 211.328 30.734 90)
@@ -3856,7 +3856,7 @@
     (property "Reference" "R30" (id 0) (at 214.442 134.1198 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10R" (id 1) (at 214.4419 136.4182 0)
+    (property "Value" "10K" (id 1) (at 214.4419 136.4182 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 211.328 135.128 90)
@@ -5071,10 +5071,10 @@
       (reference "R28") (unit 1) (value "22R/1W") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/6a502bca-5c03-4909-9915-ce87906e504a"
-      (reference "R29") (unit 1) (value "10R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R29") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/860cc2f6-176f-4935-b38a-f52437fa5513"
-      (reference "R30") (unit 1) (value "10R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R30") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/0b38258b-fc2c-4616-935a-ea7f37c299ab"
       (reference "R31") (unit 1) (value "10R/2W") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
