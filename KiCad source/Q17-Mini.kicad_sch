@@ -6,8 +6,8 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2021-12-18")
-    (rev "1.1.5")
+    (date "2021-12-21")
+    (rev "1.1.7")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
     (comment 4 "Q17 a QUAD405 audiophile approach")
@@ -2738,7 +2738,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9d5e7326-5602-45d9-bc0c-50e49c008da2)
   )
-  (text "C2 : use bipolar capacitor if possible (Nichicon Muse UES1A101MPM)."
+  (text "C2 : use bipolar capacitor (Nichicon Muse UES1A101MPM)."
     (at 95.25 189.23 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a957b3fc-67cd-4a18-8991-6d481ba90fed)
@@ -2772,12 +2772,12 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d6f0f946-4d06-42aa-886a-d10e68a2a6bb)
   )
-  (text "D5, Q6 : 1N5245" (at 60.96 196.85 0)
+  (text "D5, D6 : 1N5245" (at 60.96 196.85 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ee440357-d69a-48f5-9268-dc3957d90142)
   )
   (text "Do not power on the board without opamp." (at 240.03 15.24 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid ee823590-ecbd-4107-bb1f-1a309e1b21af)
   )
   (text "100nF capacitor : Wima MKS2" (at 60.96 173.99 0)
