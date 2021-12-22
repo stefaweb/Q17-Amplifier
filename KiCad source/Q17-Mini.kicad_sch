@@ -6,7 +6,7 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2021-12-21")
+    (date "2021-12-22")
     (rev "1.1.7")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
@@ -2644,7 +2644,7 @@
     (uuid fca6078b-6329-4564-8d44-1b010bd4c1ce)
   )
 
-  (text "C3, C5, C13, C14 : Panasonic FC " (at 95.25 170.18 0)
+  (text "C3, C5, C13, C14 : Panasonic FC " (at 60.96 170.18 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 035aefe0-7417-4380-8cad-ff04e2942bb6)
   )
@@ -2721,6 +2721,10 @@
     (at 60.96 160.02 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 7db1c116-53cc-43a8-9a9d-fcc8da2afbb1)
+  )
+  (text "DC Fuse : 3A" (at 266.7 96.52 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 7f180349-2cf1-4faf-8ede-f82101d0fa01)
   )
   (text "Exicon laterals : R11 and R12 = 10R 2W" (at 177.8 163.83 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
