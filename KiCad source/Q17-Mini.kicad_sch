@@ -6,7 +6,7 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2021-12-22")
+    (date "2021-12-23")
     (rev "1.1.8")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
@@ -2726,7 +2726,7 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 7db1c116-53cc-43a8-9a9d-fcc8da2afbb1)
   )
-  (text "DC Fuse : 3A" (at 266.7 96.52 0)
+  (text "DC Fuse : 3A Fast" (at 264.16 96.52 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7f180349-2cf1-4faf-8ede-f82101d0fa01)
   )
@@ -2771,7 +2771,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c9a35411-c524-4831-be5a-ab5e80b83e47)
   )
-  (text "POWER 48VDC" (at 266.7 68.58 0)
+  (text "POWER 45VDC" (at 266.7 68.58 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cfeddde5-810a-44f4-b22e-b69bd1c555d1)
   )
