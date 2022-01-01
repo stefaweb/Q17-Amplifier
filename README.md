@@ -26,7 +26,7 @@ Q17-Mini-BOM.html - interactive BOM for Q17-Mini amplifier.<br>
 Q17-Mini (95x75mm)<br>
 ![image](https://user-images.githubusercontent.com/12907102/145293399-1e0a8ed4-a575-4bab-a02a-047cca737625.jpeg)<br>
 <br>
-![image](https://user-images.githubusercontent.com/12907102/147380478-2a5ea7d6-9a77-4ffb-a07c-042bdac267f6.jpg)<br>
+![image](https://user-images.githubusercontent.com/12907102/147847877-8811d65e-3d4a-4a86-bc3c-3bfca85f183b.jpg)<br>
 <br>
 Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
 
