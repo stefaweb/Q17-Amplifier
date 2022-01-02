@@ -6,8 +6,8 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2021-12-29")
-    (rev "1.2.1")
+    (date "2022-01-02")
+    (rev "1.2.2")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
     (comment 4 "Q17 a QUAD405 audiophile approach")
@@ -2709,7 +2709,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 45f2d5bd-dbe0-42a5-afc8-9abd2664434e)
   )
-  (text "Q7, Q8 : cascode circuit" (at 13.97 15.24 0)
+  (text "Q7, Q8 : cascode circuit (R3 = current setup, need to adjust R5/R6)"
+    (at 13.97 15.24 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4c14047a-a6b3-4fa7-8d18-c345b7a86919)
   )
