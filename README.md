@@ -18,6 +18,8 @@ GerberQ17.zip - production gerber files for Q17 amplifier.<br>
 <br>
 The first version of the board was released on December 8, 2021.<br>
 <br>
+Version 1.1.2 published on January 4, 2022.<br>
+<br>
 KiCad source - Q17-Mini amplifier KiCad source files.<br>
 Gerber-Q17-Mini-[version].zip - production gerber files for Q17-Mini amplifier.<br>
 Q17-Mini-schematic.pdf - schematic for Q17-Mini amplifier.<br>
@@ -26,7 +28,7 @@ Q17-Mini-BOM.html - interactive BOM for Q17-Mini amplifier.<br>
 Q17-Mini (95x75mm)<br>
 ![image](https://user-images.githubusercontent.com/12907102/145293399-1e0a8ed4-a575-4bab-a02a-047cca737625.jpeg)<br>
 <br>
-![image](https://user-images.githubusercontent.com/12907102/147880090-e2f8c0e5-3779-4c47-afcd-d8e3ea12debf.jpg)<br>
+![image](https://user-images.githubusercontent.com/12907102/148030136-c4a03911-857e-4ea0-a4af-5d9f3d5ab89d.jpg)<br>
 <br>
 Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
 
