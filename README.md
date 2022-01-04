@@ -18,6 +18,8 @@ GerberQ17.zip - production gerber files for Q17 amplifier.<br>
 <br>
 The first version of the board was released on December 8, 2021.<br>
 <br>
+Version 1.1.2 published on January 4, 2022.<br>
+<br>
 KiCad source - Q17-Mini amplifier KiCad source files.<br>
 Gerber-Q17-Mini-[version].zip - production gerber files for Q17-Mini amplifier.<br>
 Q17-Mini-schematic.pdf - schematic for Q17-Mini amplifier.<br>
