@@ -14,7 +14,7 @@ gerber-ps.zip - production gerber files for PCB active rectification power suppl
 GerberQ17.zip - production gerber files for Q17 amplifier.<br>
 <br>
 
-<b>For the Q17-Mini project (100W @ 4 Ohms):</b><br>
+<b>For the Q17-Mini project (100W @ 8 Ohms):</b><br>
 <br>
 The first version of the board was released on December 8, 2021.<br>
 <br>
