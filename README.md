@@ -30,7 +30,7 @@ Q17-Mini (95x75mm)<br>
 <br>
 ![image](https://user-images.githubusercontent.com/12907102/149298457-5275b20d-79f3-4385-b5f9-bb36e6e2b2c5.jpg)<br>
 <br>
-![Q17-Mini-3D](https://user-images.githubusercontent.com/12907102/149298751-5da89ae4-3674-41dd-bc7e-afc1716003ff.jpg)<br>
+![Q17-Mini-3D](https://user-images.githubusercontent.com/12907102/149301607-f43293ca-7414-4b66-986f-87754b3b02d9.jpg)<br>
 <br>
 Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
 <br>
