@@ -7,7 +7,7 @@
   (title_block
     (title "Q17-Mini Amplifier")
     (date "2022-01-13")
-    (rev "1.2.6")
+    (rev "1.2.7")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
     (comment 4 "Q17 a QUAD405 audiophile approach")
@@ -2747,7 +2747,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 53922530-c7cd-451e-b6fa-197201a49109)
   )
-  (text "L1 : 22 turns of a 1mm diameter copper insulated wire wound around a 8mm tube."
+  (text "L1 : 19.5 turns of a 1mm diameter copper insulated wire wound around a 8mm tube."
     (at 13.97 156.21 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 5cff2459-d275-4803-8fa2-8289cb689a75)
