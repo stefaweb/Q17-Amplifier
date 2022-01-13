@@ -28,7 +28,7 @@ Q17-Mini-BOM.html - interactive BOM for Q17-Mini amplifier.<br>
 Q17-Mini (95x75mm)<br>
 ![image](https://user-images.githubusercontent.com/12907102/145293399-1e0a8ed4-a575-4bab-a02a-047cca737625.jpeg)<br>
 <br>
-![image](https://user-images.githubusercontent.com/12907102/149298457-5275b20d-79f3-4385-b5f9-bb36e6e2b2c5.jpg)<br>
+![image](https://user-images.githubusercontent.com/12907102/149343640-0804fc61-b6fc-41be-9eb8-58c14138cd2d.jpg)<br>
 <br>
 ![Q17-Mini-3D](https://user-images.githubusercontent.com/12907102/149301607-f43293ca-7414-4b66-986f-87754b3b02d9.jpg)<br>
 <br>
