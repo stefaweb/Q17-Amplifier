@@ -1,4 +1,4 @@
-# Q17-a-QUAD405-audiophile-approach</b><br>
+# Q17-P2 200W board</b><br>
 <br>
 Project under developpment.<br>
 <br>
