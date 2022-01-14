@@ -2,5 +2,5 @@
 <br>
 Project under developpment.<br>
 <br>
-PCB can change and the published version is not yet tested.<br>
+PCB and component values can change and the published version is not yet tested.<br>
 <br>
