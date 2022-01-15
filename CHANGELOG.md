@@ -5,7 +5,7 @@ Version [1.1.4](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/tr
 - Changed L1 footprint (vertical).
 - Added R42 and R43.
 - Switched R18 and C7.
-- Added some optionals SMD footprints.
+- Added some optional SMD footprints.
 - Rounded tracks.
 - Updated diagram.
 
