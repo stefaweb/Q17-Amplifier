@@ -1,6 +1,6 @@
 # Changelog Q17-Mini
 
-[1.1.4](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/tree/5d390576078fdaf95bd449d5fe2e2c45a9edb5e6) (2022-01-13)
+Version [1.1.4](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/tree/5d390576078fdaf95bd449d5fe2e2c45a9edb5e6) (2022-01-13)
 
 - Added R42 and R43.
 - Switched R18 and C7.
