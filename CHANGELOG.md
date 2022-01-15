@@ -9,4 +9,4 @@ Version [1.1.4](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/tr
 - Rounded tracks.
 - Updated diagram.
 
-Initial release : [1.1.1](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/tree/8860557ad7c0319b1982263380b270c39a1ce374) (2021-12-10)
+Initial release : [1.1.1](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/tree/8860557ad7c0319b1982263380b270c39a1ce374) (&0-12-2021)
