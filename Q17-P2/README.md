@@ -1,4 +1,4 @@
-# Q17-P2 200W board</b><br>
+# Q17-P2 Project</b><br>
 <br>
 Project under developpment.<br>
 <br>
