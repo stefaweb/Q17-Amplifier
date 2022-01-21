@@ -5,7 +5,5 @@ Project under developpment.<br>
 PCB and component values can change and the published version is not yet tested.<br>
 <br>
 <br>
-![Q17-P2-3D](https://user-images.githubusercontent.com/12907102/150497059-e7b1e335-31a6-44b2-9bf1-9fd3e4856116.jpg)
+![image](https://user-images.githubusercontent.com/12907102/150497059-e7b1e335-31a6-44b2-9bf1-9fd3e4856116.jpg)
 
-![image](https://user-images.githubusercontent.com/12907102/149343640-0804fc61-b6fc-41be-9eb8-58c14138cd2d.jpg)<br>
-<br>
