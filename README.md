@@ -25,11 +25,12 @@ Gerber-Q17-Mini-[version].zip - production gerber files for Q17-Mini amplifier.<
 Q17-Mini-schematic.pdf - schematic for Q17-Mini amplifier.<br>
 Q17-Mini-BOM.html - interactive BOM for Q17-Mini amplifier.<br>
 <br>
-Q17-Mini (95x75mm)<br>
+Q17-Mini First Protoytype (95x75mm)<br>
 ![image](https://user-images.githubusercontent.com/12907102/145293399-1e0a8ed4-a575-4bab-a02a-047cca737625.jpeg)<br>
 <br>
 ![image](https://user-images.githubusercontent.com/12907102/149343640-0804fc61-b6fc-41be-9eb8-58c14138cd2d.jpg)<br>
 <br>
+Q17-Mini v1.1.4<br>
 ![Q17-Mini-3D](https://user-images.githubusercontent.com/12907102/149507125-76487cfc-367e-4002-a785-178651e0edd2.jpg)<br>
 <br>
 Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
