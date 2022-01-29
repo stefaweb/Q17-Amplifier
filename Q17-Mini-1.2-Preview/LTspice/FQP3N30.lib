@@ -1,0 +1,59 @@
+*$
+**************** Power Discrete MOSFET Electrical Circuit Model *****************
+** Product Name: FQP3N10
+** 100V N-Channel MOSFET and TO-220
+** Model Type: BSIM3V3
+**-------------------------------------------------------------------------------
+.SUBCKT FQP3N30 2 1 3    
+*Nom Temp=25 deg C
+Dbody 7 5    DbodyMOD
+Dbreak 5 11  DbreakMOD
+Ebreak 11 7 17 7 330
+Lgate 1 9    1.125e-9
+Ldrain 2 5   1.440e-9
+Lsource 3 7  8.431e-10
+RLgate 1 9   11.25
+RLdrain 2 5  14.4
+RLsource 3 7 8.43
+Rgate 9 6    0.5
+It 7 17      1
+Rbreak 17 7  RbreakMOD 1
+.MODEL RbreakMOD RES (TC1=1.08e-3 TC2=-1.02e-6)
+.MODEL DbodyMOD D (IS=4.05e-13 N=1     RS=3.62e-2 TRS1=2.05e-3 TRS2=5.0e-7 
++ CJO=2.45e-10     M=0.51      VJ=0.47 TT=3.02e-7 XTI=3       EG=1.12)
+.MODEL DbreakMOD D (RS=100e-3 TRS1=1e-3 TRS2=1.0e-6)
+Rdrain 5 16 RdrainMOD 1.65
+.MODEL RdrainMOD RES (TC1=7.5e-3 TC2=1.39e-5)
+M_BSIM3 16 6 7 7 Bsim3 W=0.45 L=2.0e-6 NRS=1
+.MODEL  Bsim3 NMOS (LEVEL=7 VERSION=3.1 MOBMOD=3 CAPMOD=2 PARAMCHK=1 NQSMOD=0
++ TOX=1480e-10   XJ=1.4e-6    NCH=1.13e17
++ U0=700         VSAT=5.0e5   DROUT=1.0
++ DELTA=0.10     PSCBE2=0     RSH=5.09e-3
++ VTH0=4.30      VOFF=-0.1    NFACTOR=1.1
++ LINT=1.05e-7   DLC=1.05e-7  FC=0.5
++ CGSO=1.2e-15   CGSL=0       CGDO=8.0e-12
++ CGDL=3.91e-10  CJ=0         CF=0   
++ CKAPPA=0.12    KT1=-1.88    KT2=0
++ UA1=-2.2e-9     NJ=10 )
+.ENDS
+*$
+*************** Power Discrete MOSFET Thermal Model ********************
+** Package: TO-220
+**----------------------------------------------------------------------
+.SUBCKT FQP3N30_THERMAL TH TL
+CTHERM1 TH 6 1.05e-5
+CTHERM2 6 5  8.75e-4
+CTHERM3 5 4  5.05e-3
+CTHERM4 4 3  7.60e-2
+CTHERM5 3 2  8.60e-2
+CTHERM6 2 TL 3.20e-1 
+RTHERM1 TH 6 8.20e-3
+RTHERM2 6 5  4.20e-2
+RTHERM3 5 4  3.55e-1
+RTHERM4 4 3  4.45e-1
+RTHERM5 3 2  5.60e-1
+RTHERM6 2 TL 8.60e-1
+.ENDS FQP3N30_THERMAL
+**---------------------------------------------------------------------
+** Creation: Jul.-23-2014   Rev.:1.0
+** Fairchild Semiconductor
