@@ -29,7 +29,7 @@ Construction, discussion and support at https://www.diyaudio.com/forums/solid-st
 <br>
 <br>
 Q17-Mini v1.1.4 (95x75mm)<br>
-![Q17-Mini-3D](https://user-images.githubusercontent.com/12907102/151620614-491a5f7f-6bb6-430d-a37e-862c95d8c4fb.jpg)<br>
+![Q17-Mini-3D](https://user-images.githubusercontent.com/12907102/151772760-57d99d75-0609-485c-9208-7d1132bb87c5.jpg)<br>
 <br>
 ![image](https://user-images.githubusercontent.com/12907102/150978748-c02e1b98-ff5a-43fb-ad50-7cf63253419d.jpg)<br>
 <br>
