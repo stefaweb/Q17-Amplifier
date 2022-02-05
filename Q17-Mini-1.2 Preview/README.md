@@ -6,4 +6,4 @@ PCB and component values can change and the published version is not yet tested.
 <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/12907102/152633919-63b04153-3855-4910-be5f-a3d6d8973c05.jpg)
+![image](https://user-images.githubusercontent.com/12907102/152646972-3b968ca2-9a5b-422c-a7ab-54e9787f3e0c.jpg)
