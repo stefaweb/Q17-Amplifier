@@ -11,7 +11,7 @@ PCB and component values can change. The published version is not yet tested.<br
 - Q7 and its resistors moved to a better location.
 - New gate stopper resistor R40/R41 for Q1 and Q4.
 - R32 moved to a better location.
-- New C7 footprint can fit Wima MKP2 and MKS2 (5mm and 7.5mm pitch).
+- New C7 footprint can fit Wima MKP2, FKP2 and MKS2 (5mm and 7.5mm pitch).
 - C17 now can fit Wilma FKP3 and MKP10.
 - New C20 can fit Wima FKP2, Vishay MKT and CDE Mica.
 - New design for 70% of tracks. Removed all the signal VIAS (there were eight).
