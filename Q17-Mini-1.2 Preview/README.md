@@ -22,3 +22,4 @@ PCB and component values can change. The published version is not yet tested.<br
 
 ![image](https://user-images.githubusercontent.com/12907102/152672963-7b05a3fe-1269-4dcd-827b-60db3117525c.jpg)
 
+![Q17-Mini-3D-BACK](https://user-images.githubusercontent.com/12907102/152696835-5da288de-b315-4a33-8d55-64a92f47056f.jpg)
