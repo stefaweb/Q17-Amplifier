@@ -2,10 +2,10 @@
 <br>
 Project under developpment.<br>
 <br>
-PCB and component values can change and the published version is not yet tested.<br>
+PCB and component values can change. The published version is not yet tested.<br>
 <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/12907102/152643058-7b31dbf4-cba5-4d39-a88a-b6f636ea6cb6.jpg)
+![image](https://user-images.githubusercontent.com/12907102/152680422-e72aff70-6d2b-4a80-b840-3a77d2962bb4.jpg)
 
 
