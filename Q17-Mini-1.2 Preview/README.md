@@ -14,7 +14,7 @@ PCB and component values can change. The published version is not yet tested.<br
 - New C7 footprint can fit Wima MKP2, FKP2 and MKS4 (5mm and 7.5mm pitch).
 - C17 now can fit Wilma FKP3 and MKP10.
 - New C20 can fit Wima FKP2, Vishay MKT and CDE Mica (5mm and 5.9mm pitch).
-- New design for 70% of tracks. Removed all the signal VIAS (there were eight).
+- New design for 70% of tracks. Removed all signal VIAS (there were eight).
 - Ground plane on both sides with ground VIAS.
 - Added some optional SMD footprints on the back side.
 - More silkscreen text on back side.
@@ -22,4 +22,3 @@ PCB and component values can change. The published version is not yet tested.<br
 
 ![image](https://user-images.githubusercontent.com/12907102/152672963-7b05a3fe-1269-4dcd-827b-60db3117525c.jpg)
 
-![Q17-Mini-3D-BACK](https://user-images.githubusercontent.com/12907102/152696835-5da288de-b315-4a33-8d55-64a92f47056f.jpg)
