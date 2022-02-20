@@ -20,5 +20,5 @@ PCB and component values can change. The published version is not yet tested.<br
 - More silkscreen text on back side.
 <br>
 
-![image](https://user-images.githubusercontent.com/12907102/153358769-bb3a8b81-22e7-4d92-916c-cb7e802cb0b0.jpg)
+![image](https://user-images.githubusercontent.com/12907102/154853169-013aaad7-6dc6-497d-8715-45626435f3e0.jpg)
 
