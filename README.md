@@ -20,7 +20,7 @@ The first version of the board was released on December 8, 2021.<br>
 <br>
 Version 1.2 published on March 6, 2022.<br>
 <br>
-all files located in Q17-Mini-1.2 directory:
+All files are located in Q17-Mini-1.2 directory:
 <br>
 Q17-Mini KiCad source - Q17-Mini amplifier KiCad source files.<br>
 Gerber-Q17-Mini-[version].zip - production gerber files for Q17-Mini amplifier.<br>
