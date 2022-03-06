@@ -33,5 +33,7 @@ Construction, discussion and support at https://www.diyaudio.com/forums/solid-st
 Q17-Mini v1.2 (95x75mm)<br>
 ![image](https://user-images.githubusercontent.com/12907102/156914581-eb2b2285-1c3a-460c-8708-52040e20877a.jpeg)<br>
 <br>
+![image](https://user-images.githubusercontent.com/12907102/156915434-58642332-dc99-4449-a361-997891cd24c9.jpeg)<br>
+<br>
 ![image](https://user-images.githubusercontent.com/12907102/156914620-0e02b7a8-e572-40bb-a0e0-c0ce531bf0a0.jpg)<br>
 <br>
