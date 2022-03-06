@@ -22,7 +22,7 @@ Version 1.2 published on March 6, 2022.<br>
 <br>
 All files are located in Q17-Mini-1.2 directory:
 <br>
-Q17-Mini KiCad source - Q17-Mini amplifier KiCad source files.<br>
+KiCad source - Q17-Mini amplifier KiCad source files.<br>
 Gerber-Q17-Mini-[version].zip - production gerber files for Q17-Mini amplifier.<br>
 Q17-Mini-schematic.pdf - schematic for Q17-Mini amplifier.<br>
 Q17-Mini-BOM.html - interactive BOM for Q17-Mini amplifier.<br>
