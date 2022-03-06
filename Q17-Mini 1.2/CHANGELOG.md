@@ -1,6 +1,6 @@
 # Changelog Q17-Mini
 
-Version [1.2](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/tree/5d390576078fdaf95bd449d5fe2e2c45a9edb5e6) (6-03-2022)
+Version [1.2](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/tree/7d0eb2a82df7957a3cc7fdba6ccee02e4100f6d2) (6-03-2022)
 
 - New LPF (R33/C20/R22) at input to protect op-amp.
 - L1 coil is now positioned vertically and have more space around.
