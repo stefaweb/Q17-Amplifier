@@ -9,6 +9,7 @@ Q17.pdf - detailed presentation - bill of materials included<br>
 Q17.7z - ngspice simulation files for Q17. This will run directly in KiCad. Thank you, Holger Vogt !
 gerber-ps.zip - production gerber for PCB active rectification power supply<br>
 GerberQ17.zip - production gerber for Q17 amplifier<br>
+GerberQ17_2f.zip - production gerber files for Q17 with dual output stage<br>
 
 ![image](https://user-images.githubusercontent.com/22703498/159252259-ddfc39c3-7433-49f7-a285-d0a09331d218.png)
 
