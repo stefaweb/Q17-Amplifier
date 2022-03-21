@@ -9,6 +9,6 @@ Q17.pdf - detailed presentation - bill of materials included<br>
 gerber-ps.zip - production gerber for PCB active rectification power supply<br>
 GerberQ17.zip - production gerber for Q17 amplifier<br>
 
-![image](https://user-images.githubusercontent.com/22703498/129330605-c93fc8af-65c4-4e56-8a2d-c02d22d79e27.png)<br>
+![image](https://user-images.githubusercontent.com/22703498/159252259-ddfc39c3-7433-49f7-a285-d0a09331d218.png)
 
 Construction, discussion and support @ https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
