@@ -3,21 +3,6 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1561.61">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 14.0px; font: 12.0px Helvetica; color: #000000; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Helvetica; color: #000000; -webkit-text-stroke: #000000}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Helvetica; color: #0000ee}
-    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Helvetica; color: #000000}
-    span.s1 {text-decoration: underline ; font-kerning: none}
-    span.s2 {font-kerning: none}
-    span.s3 {font-kerning: none; color: #000000}
-    span.s4 {text-decoration: underline ; font-kerning: none; color: #0000ee}
-    span.s5 {text-decoration: underline ; font-kerning: none; color: #0000ee; -webkit-text-stroke: 0px #000000}
-    span.s6 {font-kerning: none; -webkit-text-stroke: 0px #000000}
-  </style>
 </head>
 <body>
 <p class="p1"><span class="s1"><b>PS BOM</b></span></p>
