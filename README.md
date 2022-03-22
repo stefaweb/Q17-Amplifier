@@ -7,7 +7,7 @@ KiCad source PS - active rectification power supply KiCad source files<br>
 KiCad source - Q17 amplifier KiCad source files<br>
 Q17_2final - Q17 amplifier KiCad source files for dual output stage<br>
 Q17.pdf - detailed presentation - bill of materials included<br>
-Q17.7z - ngspice simulation files for Q17. This will run directly in KiCad. Thank you, Holger Vogt !
+Q17.7z - ngspice simulation files for Q17. This will run directly in KiCad. Thank you, Holger Vogt !<br>
 gerber-ps.zip - production gerber for PCB active rectification power supply<br>
 GerberQ17.zip - production gerber for Q17 amplifier<br>
 GerberQ17_2f.zip - production gerber files for Q17 with dual output stage<br>
