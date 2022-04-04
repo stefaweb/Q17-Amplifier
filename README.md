@@ -14,5 +14,5 @@ Use KiCad 6 or later to open and edit source files.  KiCad 6 can be downloaded f
 
 ![image](https://user-images.githubusercontent.com/22703498/159252259-ddfc39c3-7433-49f7-a285-d0a09331d218.png)
 
-Construction, discussion and support @ https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
+Construction, discussion and support @ https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html<br>
 You can suport this project by using synchronous rectifiers developed by <a href="https://evotronix.eu">evotronix.eu</a>. Thank you !
