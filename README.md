@@ -16,4 +16,4 @@ Use KiCad 6 or later to open and edit source files.  KiCad 6 can be downloaded f
 
 Construction, discussion and support @ https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
 
-Order your Q17 with dual output pair PCB @ https://www.pcbway.com/project/shareproject/Q17__a_QUAD405_audiophile_approach.html
+Click & Order your Q17 with dual output pair PCB @ https://www.pcbway.com/project/shareproject/Q17__a_QUAD405_audiophile_approach.html
