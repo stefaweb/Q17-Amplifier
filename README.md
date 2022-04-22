@@ -10,8 +10,10 @@ Use KiCad 6 or later to open and edit source files.  KiCad 6 can be downloaded f
 <b>Q17.7z</b> - ngspice simulation files for Q17. This will run directly in KiCad. Thank you, Holger Vogt !<br>
 <b>gerber-ps.zip</b> - production gerber for PCB active rectification power supply<br>
 <b>GerberQ17.zip</b> - production gerber for Q17 amplifier<br>
-<b>GerberQ17_2f.zip</b> - production gerber files for Q17 with dual output stage<br>
+<b>GerberQ17_2f.zip</b> - production gerber files for Q17 with dual output pair stage<br>
 
 ![image](https://user-images.githubusercontent.com/22703498/159252259-ddfc39c3-7433-49f7-a285-d0a09331d218.png)
 
 Construction, discussion and support @ https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
+
+Order your Q17 with dual output pair PCB @ https://www.pcbway.com/project/shareproject/Q17__a_QUAD405_audiophile_approach.html
