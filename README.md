@@ -35,5 +35,5 @@ Q17-Mini v1.2 (95x75mm)<br>
 <br>
 ![image](https://user-images.githubusercontent.com/12907102/156915434-58642332-dc99-4449-a361-997891cd24c9.jpeg)<br>
 <br>
-![image](https://user-images.githubusercontent.com/12907102/156914620-0e02b7a8-e572-40bb-a0e0-c0ce531bf0a0.jpg)<br>
+![image](https://user-images.githubusercontent.com/12907102/167800277-04984375-07fc-49c2-bd78-b15565efb3e2.jpg)<br>
 <br>
