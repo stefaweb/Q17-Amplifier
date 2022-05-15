@@ -14,11 +14,12 @@ Use KiCad 6 or later to open and edit source files.  KiCad 6 can be downloaded f
 
 ![image](https://user-images.githubusercontent.com/22703498/159252259-ddfc39c3-7433-49f7-a285-d0a09331d218.png)
 <br>
+<br>
 Construction, discussion and support @ https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html<br>
 <br>
 Click & Order your Q17 with dual output pair PCB @ https://www.pcbway.com/project/shareproject/Q17__a_QUAD405_audiophile_approach.html<br>
 <br>
-<u><b>Q&A colled from diyaudio forum and mail</b></u><br>
+<b><u>Q&A colled from diyaudio forum and mail</u></b><br>
 Q: Why no dc blocking input capacitor?<br>
 A: Q17 first stage make use of an operational that have a C7=1uF capacitor in negative reaction . <br>
 This already make a dc block and we have a non polar capacitor C2&C22 in dc servo as well.<br>
