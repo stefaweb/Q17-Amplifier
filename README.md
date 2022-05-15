@@ -108,4 +108,4 @@ A: A well executed Q17 will be better or at least on pair with some 25.000$ ampl
 <br>
 <br>
 Q: May I have an amplifier based on Q17 made by you ?<br>
-A:  Yes, you can. <a href="mailto:tiberiu_vicol@hotmail.com">Mail me</a> and I’ll make a custom one just for you.<br>
+A:  Yes, you can. <a href="mailto:tiberiu_vicol@hotmail.com?subject = Q17 amplifier offer">Mail me</a> and I’ll make a custom one just for you.<br>
