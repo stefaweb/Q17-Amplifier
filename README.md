@@ -19,7 +19,9 @@ Construction, discussion and support @ https://www.diyaudio.com/forums/solid-sta
 <br>
 Click & Order your Q17 with dual output pair PCB @ https://www.pcbway.com/project/shareproject/Q17__a_QUAD405_audiophile_approach.html<br>
 <br>
-<b><u>Q&A colled from diyaudio forum and mail</u></b><br>
+<br>
+<b>Q&A colled from diyaudio forum and mail</b><br>
+<br>
 Q: Why no dc blocking input capacitor?<br>
 A: Q17 first stage make use of an operational that have a C7=1uF capacitor in negative reaction . <br>
 This already make a dc block and we have a non polar capacitor C2&C22 in dc servo as well.<br>
