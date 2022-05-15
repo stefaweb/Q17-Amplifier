@@ -20,16 +20,16 @@ Construction, discussion and support @ https://www.diyaudio.com/forums/solid-sta
 Click & Order your Q17 with dual output pair PCB @ https://www.pcbway.com/project/shareproject/Q17__a_QUAD405_audiophile_approach.html<br>
 <br>
 <br>
-<b>Q&A colled from diyaudio forum and mail</b><br>
+<b>Q&A collected from diyaudio forum and mail</b><br>
 <br>
 Q: Why no dc blocking input capacitor?<br>
-A: Q17 first stage make use of an operational that have a C7=1uF capacitor in negative reaction . <br>
+A: <i>Q17 first stage make use of an operational that have a C7=1uF capacitor in negative reaction . <br>
 This already make a dc block and we have a non polar capacitor C2&C22 in dc servo as well.<br>
-On other hand, If there is any dc at amplifier input you should look on your source and solved it. Do not try to “solve” previous stage problem by playing safe at the amplifier input.<br>
+On other hand, If there is any dc at amplifier input you should look on your source and solved it. Do not try to “solve” previous stage problem by playing safe at the amplifier input.</i><br>
 <br>
 <br>
 Q: Why no voltage/ESD input protection ?<br>
-A voltage/ESD can be made by using zener or reverse polarised diodes. The issue with this approach is that any reverse polarised p/n junction (diode etc) will have high parasitic capacitance modulated by voltage. This highly degrade amplifier performance. How to work around this ? Use a good Volume Controller as Maya by Vicol-Audio.<br>
+A: A voltage/ESD can be made by using zener or reverse polarised diodes. The issue with this approach is that any reverse polarised p/n junction (diode etc) will have high parasitic capacitance modulated by voltage. This highly degrade amplifier performance. How to work around this ? Use a good Volume Controller as Maya by Vicol-Audio.<br>
 <br>
 <br>
 Q: Any amplifier need input LPF, otherwise EMI will affect SNR.  Q17 do not have one, therefore it is poorly designed. Why Q17 do not have input LPF?<br>
