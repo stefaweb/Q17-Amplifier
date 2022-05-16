@@ -115,4 +115,6 @@ If you enjoy this project, you may offer to me a cup of coffee. :-) <br>
 <br>
 https://www.paypal.com/donate/?hosted_button_id=7K8RP22HP5UBA
 <br>
+or scan with your phone
+<br>
 ![QR Code](https://user-images.githubusercontent.com/22703498/168473006-614d0b84-c3e2-4b54-8bb3-428a1676abe5.png)
