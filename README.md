@@ -111,6 +111,8 @@ Q: May I have an amplifier based on Q17 made by you ?<br>
 A: <i>Yes, you can. <a href="mailto:tiberiu_vicol@hotmail.com?Subject=Q17 amplifier offer">Mail me</a> and I’ll make a custom one just for you.</i><br>
 <br>
 <br>
-If you enjoy this project, you may offer to me a cup of coffee by scanning below QR code.<br>
+If you enjoy this project, you may offer to me a cup of coffee. :-) <br>
+<br>
+https://www.paypal.com/donate/?hosted_button_id=7K8RP22HP5UBA
 <br>
 ![QR Code](https://user-images.githubusercontent.com/22703498/168473006-614d0b84-c3e2-4b54-8bb3-428a1676abe5.png)
