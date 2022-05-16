@@ -25,23 +25,23 @@ Click & Order your Q17 with dual output pair PCB @ https://www.pcbway.com/projec
 Q: Why no dc blocking input capacitor?<br>
 A: <i>Q17 first stage make use of an operational that have a C7=1uF capacitor in negative reaction . <br>
 This already make a dc block and we have a non polar capacitor C2&C22 in dc servo as well.<br>
-On other hand, If there is any dc at amplifier input you should look on your source and solved it. Do not try to “solve” previous stage problem by playing safe at the amplifier input.</i><br>
+On other hand, If there is any dc at amplifier input, you should look on your source and solved it. Do not try to “solve” previous stage problems by playing safe at the amplifier input.</i><br>
 <br>
 <br>
 Q: Why no voltage/ESD input protection ?<br>
-A: <i>A voltage/ESD can be made by using zener or reverse polarised diodes. The issue with this approach is that any reverse polarised p/n junction (diode etc) will have high parasitic capacitance modulated by voltage. This highly degrade amplifier performance. How to work around this ? Use a good Volume Controller as Maya by Vicol-Audio.</i><br>
+A: <i>A voltage/ESD can be made by using zener or reverse polarised diodes. The issue with this approach is that any reverse polarised p/n junction (diode etc) will have high parasitic capacitance modulated by voltage. This highly degrade amplifier performance. How to work around this ? Use a good Volume Controller (as Maya by Vicol-Audio).</i><br>
 <br>
 <br>
 Q: Any amplifier need input LPF, otherwise EMI will affect SNR.  Q17 do not have one, therefore it is poorly designed. Why Q17 do not have input LPF?<br>
 A: <i>People like to generalise. The world is not black and white.<br>
-An LPF must be designed such way that will not be affected by input impedance. This is not the case with a potentiometer. Does not matter how good this potentiometer is, his attenuation will affect LPF.<br>
-The classic way on how a potentiometer is implemented is that he offer constant input impedance and variable output impedance toward amplifier input. The down side is that, even you go for a high input impedance, at low audio levels input LPF is highly degraded.  with very low frequency transfer affecting amplifier bandwidth. This is translated in poor audio performance at low audio levels.<br>
+An LPF must be designed such way that will not be affected by input impedance. This is not the case with a potentiometer. Does not matter how good this potentiometer is, his attenuation will affect LPF and therefore amplifier bandwidth at low level volume.<br>
+The classic way on how a potentiometer is implemented is that he offer constant input impedance and variable output impedance toward amplifier input. The down side is that, even you go for a high input impedance, at low audio levels input LPF will reach audio band affecting amplifier bandwidth. This is translated in poor audio performance at low audio levels.<br>
 This issue was address in Vicol-Audio Maya volume controller that make use of an R-2R resistive network allowing constant output impedance with high input variable impedance.<br>
 Beside this, input cable parasitic capacitance together with high amplifier impedance is enough to form a HF-LPF. Output operational LPF at ~125KHz will clean any noise further.</i><br>
 <br>
 <br>
 Q: Why there is no super diode ?<br>
-A: <i>A super diode is usually made with a BJT, where his Vbe variation with temperatures is used to adjust output stage bias. Unfortunately this is highly nonlinear and will modulate, with Vce voltage, output stage bias. While is very efficient, will highly degrade audio performance. I prefer to have plain and simple resistors, with no capacitor decoupling, between output mosfet gates.</i><br>
+A: <i>A super diode is usually made with a BJT, where his Vbe variation with temperatures is used to adjust output stage bias. Unfortunately this is highly nonlinear and will modulate, with Vcb voltage (again reverse polarised p/n junction), output stage bias. While is very efficient, will highly degrade audio performance. I prefer to have plain and simple resistors, with no capacitor decoupling, between output mosfet gates.</i><br>
 <br>
 <br>
 Q: What about transitory power ON ? <br>
@@ -85,6 +85,10 @@ Simplest protection would be to use a fast fuse (3A-5A) at amplifier output.</i>
 <br>
 Q: How much capacitance I may put in power supply ?<br>
 A: <i>This is related to your power transformer. A huge capacitance must be charged to be efficient.  For a transformer with 3A in secondary, I would say 20mF per rail is enough.</i><br>
+<br>
+<br>
+Q: Is there any sound difference between a normal bridge and your Saligny synchronous rectifiers ?<br>
+A: Yes, it is and improvment is very important. You may compare yourself.
 <br>
 <br>
 Q: It is Q17 quiet ?<br>
