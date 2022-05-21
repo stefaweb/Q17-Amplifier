@@ -78,8 +78,14 @@ In some particular cases adding an output inductor may be needed, but these are 
 To be short, Q17 with no coil sound better.</i><br>
 <br>
 <br>
+Q: May I use Lateral MOSFET's in ouput stage ?
+A: <i>No, you do not. Lateral mosfet transistor's have different piout than Vertical mosfet.<br>
+  Q17 PCB was designed for Vertical mosfet, therfore PCB need to be redesigned to accomodate Lateral's, for both Class A and output Class B stage.
+  Laterals gave lover Vgsth than Verticals, therfore for laterals, R11 and R12 must be between 9,1 and 10 ohm.</i><br>
+<br>
+<br>
 Q: Why you improved 405 and not 909 ?<br>
-A: <i>QUAD405 was a revolutionary amplifier. This not happen very often. It had his flaws, but these where merely due the parts available at the time. LM301 was one of the biggest issues.<br>
+A: <i>QUAD405 was a revolutionary amplifier. This not happen very often. It had his flaws, but these where merely due the parts available at the time.  LM301 was one of the biggest issues.<br>
 Using my topology 909 can be also improved as well. Maybe, some day …</i><br>
 <br>
 <br>
