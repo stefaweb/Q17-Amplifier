@@ -124,10 +124,6 @@ Q: Where you you place this amplifier in term of value ?<br>
 A: <i>A well executed Q17 will be better or at least on pair with some $5 digit$ amplifiers.</i><br>
 <br>
 <br>
-Q: May I have an amplifier based on Q17 made by you ?<br>
-A: <i>Yes, you can. <a href="mailto:tiberiu_vicol@hotmail.com?Subject=Q17 amplifier offer">Mail me</a> and I’ll make a custom one just for you.</i><br>
-<br>
-<br>
 If you enjoy this project, you may offer to me a cup of coffee. :-) <br>
 <br>
 https://www.paypal.com/donate/?hosted_button_id=7K8RP22HP5UBA
