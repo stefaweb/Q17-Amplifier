@@ -121,7 +121,7 @@ A: <i>Yes, it is. Thanks to class B operation and Saligny synchronous rectificat
 <br>
 <br>
 Q: Where you you place this amplifier in term of value ?<br>
-A: <i>A well executed Q17 will be better or at least on pair with some $5 digit$ amplifiers.</i><br>
+A: <i>A well executed Q17 will be better or at least on pair with some $5 digit amplifiers.</i><br>
 <br>
 <br>
 If you enjoy this project, you may offer to me a cup of coffee. :-) <br>
