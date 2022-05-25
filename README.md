@@ -108,6 +108,10 @@ Q: It is Q17 quiet ?<br>
 A: <i>Yes it is. No fass no buzz.</i><br>
 <br>
 <br>
+Q: May you recommend a transformer ?<br>
+A: <i>Any well made 300VA transformer, with 2 secondaries at 36Vac .</i><br>
+<br>
+<br>
 Q: Can Q17 drive ESL speakers ?<br>
 A: <i>Yes, will drive ESL speakers very well. Thanks to high transconductance mosfet’s will offer excellent performance.</i><br>
 <br>
