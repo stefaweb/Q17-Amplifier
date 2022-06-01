@@ -52,7 +52,7 @@ Q: Why there is no super diode ?<br>
 A: <i>A super diode is usually made with a BJT, where his Vbe variation with temperatures is used to adjust output stage bias. Unfortunately this is highly nonlinear and will modulate, with Vcb voltage (again reverse polarised p/n junction), output stage bias. While is very efficient, will highly degrade audio performance. I prefer to have plain and simple resistors, with no capacitor decoupling, between output mosfet gates.</i><br>
 <br>
 <br>
-Q: What about transitory power ON ? <br>
+Q: What about transitory power ON/OFF ? <br>
 A: <i>For this there are Q13&Q14. These have double role.<br>
 One is to ensure soft start using RC made with R29C13 and R30C14. <br>
 This can be seen at amplifier turn on, D1 & D4 will light after ~1s.<br>
