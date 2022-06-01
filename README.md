@@ -54,7 +54,7 @@ A: <i>A super diode is usually made with a BJT, where his Vbe variation with tem
 <br>
 Q: What about transitory power ON/OFF ? <br>
 A: <i>For this there are Q13&Q14. These have double role.<br>
-One is to ensure soft start using RC made with R29C13 and R30C14. <br>
+One is to ensure soft start and soft power off using RC made with R29C13 and R30C14. <br>
 This can be seen at amplifier turn on, D1 & D4 will light after ~1s.<br>
 Second role for Q13&Q14 is to act as super-capacitors, ensuring smooth power supply for class A and input stage.</i><br>
 <br>
