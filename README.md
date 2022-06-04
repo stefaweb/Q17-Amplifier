@@ -49,7 +49,7 @@ Beside this, input cable parasitic capacitance together with high amplifier impe
 <br>
 <br>
 Q: Could you please recommend me a potentiometer ?<br>
-A: Please use a 50K log ALPS. 
+A: <i>Please use a 50K log ALPS.</i>
 <br>
 <br>
 Q: Why there is no super diode ?<br>
@@ -106,7 +106,7 @@ A: <i>This is related to your power transformer. A huge capacitance must be char
 <br>
 <br>
 Q: Is there any sound difference between a normal bridge and your Saligny synchronous rectifiers ?<br>
-A: Yes, it is and improvement is very important. You may compare yourself.
+A: <i>Yes, it is and improvement is very important. You may compare yourself.</i>
 <br>
 <br>
 Q: It is Q17 quiet ?<br>
