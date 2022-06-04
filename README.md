@@ -49,7 +49,7 @@ Beside this, input cable parasitic capacitance together with high amplifier impe
 <br>
 <br>
 Q: Could you please recommend me a potentiometer ?<br>
-A: <i>Please use a 50K log ALPS.</i>
+A: <i>Best attenuator will be a R-2R one with constant output impedance. If you want to go cheap please use a 50K log ALPS.</i>
 <br>
 <br>
 Q: Why there is no super diode ?<br>
