@@ -106,15 +106,15 @@ A: <i>This is related to your power transformer. A huge capacitance must be char
 <br>
 <br>
 Q: Is there any sound difference between a normal bridge and your Saligny synchronous rectifiers ?<br>
-A: <i>Yes, it is and improvement is very important. You may compare yourself.</i>
+A: <i>Yes, it is and sonic improvement is very important. You may compare yourself.</i>
 <br>
 <br>
 Q: It is Q17 quiet ?<br>
-A: <i>Yes it is. No fass no buzz.</i><br>
+A: <i>Yes it is. No fass no buzz, even with high SPL speakers >95dBm.</i><br>
 <br>
 <br>
 Q: May you recommend a transformer ?<br>
-A: <i>Any well made 300VA transformer, with 2 secondaries at 36Vac .</i><br>
+A: <i>Any well made 300VA transformer, with 2 separate secondaries at min.36Vac - max.42Vac.</i><br>
 <br>
 <br>
 Q: Can Q17 drive ESL speakers ?<br>
