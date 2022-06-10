@@ -44,7 +44,7 @@ Q: Any amplifier need input LPF, otherwise EMI will affect SNR.  Q17 do not have
 A: <i>People like to generalise. The world is not black and white.<br>
 An LPF must be designed such way that will not be affected by input impedance. This is not the case with a potentiometer. Does not matter how good this potentiometer is, his attenuation will affect LPF and therefore amplifier bandwidth at low level volume.<br>
 The classic way on how a potentiometer is implemented is that he offer constant input impedance and variable output impedance toward amplifier input. The down side is that, even you go for a high input impedance, at low audio levels input LPF will reach audio band affecting amplifier bandwidth. This is translated in poor audio performance at low audio levels.<br>
-This issue was address in Vicol-Audio Maya volume controller that make use of an R-2R resistive network allowing constant output impedance with high input variable impedance.<br>
+This issue was addressed in <a href="https://www.diyaudio.com/community/threads/maya-r2r-advanced-volume-controller.289544/">Maya volume</a> controller that make use of an R-2R resistive network allowing constant output impedance with high input variable impedance.<br>
 Beside this, input cable parasitic capacitance together with high amplifier impedance is enough to form a HF-LPF. Output operational LPF at ~125KHz will clean any noise further.</i><br>
 <br>
 <br>
