@@ -1,4 +1,4 @@
-# Q17-P2 Project</b><br>
+# Q17-P2 Project (200W @ 8 Ohms):</b><br>
 <br>
 Project under developpment.<br>
 <br>
