@@ -17,7 +17,7 @@ Gerber-Q17-Mini-[version].zip - production gerber files for Q17-Mini amplifier.<
 Q17-Mini-schematic.pdf - schematic for Q17-Mini amplifier.<br>
 Q17-Mini-BOM.html - interactive BOM for Q17-Mini amplifier.<br>
 <br>
-Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
+Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html<br>
 <br>
 You can very simply manufacture your PCB via the JLCPCB company (https://jlcpcb.com). You can also contact me, from time to time I have some spare copies of the Q17 PCBs that can be sold to you at cost price.<br>
 <br>
