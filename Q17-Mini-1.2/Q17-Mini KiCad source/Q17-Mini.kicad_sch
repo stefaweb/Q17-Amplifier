@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "Q17-Mini Amplifier")
-    (date "2022-03-06")
-    (rev "1.3")
+    (title "Q17-Mini 1.2 serie Amplifier")
+    (date "2022-07-22")
+    (rev "1.3.3")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
     (comment 4 "Q17 a QUAD405 audiophile approach")
@@ -2601,7 +2601,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 03127014-adb5-47d1-9ab5-5ada0b771eb7)
   )
-  (text "C3, C5 : ELna Silmic II 100uF 16v" (at 59.69 179.07 0)
+  (text "C3, C6 : ELna Silmic II 100uF 16v" (at 59.69 179.07 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 035aefe0-7417-4380-8cad-ff04e2942bb6)
   )
@@ -2783,7 +2783,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bd0e19f1-b0df-41ca-88df-44a3392add4f)
   )
-  (text "Q15 : FQA46N15 or IRF610" (at 13.97 194.31 0)
+  (text "Q15 : FQA46N15" (at 13.97 194.31 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c29d2758-3c2b-4fa1-add5-6f61cf15874d)
   )
@@ -2795,7 +2795,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cfeddde5-810a-44f4-b22e-b69bd1c555d1)
   )
-  (text "C17 : 1uF MKP capacitor FKP3C031004C00JSSD or MKP1F031004B00KI00."
+  (text "C17 : 100nF MKP capacitor FKP3C031004C00JSSD or MKP1F031004B00KI00."
     (at 96.52 189.23 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d2ef8e6a-4cfd-4455-9e5d-aa245262921a)
@@ -2828,7 +2828,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fde990cb-bef7-4857-b479-4a747f3020bc)
   )
-  (text "Q16 : FQA36P15 or IRF9610" (at 13.97 196.85 0)
+  (text "Q16 : FQA36P15" (at 13.97 196.85 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fe85939c-fb8b-4d89-ac82-bafa18b07f91)
   )
@@ -4401,7 +4401,7 @@
     (in_bom yes) (on_board yes)
     (uuid bd791790-787e-4e23-9dad-9c957ce708c4)
     (property "Reference" "R22" (id 0) (at 55.88 71.12 90))
-    (property "Value" "100" (id 1) (at 55.88 76.2 90))
+    (property "Value" "STRAP" (id 1) (at 55.88 76.2 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 55.88 75.438 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5256,7 +5256,7 @@
       (reference "R21") (unit 1) (value "5k6/1W") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/bd791790-787e-4e23-9dad-9c957ce708c4"
-      (reference "R22") (unit 1) (value "100") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R22") (unit 1) (value "STRAP") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/ee7cc794-8b46-4e6d-a64c-3ff4ac2fc69d"
       (reference "R23") (unit 1) (value "8k2") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
