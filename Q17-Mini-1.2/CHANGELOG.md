@@ -3,6 +3,7 @@
 Version [1.2](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/tree/8caf9e90742d23102cca4e3eea3342eca072945a) (6-03-2022)
 
 - New LPF (R33/C20/R22) at input to protect op-amp.
+- DC offset at output is now only 3mV.
 - L1 coil is now positioned vertically and have more space around.
 - Q7 and its resistors moved to a better location.
 - New gate stopper resistor R40/R41 for Q1 and Q4.
