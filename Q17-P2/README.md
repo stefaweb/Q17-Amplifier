@@ -8,7 +8,7 @@ PCB and component values can change. The published version is not yet tested.<br
 
 ![Q17-P2-3D](https://user-images.githubusercontent.com/12907102/179707541-bac6c37e-fe64-4930-8a98-2ce286c595ce.jpg)
 
-![Q17-P2-schematic](https://user-images.githubusercontent.com/12907102/180846999-5fd7ff30-701f-4dbe-92b6-6afe216ccb64.jpg)
+![Q17-P2-schematic](https://user-images.githubusercontent.com/12907102/180847503-32158dcf-58c1-4cd2-9cfa-dcf1f307e09b.jpg)
 
 ![Q17-P2-1 0_PCB](https://user-images.githubusercontent.com/12907102/180764246-f5e9c71b-2160-4776-9e4e-c2501b800dce.jpg)
 
