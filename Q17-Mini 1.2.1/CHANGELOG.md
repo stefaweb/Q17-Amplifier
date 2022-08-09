@@ -3,6 +3,8 @@
 Version [1.2.1](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/commit/456ffc7acf59e57d9d41dd395f540736a68c17e3) (9-08-2022)
 
 - Removed R22 at opamp input.
+- Moved R7 close to Q5.
+- Moved R8 close to Q6.
 - Changed R40 and R41 to 100 Ohms.
 - Changed C29 and C30 to 15nF (optional).
 - More silkscreen text on front and back side.
