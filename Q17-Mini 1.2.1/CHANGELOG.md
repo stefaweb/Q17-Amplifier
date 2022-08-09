@@ -1,6 +1,6 @@
 # Changelog Q17-Mini
 
-Version [1.2.1](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/commit/ae1a9c403508a2dcad047a7455b011b33fa0e154) (9-08-2022)
+Version [1.2.1](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/commit/6671ab5b4a45497aaad0a56b8615fdbb069a5a3f) (9-08-2022)
 
 - Removed R22 at opamp input.
 - Changed R40 and R41 to 100 Ohms.
