@@ -1,0 +1,42 @@
+***********************************************************
+*
+* MMBZ18VAL
+*
+* Nexperia
+*
+* Low capacitance unidirectional double ESD protection diodes
+* VRWM = 14,5V
+* Cd   = 90pF @ f = 1MHz, VR = 0V
+* IRM  = 5nA  @ VR = 14,5V
+* 
+* 
+*
+*
+* Package pinning does not match Spice model pinning.
+* Package: SOT23
+* 
+* Package Pin 1: Cathode D1
+* Package Pin 2: Cathode D2
+* Package Pin 3: Common Anode
+*
+*
+* Extraction date (week/year): #
+* Simulator: SPICE2
+*
+***********************************************************
+*
+* Please note: This device is an array and the
+* symbol has to be placed twice on the schematic.
+*
+.MODEL MMBZ18VAL  D 
++ IS = 3.566E-14 
++ N = 1.131 
++ BV = 17.94 
++ IBV = 0.001 
++ RS = 0.1756 
++ CJO = 6.806E-11 
++ VJ = 0.6566 
++ M = 0.3373 
++ FC = 0.5 
+.ENDS
+*
