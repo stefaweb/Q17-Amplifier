@@ -8,9 +8,9 @@ Use KiCad 6.0 or later to open and edit source files. KiCad 6.0 can be <a href="
 <br>
 The first version of the board was released on December 8, 2021.<br>
 <br>
-Version 1.2 published on March 6, 2022.<br>
+Version 1.2.1 published on August 9, 2022.<br>
 <br>
-All files are located in Q17-Mini-1.2 directory:<br>
+All files are located in Q17-Mini-1.2.1 directory:<br>
 
 Q17-Mini KiCad source - Q17-Mini amplifier KiCad source files.<br>
 Gerber-Q17-Mini-[version].zip - production gerber files for Q17-Mini amplifier.<br>
