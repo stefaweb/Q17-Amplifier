@@ -21,7 +21,7 @@ Measures Q17 1.2 - Various test curves.<br>
 <br>
 Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html<br>
 <br>
-You can very simply manufacture your PCB via the JLCPCB company (https://jlcpcb.com) using the Gerber files available on this repository. You can also contact me, from time to time I have some spare copies of the Q17 PCBs that can be sold to you at cost price.<br>
+You can very simply manufacture your PCB via the JLCPCB company (https://jlcpcb.com) or PCBWay company (https://www.pcbway.com) using the Gerber files available on this repository. You can also contact me, from time to time I have some spare copies of the Q17 PCBs that can be sold to you at cost price.<br>
 <br>
 Q17-Mini v1.2 (95x75mm)<br>
 ![image](https://user-images.githubusercontent.com/12907102/156914581-eb2b2285-1c3a-460c-8708-52040e20877a.jpeg)<br>
