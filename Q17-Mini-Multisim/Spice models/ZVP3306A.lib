@@ -1,0 +1,18 @@
+*ZETEX ZVP3306A Spice Model v1.1 Last Revised 3/5/00
+    *
+    .SUBCKT ZVP3306A 3 4 5
+    *                D G S
+    M1 3 2 5 5 P3306M
+    RG 4 2 252
+    RL 3 5 1.2E8
+    C1 2 5 28E-12
+    C2 3 2 3E-12
+    D1 3 5 P3306D
+    *
+    .MODEL P3306M PMOS VTO=-2.875 RS=5.227 RD=7.524 IS=1E-15 KP=.145
+    +CBD=35E-12 PB=1 LAMBDA=6.67E-3
+    .MODEL P3306D D IS=5E-12 RS=.768
+    .ENDS ZVP3306A
+    *
+    *$
+    *
