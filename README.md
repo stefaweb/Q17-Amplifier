@@ -30,6 +30,8 @@ Q17-Mini v1.2 (95x75mm)<br>
 <br>
 ![Q17-Mini-schematic](https://user-images.githubusercontent.com/12907102/186351330-a5c62f47-2f68-41bb-b08f-acedd41da5b0.jpg)<br>
 <br>
-![scan](https://user-images.githubusercontent.com/12907102/179400862-733cdbf7-8f28-49bc-bcd8-9133e9c3e1f4.jpg)
+![scan](https://user-images.githubusercontent.com/12907102/179400862-733cdbf7-8f28-49bc-bcd8-9133e9c3e1f4.jpg)<br>
+<br>
+![Q17-Mini_1 2_with_LPF_234KHz](https://user-images.githubusercontent.com/12907102/186506209-18e0d099-eb07-493e-ba2b-dae46f3ff7b3.jpg)<br>
 <br>
 <br>
