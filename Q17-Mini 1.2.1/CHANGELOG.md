@@ -5,6 +5,8 @@ Version [1.2.1](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/co
 - Removed R22 at opamp input.
 - Changed R40 and R41 to 100 Ohms.
 - Changed C29 and C30 to 15nF (optional).
+- Changed R29 and R30 to 10k.
+- R32 replaced by a strap.
 - More silkscreen text on front and back side.
 - Added component Part Number column in Q17-Mini-BOM.html.
 
