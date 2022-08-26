@@ -11,7 +11,9 @@ Version [1.3](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/comm
 - The holes in the PCB for C7 have been enlarged. You can now solder a larger high end capacitor to the back of the PCB.
 - More silkscreen text on front and back side.
 - Added component Part Number column in Q17-Mini-BOM.html.
-- DC offset at output is now only < 2mV.
+- DC offset at output is now < 2mV.
+- Added Q17-Mini-drilling.pdf to help to drill holes for power transistors.
+- Updated Q17-Mini-BOM.html.
 
 Version [1.2.1](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/commit/6671ab5b4a45497aaad0a56b8615fdbb069a5a3f) (9-08-2022)
 
