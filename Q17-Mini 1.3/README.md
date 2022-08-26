@@ -1,5 +1,11 @@
 # Q17-Mini version 1.3
 
+Published August 28 2022.
+
+![IMG_7109](https://user-images.githubusercontent.com/12907102/186898672-691eeb67-124e-4d3f-9562-f6174840f634.jpeg)<br>
+<br>
+![IMG_7112](https://user-images.githubusercontent.com/12907102/186898686-7c7fe441-9f08-4653-9cd6-0d0a1ff4ce7f.jpeg)<br>
+<br>
 ![Q17-Mini-3D](https://user-images.githubusercontent.com/12907102/186886996-d3bc09cb-5950-43d9-befd-7f4f50fa0994.jpg)<br>
 <br>
 ![Q17-Mini-schematic](https://user-images.githubusercontent.com/12907102/186887189-d32a1c2c-d8a3-43ec-8e05-fb22a0c7b52b.jpg)<br>
