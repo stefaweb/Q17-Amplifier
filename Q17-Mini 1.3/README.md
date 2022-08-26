@@ -1,6 +1,8 @@
 # Q17-Mini version 1.3
 
-Published August 28 2022.
+Published August 28, 2022.
+
+Read the CHANGLEOG file to know what's new.
 
 ![IMG_7109](https://user-images.githubusercontent.com/12907102/186898672-691eeb67-124e-4d3f-9562-f6174840f634.jpeg)<br>
 <br>
