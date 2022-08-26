@@ -4,9 +4,9 @@ Published August 28, 2022.
 
 Read the CHANGLEOG file to know what's new.
 
-![IMG_7109](https://user-images.githubusercontent.com/12907102/186898672-691eeb67-124e-4d3f-9562-f6174840f634.jpeg)<br>
+![IMG_7118](https://user-images.githubusercontent.com/12907102/186948998-16f83974-a6c5-4b83-8287-4aaafc3d73a8.jpeg)<br>
 <br>
-![IMG_7112](https://user-images.githubusercontent.com/12907102/186898686-7c7fe441-9f08-4653-9cd6-0d0a1ff4ce7f.jpeg)<br>
+![IMG_7119](https://user-images.githubusercontent.com/12907102/186949009-f9dca25a-3b77-4e79-b817-db886164d045.jpeg)<br>
 <br>
 ![Q17-Mini-3D](https://user-images.githubusercontent.com/12907102/186886996-d3bc09cb-5950-43d9-befd-7f4f50fa0994.jpg)<br>
 <br>
