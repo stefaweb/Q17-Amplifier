@@ -18,6 +18,8 @@ Read the CHANGLEOG file to know what's new.
 <br>
 ![Q17-Mini-PCB](https://user-images.githubusercontent.com/12907102/186887015-b0b0a7d2-3b07-41a8-adbc-ce6164e2dc82.jpg)<br>
 <br>
+95x75mm 2Oz PCB<br>
+<br>
 ![Q17-1 3-PCB-scan](https://user-images.githubusercontent.com/12907102/186886981-c5b678a8-5ec7-4ca9-a90e-ef85f9a3f41b.jpg)<br>
 <br>
 <br>
