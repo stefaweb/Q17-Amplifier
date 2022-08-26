@@ -1,6 +1,6 @@
 # Changelog Q17-Mini
 
-Version [1.3](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/tree/8caf9e90742d23102cca4e3eea3342eca072945a) (26-08-2022)
+Version [1.3](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/commit/e14c5743dc9d61eb0646178def298882dcf551b0) (26-08-2022)
 
 - Moved Q8, R1, R5, R23 and R25 to new location.
 - Moved R7 close to Q5.
