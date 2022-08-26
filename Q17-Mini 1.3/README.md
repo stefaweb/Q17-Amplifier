@@ -4,7 +4,7 @@ Published August 28, 2022.
 
 Read the CHANGLEOG file to know what's new.
 
-![IMG_7118](https://user-images.githubusercontent.com/12907102/186948998-16f83974-a6c5-4b83-8287-4aaafc3d73a8.jpeg)<br>
+![IMG_7121](https://user-images.githubusercontent.com/12907102/186954204-37dbab7d-af63-4a9b-8544-0cef246c1225.jpeg)<br>
 <br>
 ![IMG_7119](https://user-images.githubusercontent.com/12907102/186949009-f9dca25a-3b77-4e79-b817-db886164d045.jpeg)<br>
 <br>
