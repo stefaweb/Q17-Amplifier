@@ -22,4 +22,6 @@ Read the CHANGELOG file to know what's new.
 <br>
 ![Q17-1 3-PCB-scan](https://user-images.githubusercontent.com/12907102/186886981-c5b678a8-5ec7-4ca9-a90e-ef85f9a3f41b.jpg)<br>
 <br>
+![Q17-Mini-drilling](https://user-images.githubusercontent.com/12907102/187038259-b7b8eab1-6507-4e89-86a4-6568c50023a3.jpg)<br>
+<br>
 <br>
