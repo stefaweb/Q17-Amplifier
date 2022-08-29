@@ -8,7 +8,7 @@ Read the CHANGELOG file to know what's new.
 <br>
 ![IMG_7121](https://user-images.githubusercontent.com/12907102/186954204-37dbab7d-af63-4a9b-8544-0cef246c1225.jpeg)<br>
 <br>
-![Q17-Mini-schematic](https://user-images.githubusercontent.com/12907102/186929385-e6f6db7f-b975-4d39-86f8-c4347db2f371.jpg)<br>
+![Q17-Mini-schematic](https://user-images.githubusercontent.com/12907102/187150588-6c8c8443-59e7-4f67-8f26-ad1e7541670e.jpg)<br>
 <br>
 ![Q17-Mini-3D](https://user-images.githubusercontent.com/12907102/186886996-d3bc09cb-5950-43d9-befd-7f4f50fa0994.jpg)<br>
 <br>
