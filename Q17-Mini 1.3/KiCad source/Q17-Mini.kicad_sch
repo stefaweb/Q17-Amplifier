@@ -2720,7 +2720,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a59b0e6b-ff07-481b-8bb5-e33561454a53)
   )
-  (text "C1 : 470pF CDE CD15FD471JO3F or Polystyrene capacitor."
+  (text "C1 : 470pF CDE CD15FD471JO3F or polystyrene capacitor."
     (at 96.52 179.07 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid aaba5fef-847d-4feb-90ee-2cd49d390c0c)
@@ -2772,8 +2772,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cfeddde5-810a-44f4-b22e-b69bd1c555d1)
   )
-  (text "C10 : 47pF Mica CDE CD15ED470JO3 or Polystyrene capacitor."
-    (at 96.52 186.69 0)
+  (text "C10 : 47pF Mica CDE CD15ED470JO3 or ceramic NP0." (at 96.52 186.69 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d2106a61-8c33-4420-a82d-1c30fe7482b9)
   )
