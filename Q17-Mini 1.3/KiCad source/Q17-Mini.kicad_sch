@@ -6,7 +6,7 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2022-08-29")
+    (date "2022-08-31")
     (rev "1.3.8")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
@@ -2593,7 +2593,7 @@
     (uuid fca6078b-6329-4564-8d44-1b010bd4c1ce)
   )
 
-  (text "Remember to take off the resistors of 1W and more from the PCB when you solder them."
+  (text "Remember to take off the resistors of 1W and more from the PCB when you solder them (thermal)."
     (at 177.8 165.1 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0b89ec97-e529-4877-bce7-4048c770135a)
@@ -2606,16 +2606,17 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 18647f89-32ae-4dd9-82c7-200183d19eb6)
   )
-  (text "C2 : Non polar capacitor Nichicon Muse UES1A101MPM."
-    (at 96.52 181.61 0)
+  (text "C2 : Non polar capacitor Nichicon Muse UES1A101MPM"
+    (at 96.52 179.07 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 187f7b1c-9f07-4857-9cd7-03d63d7b4f5a)
   )
-  (text "U1 : OPA1641 (JFET) or OPA1611 (BIPOLAR)" (at 13.97 168.91 0)
+  (text "U1 : TI SoundPlus OPA1641 (JFET) or OPA1611 (BIPOLAR)"
+    (at 13.97 168.91 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1f0ecb1b-13f3-449c-96ba-51cb60ea8abb)
   )
-  (text "C15, C16 : Vishay 048 (MAL204858222E3) or Nichicon UFW (UFW1J222MHD) or Wurth WCAP-ATG8 (860010781028)."
+  (text "C15, C16 : Vishay 048 (MAL204858222E3) or Nichicon UFW (UFW1J222MHD) or Wurth WCAP-ATG8 (860010781028)"
     (at 59.69 196.85 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2157ee3f-8395-4ee4-b5bd-69a5f9b198ec)
@@ -2654,11 +2655,15 @@
     (uuid 411e140b-32c2-4fe7-957f-68b1ddb68769)
   )
   (text "R27 : 560R 1W 1% Ohmite WNB560FET or Vishay CMF60560R00JKR6"
-    (at 96.52 173.99 0)
+    (at 96.52 171.45 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4a1b7165-10ea-49b0-906e-db13f3e90325)
   )
-  (text "0.25W, 0.5W resistor : Vishay MRS25 or CCF07" (at 96.52 171.45 0)
+  (text "D1, D4 : LED 2V TLHR4605 (3mm) or TLHR5400 (5mm)" (at 96.52 191.77 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4a4a0e1e-a6cb-4997-96cf-181fbfca76c7)
+  )
+  (text "0.25W, 0.5W resistor : Vishay MRS25 or CCF07" (at 96.52 168.91 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4b0cbc3d-9e55-4331-894f-85d1decfd66d)
   )
@@ -2715,13 +2720,13 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a1605076-1b91-428f-96f7-b34f2e7e1297)
   )
-  (text "C7 : 1uF Wima MKP2D041001N00JSSD or MKS4B041002C00JF00."
-    (at 96.52 184.15 0)
+  (text "C7 : 1uF Wima MKP2D041001N00JSSD or MKS4B041002C00JF00"
+    (at 96.52 181.61 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a59b0e6b-ff07-481b-8bb5-e33561454a53)
   )
   (text "C1 : 470pF CDE CD15FD471JO3F or polystyrene capacitor."
-    (at 96.52 179.07 0)
+    (at 96.52 176.53 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid aaba5fef-847d-4feb-90ee-2cd49d390c0c)
   )
@@ -2760,7 +2765,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c2dd3725-3bfb-4194-aee4-478f65349c53)
   )
-  (text "R26, R28 : 22R 1% 1W TE Connectivity H4P22RFZA" (at 96.52 176.53 0)
+  (text "R26, R28 : 22R 1% 1W TE Connectivity H4P22RFZA" (at 96.52 173.99 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c7a325f7-5375-4c46-a1a3-10200c4851cd)
   )
@@ -2772,7 +2777,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cfeddde5-810a-44f4-b22e-b69bd1c555d1)
   )
-  (text "C10 : 47pF Mica CDE CD15ED470JO3 or ceramic NP0." (at 96.52 186.69 0)
+  (text "C10 : 47pF Mica CDE CD15ED470JO3 or ceramic NP0." (at 96.52 184.15 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d2106a61-8c33-4420-a82d-1c30fe7482b9)
   )
@@ -2792,7 +2797,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e495c11f-839a-4407-b2ba-41316120c636)
   )
-  (text "For resistor < 150R : sort then or use 1% range." (at 96.52 168.91 0)
+  (text "For resistor < 150R : sort then or use 1% range." (at 96.52 166.37 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid eb599472-102f-47a1-9fc7-19004fd8058b)
   )
@@ -2800,13 +2805,13 @@
     (effects (font (size 1.5 1.5) (thickness 0.254) bold) (justify left bottom))
     (uuid ee823590-ecbd-4107-bb1f-1a309e1b21af)
   )
-  (text "C17 : 100nF capacitor FKP3C031004C00JSSD or MKT1822410255."
-    (at 96.52 189.23 0)
+  (text "C17 : 100nF capacitor FKP3C031004C00JSSD or MKT1822410255"
+    (at 96.52 186.69 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ef415348-4e0f-41d7-b8d9-a581195d5530)
   )
-  (text "C20 : 1nF Wima FKP2C011001D00HSSD or Vishay MKT BFC237085102."
-    (at 96.52 191.77 0)
+  (text "C20 : 1nF Wima FKP2C011001D00HSSD or Vishay MKT BFC237085102"
+    (at 96.52 189.23 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f20ac0fa-9731-4ea6-9612-f83b51afb60a)
   )
