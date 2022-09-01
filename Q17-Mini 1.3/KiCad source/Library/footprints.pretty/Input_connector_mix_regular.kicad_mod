@@ -26,6 +26,7 @@
   (fp_line (start -3.975 0.6321) (end -4.081 0.7391) (layer "F.SilkS") (width 0.12) (tstamp 0f6aeec9-695f-479a-8e26-db15ccb24ba0))
   (fp_line (start -5.1244 4.4368) (end 4.9956 4.4368) (layer "F.SilkS") (width 0.12) (tstamp 13fb350a-31e7-4e1c-bd9c-d41332574a83))
   (fp_line (start -5.1244 -4.6832) (end 4.9956 -4.6832) (layer "F.SilkS") (width 0.12) (tstamp 25f78d71-e467-496a-a8fe-86c94bd1b05b))
+  (fp_line (start -3.7592 -2.9972) (end 3.6576 -2.9972) (layer "F.SilkS") (width 0.12) (tstamp 34a5100d-1c61-4550-a0d8-bc01fa2d561e))
   (fp_line (start 4.0896 -2.0112) (end 3.6946 -1.6152) (layer "F.SilkS") (width 0.12) (tstamp 67495d55-f8e4-4aaf-b483-13a5a588cb47))
   (fp_line (start 1.0132 0.5452) (end 0.7826 0.7648) (layer "F.SilkS") (width 0.12) (tstamp 7388ae30-8450-4581-9629-1b43465e41a4))
   (fp_line (start 1.4704 0.596) (end 1.0486 1.0308) (layer "F.SilkS") (width 0.12) (tstamp 77a4c410-45f2-4660-a322-9ba345693fba))
@@ -53,9 +54,9 @@
   (fp_circle (center -2.46 -0.6232) (end -0.46 -0.6232) (layer "F.Fab") (width 0.1) (fill none) (tstamp 0d0b0e4d-219f-4ffa-b1f2-563edc505b9d))
   (fp_circle (center 2.4356 -0.6232) (end 4.4356 -0.6232) (layer "F.Fab") (width 0.1) (fill none) (tstamp ce931374-d5a3-49f9-8bfb-8886e83d60af))
   (pad "1" thru_hole rect (at -2.5644 -0.6232) (size 2.6 2.6) (drill 1.3) (layers *.Cu *.Mask) (tstamp 0fdafa6d-bd99-4379-a00c-68fbd051f76c))
-  (pad "1" thru_hole roundrect (at -1.3144 1.0668) (size 1.5 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp effd7183-fe30-4ef9-9b38-e601a2b7ff0a))
+  (pad "1" thru_hole roundrect (at -1.3144 1.016) (size 1.5 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp effd7183-fe30-4ef9-9b38-e601a2b7ff0a))
   (pad "2" thru_hole circle (at 2.4356 -0.6232) (size 2.6 2.6) (drill 1.3) (layers *.Cu *.Mask) (tstamp 00401723-ca2b-46ea-a503-f9c78db43f3b))
-  (pad "2" thru_hole oval (at 1.1856 1.0668) (size 1.5 2) (drill 1) (layers *.Cu *.Mask) (tstamp 7a4a00c0-693e-43ae-ad90-5f1aedc44195))
+  (pad "2" thru_hole oval (at 1.1856 1.016) (size 1.5 2) (drill 1) (layers *.Cu *.Mask) (tstamp 7a4a00c0-693e-43ae-ad90-5f1aedc44195))
   (group "" (id b8252f59-1184-4731-b81c-53b8d71329cb)
     (members
       7a4a00c0-693e-43ae-ad90-5f1aedc44195
@@ -68,9 +69,14 @@
       0fdafa6d-bd99-4379-a00c-68fbd051f76c
     )
   )
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal.wrl" hide
     (offset (xyz -2.5 0.6 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/Library/3dmodels/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.wrl"
+    (offset (xyz 1.2 -0.8 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -180))
   )
 )
