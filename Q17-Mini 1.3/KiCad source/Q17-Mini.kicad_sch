@@ -6,8 +6,8 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2022-08-31")
-    (rev "1.3.8")
+    (date "2022-09-01")
+    (rev "1.3.9")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
     (comment 4 "Q17 a QUAD405 audiophile approach")
@@ -4073,7 +4073,7 @@
     (property "Datasheet" "~" (id 3) (at 17.78 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Part#" "Terminal Block KF128 5mm 2P" (id 4) (at 17.78 76.2 0)
+    (property "Part#" "Terminal Block KF127 5mm 2P" (id 4) (at 17.78 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f2f99316-9957-4977-932e-db65d7f29454))
