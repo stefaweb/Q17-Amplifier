@@ -4066,7 +4066,7 @@
     (in_bom yes) (on_board yes)
     (uuid 849e771a-b2fa-4ff5-b7a4-96512b8b3abe)
     (property "Reference" "J1" (id 0) (at 13.97 74.93 0))
-    (property "Value" "Input" (id 1) (at 17.526 70.7475 0))
+    (property "Value" "INPUT" (id 1) (at 17.526 70.7475 0))
     (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal" (id 2) (at 17.78 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5359,7 +5359,7 @@
       (reference "D6") (unit 1) (value "1N5245B") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
     (path "/849e771a-b2fa-4ff5-b7a4-96512b8b3abe"
-      (reference "J1") (unit 1) (value "Input") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J1") (unit 1) (value "INPUT") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
     )
     (path "/e013bf34-127e-4c4d-b8a5-cc04b193e5e8"
       (reference "J2-1") (unit 1) (value "SPK+") (footprint "Q17_Library:Faston_Connector_63849-1_TEC")
