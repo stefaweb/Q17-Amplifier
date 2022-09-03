@@ -6,7 +6,7 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2022-09-01")
+    (date "2022-09-03")
     (rev "1.3.9")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
@@ -2620,6 +2620,10 @@
     (at 59.69 196.85 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2157ee3f-8395-4ee4-b5bd-69a5f9b198ec)
+  )
+  (text "J1: KF127 or Phoenix 1729018" (at 59.69 173.99 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 248f0e06-eeca-4f19-bb46-a9bad395acde)
   )
   (text "1W resistor : Vishay PR01" (at 59.69 181.61 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
