@@ -9,28 +9,30 @@ Use KiCad 6.0 or later to open and edit source files. KiCad 6.0 can be <a href="
 <br>
 The first version of the board was released on December 8, 2021.<br>
 <br>
-Version 1.2.1 published on August 9, 2022.<br>
+Version 1.3 published on August 28, 2022.<br>
 <br>
-All files are located in Q17-Mini-1.2.1 directory:<br>
+All files are located in Q17-Mini-1.3 directory:<br>
 
 Q17-Mini KiCad source - Q17-Mini amplifier KiCad source files.<br>
 Gerber-Q17-Mini-[version].zip - production gerber files for Q17-Mini amplifier.<br>
 Q17-Mini-schematic.pdf - schematic for Q17-Mini amplifier.<br>
 Q17-Mini-BOM.html - interactive BOM for Q17-Mini amplifier.<br>
-Measures Q17 1.2 - Various test curves.<br>
+Measures Q17 1.3 - Various test curves.<br>
 <br>
 Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html<br>
 <br>
 You can very simply manufacture your PCB via JLCPCB (https://jlcpcb.com) or PCBWay (https://www.pcbway.com) using the Gerber files available on this repository. You can also contact me, from time to time I have some spare copies of the Q17 PCBs that can be sold to you at cost price.<br>
 <br>
-Q17-Mini v1.2 (95x75mm)<br>
-![image](https://user-images.githubusercontent.com/12907102/156914581-eb2b2285-1c3a-460c-8708-52040e20877a.jpeg)<br>
+Q17-Mini v1.3 (95x75mm)<br>
+![IMG_7167](https://user-images.githubusercontent.com/12907102/188893876-657b84e3-38b6-482c-af0a-7cd518a24296.jpeg)<br>
 <br>
-![image](https://user-images.githubusercontent.com/12907102/156915434-58642332-dc99-4449-a361-997891cd24c9.jpeg)<br>
+![IMG_7168](https://user-images.githubusercontent.com/12907102/188893955-e9e596d5-09ec-4ad7-99dc-b26f4686cb5a.jpeg)<br>
 <br>
-![Q17-Mini-schematic](https://user-images.githubusercontent.com/12907102/186598721-cdc4e7ee-a7ab-492f-8996-5d5cf4964025.jpg)<br>
+![Q17-Mini-schematic](https://user-images.githubusercontent.com/12907102/188884565-e6c0c431-1744-4e76-af4c-a322ae234d11.jpg)<br>
 <br>
-![scan](https://user-images.githubusercontent.com/12907102/179400862-733cdbf7-8f28-49bc-bcd8-9133e9c3e1f4.jpg)<br>
+95x75mm 2 Oz PCB<br>
+<br>
+![Q17-1 3-PCB-scan](https://user-images.githubusercontent.com/12907102/186886981-c5b678a8-5ec7-4ca9-a90e-ef85f9a3f41b.jpg)<br>
 <br>
 ![Q17-Mini_1 2_with_LPF_234KHz](https://user-images.githubusercontent.com/12907102/186506209-18e0d099-eb07-493e-ba2b-dae46f3ff7b3.jpg)<br>
 <br>
