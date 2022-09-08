@@ -7,7 +7,7 @@ PCB and component values can change. The published version is not yet tested.<br
 <br>
 
 
-PCB size: 190 x 90 mm
+PCB size: 190 x 75 mm
 
 ![Q17-TURBO-3D](https://user-images.githubusercontent.com/12907102/189133566-3ace7447-c53e-424e-92ab-7568fd846b30.jpg)
 
