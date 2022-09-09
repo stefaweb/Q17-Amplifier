@@ -28,6 +28,8 @@ Q17-Mini v1.3 (95x75mm)<br>
 <br>
 ![IMG_7168](https://user-images.githubusercontent.com/12907102/188893955-e9e596d5-09ec-4ad7-99dc-b26f4686cb5a.jpeg)<br>
 <br>
+![Q17-Mini-1 3_spectrum](https://user-images.githubusercontent.com/12907102/189294781-cff1cc9a-bd83-4b75-bac8-acc55bfa9ec6.jpg)<br>
+<br>
 ![Q17-Mini-schematic](https://user-images.githubusercontent.com/12907102/188884565-e6c0c431-1744-4e76-af4c-a322ae234d11.jpg)<br>
 <br>
 95x75mm 2 Oz PCB<br>
