@@ -16,8 +16,9 @@ All files are located in Q17-Mini-1.3 directory:<br>
 Q17-Mini KiCad source - Q17-Mini amplifier KiCad source files.<br>
 Gerber-Q17-Mini-[version].zip - production gerber files for Q17-Mini amplifier.<br>
 Q17-Mini-schematic.pdf - schematic for Q17-Mini amplifier.<br>
-Q17-Mini-BOM.html - interactive BOM for Q17-Mini amplifier.<br>
+Q17-Mini-BOM.html - interactive BOM for Q17-Mini amplifier (to open with a Navigator).<br>
 Measures Q17 1.3 - Various test curves.<br>
+Q17-Mini-drilling.pdf - Drilling plan for dissipator.<br>
 <br>
 Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html<br>
 <br>
