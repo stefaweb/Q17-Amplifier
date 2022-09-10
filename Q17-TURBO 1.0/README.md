@@ -18,12 +18,12 @@ The published board is not yet tested.<br>
 
 PCB size: 190 x 75 mm
 
-![Q17-TURBO-3D](https://user-images.githubusercontent.com/12907102/189316622-cbdc2cab-a2a1-48b3-92a9-0ab2e3cb5210.jpg)
+![Q17-TURBO-3D](https://user-images.githubusercontent.com/12907102/189484834-df76639c-3b09-4de9-9dc3-2148bc097441.jpg)
 
-![Q17-TURBO-PCB-FRONT](https://user-images.githubusercontent.com/12907102/189316641-7113ff8d-2cc8-4a52-a896-1956d9367529.jpg)
+![Q17-TURBO-PCB-FRONT](https://user-images.githubusercontent.com/12907102/189484826-ce222a3c-b296-46e7-846d-06bffc0bb60f.jpg)
 
-![Q17-TURBO-PCB-BACK](https://user-images.githubusercontent.com/12907102/189316633-d9ebf4fe-efff-47e9-bde8-821b72b64dfa.jpg)
+![Q17-TURBO-PCB-BACK](https://user-images.githubusercontent.com/12907102/189484820-102aae3f-5f28-4afa-a308-acaff8995424.jpg)
 
-![Q17-TURBO-PCB](https://user-images.githubusercontent.com/12907102/189316647-c67d18c7-5894-48eb-af91-f54ab5704984.jpg)
+![Q17-TURBO-PCB](https://user-images.githubusercontent.com/12907102/189484830-c52f86fb-47ed-4902-bb64-b61d70af72cc.jpg)
 
-![Q17-TURBO-schematic](https://user-images.githubusercontent.com/12907102/189480065-e7bc1989-3bb7-436a-96f2-26e58a64f89a.jpg)
+![Q17-TURBO-schematic](https://user-images.githubusercontent.com/12907102/189484897-0d310bfb-f745-413c-a14e-165e11557dd8.jpg)
