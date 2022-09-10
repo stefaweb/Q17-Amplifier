@@ -9,8 +9,8 @@ All files are located in Q17-TURBO directory:<br>
 
 KiCad source - Q17-TURBO amplifier KiCad source files.<br>
 Gerber-Q17-TURBO-[version].zip - production gerber files for Q17-TURBO amplifier.<br>
-Q17-TURBO-schematic.pdf - schematic for Q17-Mini amplifier.<br>
-Q17-TURBO-BOM.html - interactive BOM for Q17-Mini amplifier (to open with a Navigator).<br>
+Q17-TURBO-schematic.pdf - schematic for Q17-TURBO amplifier.<br>
+Q17-TURBO-BOM.html - interactive BOM for Q17-TURBO amplifier (to open with a Navigator).<br>
 <br>
 The published board is not yet tested.<br>
 <br>
