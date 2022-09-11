@@ -2,7 +2,7 @@
 
 <b>For the Q17-TURBO project (200W @ 8 Ohms):</b><br>
 <br>
-The first version of the board was released on September, 2022.<br>
+The first version of the board was released on September, 9 2022.<br>
 <br>
 <br>
 All files are located in Q17-TURBO directory:<br>
@@ -20,14 +20,15 @@ The published board is not yet tested.<br>
 
 PCB size: 190 x 75 mm
 
-![Q17-TURBO-3D](https://user-images.githubusercontent.com/12907102/189484834-df76639c-3b09-4de9-9dc3-2148bc097441.jpg)
+![Q17-TURBO-3D](https://user-images.githubusercontent.com/12907102/189518527-d1f0c63b-0d70-4cfc-97c3-a5c856f3cc71.jpg)
 
-![Q17-TURBO-PCB-FRONT](https://user-images.githubusercontent.com/12907102/189484826-ce222a3c-b296-46e7-846d-06bffc0bb60f.jpg)
+![Q17-TURBO-schematic](https://user-images.githubusercontent.com/12907102/189518626-87686ae0-642a-4cfe-b07e-7f6509af2f0e.jpg)
 
-![Q17-TURBO-PCB-BACK](https://user-images.githubusercontent.com/12907102/189484820-102aae3f-5f28-4afa-a308-acaff8995424.jpg)
+![Q17-TURBO-PCB-FRONT](https://user-images.githubusercontent.com/12907102/189518531-7bf8fdc1-cf04-498c-bee4-5696b2b2026a.jpg)
 
-![Q17-TURBO-PCB](https://user-images.githubusercontent.com/12907102/189484830-c52f86fb-47ed-4902-bb64-b61d70af72cc.jpg)
+![Q17-TURBO-PCB-BACK](https://user-images.githubusercontent.com/12907102/189518530-1a5f996a-43ff-4380-a0c5-905531ec4182.jpg)
 
-![Q17-TURBO-schematic](https://user-images.githubusercontent.com/12907102/189484897-0d310bfb-f745-413c-a14e-165e11557dd8.jpg)
+![Q17-TURBO-PCB](https://user-images.githubusercontent.com/12907102/189518532-e9001466-f500-4970-9236-f291f24a523e.jpg)
 
 ![Q17-TURBO-Drilling](https://user-images.githubusercontent.com/12907102/189502105-5ec9c69b-9ec3-4be0-9fd5-4ae6133d3521.jpg)
+
