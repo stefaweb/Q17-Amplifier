@@ -10,7 +10,7 @@ Read the CHANGELOG file to know what's new.
 <br>
 ![Q17-Mini-1 3_spectrum](https://user-images.githubusercontent.com/12907102/189294781-cff1cc9a-bd83-4b75-bac8-acc55bfa9ec6.jpg)<br>
 <br>
-![Q17-Mini-schematic](https://user-images.githubusercontent.com/12907102/189375267-27aed43f-b06a-4350-8ce0-3b830c9fdcd6.jpg)<br>
+![Q17-Mini-schematic](https://user-images.githubusercontent.com/12907102/189524749-5d1687b6-1f43-4cbb-83b0-91a4c7002a55.jpg)<br>
 <br>
 ![Q17-Mini-3D](https://user-images.githubusercontent.com/12907102/186886996-d3bc09cb-5950-43d9-befd-7f4f50fa0994.jpg)<br>
 <br>
