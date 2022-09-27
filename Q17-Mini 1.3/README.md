@@ -12,7 +12,7 @@ Read the CHANGELOG file to know what's new.
 
 ![stepped_sin](https://user-images.githubusercontent.com/12907102/190194852-40d42843-2d08-4dd0-b583-4583f5c79af1.jpg)
 
-![Q17-Mini-schematic](https://user-images.githubusercontent.com/12907102/189952373-d4e0e8b1-a28e-4584-bdee-4a64cd771d1e.jpg)
+![Q17-Mini-schematic](https://user-images.githubusercontent.com/12907102/192473246-d037038f-0175-49be-8ef2-63f791b1c942.jpg)
 
 ![Q17-Mini-3D](https://user-images.githubusercontent.com/12907102/186886996-d3bc09cb-5950-43d9-befd-7f4f50fa0994.jpg)
 
