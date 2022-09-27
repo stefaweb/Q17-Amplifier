@@ -6,7 +6,7 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2022-09-13")
+    (date "2022-09-25")
     (rev "1.3.9")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
@@ -2601,6 +2601,11 @@
   (text "max 55V" (at 269.24 71.12 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0bed01fc-5126-4cfd-a31f-79c34be73d2c)
+  )
+  (text "Q5, Q15, Q6, Q16 and Q20 need film Insulator and insulating washer spacer."
+    (at 96.52 163.83 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 117f4200-58ec-43ce-8ded-f3fa36b6a45a)
   )
   (text "Q9, Q11 : current mirror circuit" (at 13.97 19.05 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
