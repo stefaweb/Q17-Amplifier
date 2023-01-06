@@ -37,3 +37,5 @@ Q17-Mini v1.3 (95x75mm)<br>
 <br>
 ![Q17-1 3-PCB-scan](https://user-images.githubusercontent.com/12907102/186886981-c5b678a8-5ec7-4ca9-a90e-ef85f9a3f41b.jpg)<br>
 <br>
+![Q17-TURBO-1 0](https://user-images.githubusercontent.com/12907102/211021352-3be79f9f-d615-474e-8003-4d31be265cf4.jpg)
+<br>
