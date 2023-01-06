@@ -2,7 +2,7 @@
 
 <b>For the Q17-TURBO project (200W @ 8 Ohms):</b><br>
 <br>
-The first version of the board was released on September, 9 2022.<br>
+The first version of the board was released on January, 6 2023.<br>
 <br>
 <br>
 All files are located in Q17-TURBO directory:<br>
@@ -13,8 +13,6 @@ Q17-TURBO-schematic.pdf - schematic for Q17-TURBO amplifier.<br>
 Q17-TURBO-BOM.html - interactive BOM for Q17-TURBO amplifier (to open with a Navigator).<br>
 Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
 
-<br>
-The published board is not yet tested.<br>
 <br>
 <br>
 
