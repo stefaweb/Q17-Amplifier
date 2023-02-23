@@ -22,6 +22,8 @@ PCB size: 190 x 75 mm
 
 ![Q17-Turbo_back](https://user-images.githubusercontent.com/12907102/219691488-a70ce37a-fb24-41f4-a3a3-7914c1927616.jpeg)
 
+![q17_on](https://user-images.githubusercontent.com/12907102/220950004-ca148642-bf07-43ac-9358-35dda695d967.jpeg)
+
 ![Q17-TURBO-schematic](https://user-images.githubusercontent.com/12907102/219937950-5897d68c-82a5-431b-88f5-8bed3efc9a6d.jpg)
 
 ![Q17-Turbo-THD](https://user-images.githubusercontent.com/12907102/220904705-060a9518-4952-41d2-982b-7a8eda775564.jpg)
