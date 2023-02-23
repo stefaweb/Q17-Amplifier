@@ -1,6 +1,10 @@
-# Q17-Mini version 1.3
+# Q17-Mini version 1.3 (100W @ 8 Ohms)<br>
 
-Published August 28, 2022.
+THD: 0.013%
+THD+N: 0.10%
+Idle consumption: 12W @ 240v
+
+The first version of the board was released on January, 6 2023.
 
 Read the CHANGELOG file to know what's new.
 
