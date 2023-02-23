@@ -12,7 +12,7 @@ The first version of the board was released on January, 6 2023.<br>
 <br>
 <br>
 All files are located in Q17-TURBO directory:<br>
-
+<br>
 KiCad source - Q17-TURBO amplifier KiCad source files.<br>
 Gerber-Q17-TURBO-[version].zip - production gerber files for Q17-TURBO amplifier.<br>
 Q17-TURBO-schematic.pdf - schematic for Q17-TURBO amplifier.<br>
