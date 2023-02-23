@@ -4,7 +4,9 @@ THD: 0.018%<br>
 THD+N: 0.09%<br>
 Idle consumption: 12W @ 240v<br>
 
-The first version of the board was released on January, 6 2023.
+The first version of the board was released on December 8, 2021.
+
+Version 1.3 published on August 28, 2022.
 
 Read the CHANGELOG file to know what's new.
 
