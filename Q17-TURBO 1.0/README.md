@@ -4,6 +4,7 @@
 
 THD: 0.013%<br>
 THD+N: 0.10%<br>
+DC offset at output: 0.001v
 Idle consumption: 15W @ 240v<br>
 
 <br>
