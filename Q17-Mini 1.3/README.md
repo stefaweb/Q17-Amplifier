@@ -2,6 +2,7 @@
 
 THD: 0.018%<br>
 THD+N: 0.09%<br>
+DC offset at output: 0.02v<br>
 Idle consumption: 12W @ 240v<br>
 
 The first version of the board was released on December 8, 2021.
