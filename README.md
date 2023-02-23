@@ -22,7 +22,7 @@ Q17-Mini v1.3 (95x75mm)
 
 The first version of the board was released on January, 6 2023.
 
-All files are located in Q17-Mini-1.3 directory.
+All files are located in Q17-TURBO-1.0 directory.
 
 Q17-Turbo v1.0 (190x75mm)
 ![Q17-Turbo_top jpeg](https://user-images.githubusercontent.com/12907102/219691376-98559b45-01dd-4c86-838a-67529dabff89.jpeg)
