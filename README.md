@@ -18,12 +18,13 @@ Q17-Mini v1.3 (95x75mm)
 ![IMG_7167](https://user-images.githubusercontent.com/12907102/188893876-657b84e3-38b6-482c-af0a-7cd518a24296.jpeg)
 
 
-For the Q17-Turbo project (200W @ 8 Ohms):
+<b>For the Q17-Turbo project (200W @ 8 Ohms):</b>
 
 The first version of the board was released on January, 6 2023.
 
 All files are located in Q17-Mini-1.3 directory.
 
+Q17-Turbo v1.0 (190x75mm)
 ![Q17-Turbo_top jpeg](https://user-images.githubusercontent.com/12907102/219691376-98559b45-01dd-4c86-838a-67529dabff89.jpeg)
 
 
