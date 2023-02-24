@@ -20,6 +20,8 @@ Q17-Mini v1.3 (95x75mm, 2 Oz PCB)
 
 <b>For the Q17-Turbo project (200W @ 8 Ohms):</b>
 
+The natural evolution of the Q17-Mini, this time with two pairs of power transistors, better thermal management with the same technical characteristics and the same sound signature.
+
 The first version of the board was released on January, 6 2023.
 
 All files are located in Q17-TURBO-1.0 directory.
