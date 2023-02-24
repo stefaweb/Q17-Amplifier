@@ -2,6 +2,8 @@
 
 <b>For the Q17-TURBO project (200W @ 8 Ohms).</b><br>
 
+The natural evolution of the Q17-Mini, this time with two pairs of power transistors, better thermal management and the same technical characteristics and the same sound signature.
+
 THD: 0.013%<br>
 THD+N: 0.10%<br>
 Gain: 25<br>
