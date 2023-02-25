@@ -41,7 +41,7 @@ Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
 
 ![Q17-TURBO-PCB](https://user-images.githubusercontent.com/12907102/189518532-e9001466-f500-4970-9236-f291f24a523e.jpg)
 
-![Q17-TURBO-Drilling](https://user-images.githubusercontent.com/12907102/189536835-364c96fc-6de0-4b40-8fcc-1a31842a4e8f.jpg)
+![Q17-TURBO-Drilling](https://user-images.githubusercontent.com/12907102/221359580-5ae61890-b43a-432f-bca4-7a5a4e1e9bef.jpg)
 
 PCB size: 190 x 75 mm, 2 Oz
 ![Q17-TURBO-1 0](https://user-images.githubusercontent.com/12907102/211021352-3be79f9f-d615-474e-8003-4d31be265cf4.jpg)
