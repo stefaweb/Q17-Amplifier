@@ -1,6 +1,6 @@
 # Q17-PCB-Coil Project</b><br>
 <br>
-PCB coil 1.2uH based on Tibi footprint.<br>
+PCB coil 1.2uH based on Tibi coil 2.9 footprint.<br>
 <br>
 <br>
 
