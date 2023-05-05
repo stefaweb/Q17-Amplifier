@@ -1,4 +1,4 @@
-# Q17-P2 Project</b><br>
+# Q17-PCB-Coil Project</b><br>
 <br>
 PCB coil 1.2uH based on Tibi footprint.<br>
 <br>
