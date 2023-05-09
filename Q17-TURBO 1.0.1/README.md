@@ -1,4 +1,4 @@
-# Q17-TURBO (P2) 1.0</b><br>
+# Q17-TURBO (P2) 1.0.1</b><br>
 
 <b>For the Q17-TURBO project (200W @ 8 Ohms).</b><br>
 
@@ -8,7 +8,7 @@ THD: 0.013%<br>
 THD+N: 0.10%<br>
 Gain: 25<br>
 DC offset at output: 0.001v<br>
-Power supply: 50-55vDC<br>
+Power supply: 50-60vDC<br>
 Idle consumption: 15W @ 240v<br>
 
 <br>
