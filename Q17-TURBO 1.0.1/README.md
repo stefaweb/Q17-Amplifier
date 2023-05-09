@@ -40,7 +40,7 @@ Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
 
 ![Q17-TURBO-PCB-BACK](https://user-images.githubusercontent.com/12907102/237027284-ced0379f-667b-4d57-be78-c5ad45ba8153.jpg)
 
-![Q17-TURBO-PCB](https://user-images.githubusercontent.com/12907102/189518532-e9001466-f500-4970-9236-f291f24a523e.jpg)
+![Q17-TURBO-PCB](https://user-images.githubusercontent.com/12907102/237031082-f9e749dc-1ef1-420d-bacc-f9c6cd997418.jpg)
 
 ![Q17-TURBO-Drilling](https://user-images.githubusercontent.com/12907102/221359580-5ae61890-b43a-432f-bca4-7a5a4e1e9bef.jpg)
 
