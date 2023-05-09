@@ -16,6 +16,7 @@ The first version of the board was released on January, 6 2023.<br>
 <br>
 All files are located in Q17-TURBO-1.0.1 directory. Old version are located in Q17-TURBO Archives directory.
 <br>
+<br>
 KiCad source - Q17-TURBO amplifier KiCad source files.<br>
 Gerber-Q17-TURBO-[version].zip - production gerber files for Q17-TURBO amplifier.<br>
 Q17-TURBO-schematic.pdf - schematic for Q17-TURBO amplifier.<br>
@@ -31,7 +32,7 @@ Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
 
 ![q17_on](https://user-images.githubusercontent.com/12907102/220950004-ca148642-bf07-43ac-9358-35dda695d967.jpeg)
 
-![Q17-TURBO-schematic](https://user-images.githubusercontent.com/12907102/219937950-5897d68c-82a5-431b-88f5-8bed3efc9a6d.jpg)
+![Q17-TURBO-schematic](https://user-images.githubusercontent.com/12907102/237030584-ef5184f2-c2aa-4087-869f-80869edabc55.jpg)
 
 ![Q17-Turbo-THD2](https://user-images.githubusercontent.com/12907102/221007525-ddf50520-abd1-4fea-893a-9efe87f46179.jpg)
 
