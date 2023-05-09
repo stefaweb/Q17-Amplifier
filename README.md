@@ -12,7 +12,7 @@ The first version of the board was released on December 8, 2021.
 
 Version 1.3 published on August 28, 2022.
 
-All files are located in Q17-Mini-1.3 directory.
+All files are located in Q17-Mini-1.3 directory. Old version are located in Q17-Mini Archives directory.
 
 Q17-Mini v1.3 (95x75mm, 2 Oz PCB)
 ![IMG_7167](https://user-images.githubusercontent.com/12907102/188893876-657b84e3-38b6-482c-af0a-7cd518a24296.jpeg)
@@ -24,7 +24,9 @@ The natural evolution of the Q17-Mini, this time with two pairs of power transis
 
 The first version of the board was released on January, 6 2023.
 
-All files are located in Q17-TURBO-1.0 directory.
+Version 1.0.1 published on May 9, 2023.
+
+All files are located in Q17-TURBO-1.0.1 directory. Old version are located in Q17-TURBO Archives directory.
 
 Q17-Turbo v1.0 (190x75mm, 2 Oz PCB)
 ![Q17-Turbo_top jpeg](https://user-images.githubusercontent.com/12907102/219691376-98559b45-01dd-4c86-838a-67529dabff89.jpeg)
