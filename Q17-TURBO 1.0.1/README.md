@@ -14,9 +14,7 @@ Idle consumption: 15W @ 240v<br>
 <br>
 The first version of the board was released on January, 6 2023.<br>
 <br>
-Version 1.0.1 published on May 9, 2023.
-<br>
-All files are located in Q17-TURBO directory:<br>
+All files are located in Q17-TURBO-1.0.1 directory. Old version are located in Q17-TURBO Archives directory.
 <br>
 KiCad source - Q17-TURBO amplifier KiCad source files.<br>
 Gerber-Q17-TURBO-[version].zip - production gerber files for Q17-TURBO amplifier.<br>
