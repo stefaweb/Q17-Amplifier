@@ -32,7 +32,7 @@ Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
 
 ![q17_on](https://user-images.githubusercontent.com/12907102/220950004-ca148642-bf07-43ac-9358-35dda695d967.jpeg)
 
-![Q17-TURBO-schematic](https://user-images.githubusercontent.com/12907102/237030584-ef5184f2-c2aa-4087-869f-80869edabc55.jpg)
+![Q17-TURBO-schematic](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/assets/12907102/d3ea7950-0252-44e8-8e92-1ee18c6e7777)
 
 ![Q17-Turbo-THD2](https://user-images.githubusercontent.com/12907102/221007525-ddf50520-abd1-4fea-893a-9efe87f46179.jpg)
 
