@@ -1,4 +1,4 @@
-# Q17-Mini version 1.3 (100W @ 8 Ohms)<br>
+# Q17-Mini version 1.3.1 (100W @ 8 Ohms)<br>
 
 THD: 0.018%<br>
 THD+N: 0.09%<br>
@@ -8,7 +8,7 @@ Idle consumption: 12W @ 240v<br>
 
 The first version of the board was released on December 8, 2021.
 
-Version 1.3 published on August 28, 2022.
+Version 1.3.1 published on June 25, 2023.
 
 Read the CHANGELOG file to know what's new.
 
@@ -23,15 +23,15 @@ Read the CHANGELOG file to know what's new.
 
 ![stepped_sin](https://user-images.githubusercontent.com/12907102/190194852-40d42843-2d08-4dd0-b583-4583f5c79af1.jpg)
 
-![Q17-Mini-schematic](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/assets/12907102/33f56e95-8f87-4370-997f-09916512c885)
+![Q17-Mini-schematic](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/assets/12907102/0ae3770d-4d13-49c0-a21f-abe7d1893909)
 
-![Q17-Mini-3D](https://user-images.githubusercontent.com/12907102/186886996-d3bc09cb-5950-43d9-befd-7f4f50fa0994.jpg)
+![Q17-Mini-3D](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/assets/12907102/071d9f12-fbb9-40c6-8db7-37315823b1c5)
 
-![Q17-Mini-3D-FRONT](https://user-images.githubusercontent.com/12907102/186886993-d289c6fd-c93c-481c-8652-cafee727dd6e.jpg)
+![Q17-Mini-3D-FRONT](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/assets/12907102/b2210851-c84e-44f0-bf98-9f052462605e)
 
-![Q17-Mini-3D-BACK](https://user-images.githubusercontent.com/12907102/186886986-c2cd2426-bd82-4aa9-8164-c0ce81b99343.jpg)
+![Q17-Mini-3D-BACK](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/assets/12907102/f9ea6c2e-be8b-4b11-b029-86dc814a34f4)
 
-![Q17-Mini-PCB](https://user-images.githubusercontent.com/12907102/186887015-b0b0a7d2-3b07-41a8-adbc-ce6164e2dc82.jpg)
+![Q17-Mini-PCB](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/assets/12907102/e70f8d53-f433-49fc-9cbe-918845a0355e)
 
 95x75mm 2 Oz PCB
 
