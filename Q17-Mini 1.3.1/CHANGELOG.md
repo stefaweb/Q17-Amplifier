@@ -1,5 +1,17 @@
 # Changelog Q17-Mini
 
+
+Version [1.3.1] (25-06-2023)
+- Moved C10 for better placement (thermal).
+- Modified some parts of GND ground plane.
+- The SMD capacitors footprints have been moved slightly away from the active components. Was difficult to solder by hand.
+- Added JST-XH connector footprint for J1 (input).
+- Changed U1 to OPA1611 (Sound warmer and a little less midrange).
+- Updated C3/C6 to 47uF/25v (Nichicon Muse KZ UKZ1E470MPM1).
+- Changed R29 and R30 to 100R (no more noise at power on)
+- Replaced BD139G on Q12 with KSC1845 and updated footprint.
+- Many parts equivalences added in schematic.
+
 Version [1.3](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/commit/e14c5743dc9d61eb0646178def298882dcf551b0) (26-08-2022)
 
 - Moved Q8, R1, R5, R23 and R25 to new location.
