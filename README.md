@@ -10,9 +10,9 @@ Use KiCad 6.0 or later to open and edit source files. KiCad 6.0 can be <a href="
 
 The first version of the board was released on December 8, 2021.
 
-Version 1.3 published on August 28, 2022.
+Version 1.3.1 published on June 25, 2023.
 
-All files are located in Q17-Mini-1.3 directory. Old version are located in Q17-Mini Archives directory.
+All files are located in Q17-Mini-1.3.1 directory. Old version are located in Q17-Mini Archives directory.
 
 Q17-Mini v1.3 (95x75mm, 2 Oz PCB)
 ![IMG_7167](https://user-images.githubusercontent.com/12907102/188893876-657b84e3-38b6-482c-af0a-7cd518a24296.jpeg)
