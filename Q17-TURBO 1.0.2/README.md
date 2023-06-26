@@ -14,6 +14,8 @@ Idle consumption: 15W @ 240v<br>
 <br>
 The first version of the board was released on January, 6 2023.<br>
 <br>
+Version 1.0.2 published on June 26, 2023.<br>
+<br>
 All files are located in Q17-TURBO-1.0.2 directory. Old version are located in Q17-TURBO Archives directory.
 <br>
 <br>
