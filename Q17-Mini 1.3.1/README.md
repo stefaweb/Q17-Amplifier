@@ -33,10 +33,3 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-PCB](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/assets/12907102/e70f8d53-f433-49fc-9cbe-918845a0355e)
 
-95x75mm 2 Oz PCB
-
-![Q17-1 3-PCB-scan](https://user-images.githubusercontent.com/12907102/186886981-c5b678a8-5ec7-4ca9-a90e-ef85f9a3f41b.jpg)
-
-![Q17-Mini-drilling](https://user-images.githubusercontent.com/12907102/187089535-22ca085d-42d1-407b-aade-f6f342333dc8.jpg)
-
-
