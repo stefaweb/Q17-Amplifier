@@ -8,7 +8,7 @@ THD: 0.013%<br>
 THD+N: 0.10%<br>
 Gain: 25<br>
 DC offset at output: 0.001v<br>
-Power supply: 50-60vDC<br>
+Power supply: 55-60vDC<br>
 Idle consumption: 15W @ 240v<br>
 
 <br>
