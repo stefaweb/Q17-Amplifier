@@ -1,4 +1,4 @@
-# Q17-a-QUAD405-audiophile-approach
+# Q17 a QUAD405 audiophile MOSFET amplifier
 Q17 is an amplifier based on the QUAD405 current dumping principle.
 
 Please refer to <a href="https://github.com/tvicol/Q17-a-QUAD405-audiophile-approach/blob/main/Project%20description.pdf">Project description.pdf</a> from Tiberiu Vicol's <a href="https://github.com/tvicol/Q17-a-QUAD405-audiophile-approach">original design</a>.
