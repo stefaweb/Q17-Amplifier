@@ -11,14 +11,12 @@ The natural evolution of the Q17-Mini, this time with two pairs of power transis
 
 The first version of the board was released on January, 6 2023.
 
-Version 1.2 was released on July 30, 2023.<
+Version 1.2 was released on July 30, 2023.
 
 All files are located in Q17-TURBO-1.2 directory. Old version are located in Q17-TURBO Archives directory.
 
 Q17-Turbo v1.2 (190x75mm, 2 Oz PCB)
 ![Q17-Turbo-1 2](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/43840532-3415-4e17-b094-0514e58fedf2)
-
-
 
 <b>For the Q17-Mini project (100W @ 8 Ohms):</b>
 
@@ -30,7 +28,6 @@ All files are located in Q17-Mini-1.3.1 directory. Old version are located in Q1
 
 Q17-Mini v1.3 (95x75mm, 2 Oz PCB)
 ![IMG_7167](https://user-images.githubusercontent.com/12907102/188893876-657b84e3-38b6-482c-af0a-7cd518a24296.jpeg)
-
 
 Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
 
