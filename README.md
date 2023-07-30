@@ -5,19 +5,6 @@ Please refer to <a href="https://github.com/tiberiuvicol/Q17-audiophile-amplifie
 
 Use KiCad 7.0 or later to open and edit source files. KiCad 7.0 can be <a href="https://www.kicad.org/download/">downloaded</a> from CERN.
 
-
-<b>For the Q17-Mini project (100W @ 8 Ohms):</b>
-
-The first version of the board was released on December 8, 2021.
-
-Version 1.3.1 published on June 25, 2023.
-
-All files are located in Q17-Mini-1.3.1 directory. Old version are located in Q17-Mini Archives directory.
-
-Q17-Mini v1.3 (95x75mm, 2 Oz PCB)
-![IMG_7167](https://user-images.githubusercontent.com/12907102/188893876-657b84e3-38b6-482c-af0a-7cd518a24296.jpeg)
-
-
 <b>For the Q17-Turbo project (200W @ 8 Ohms):</b>
 
 The natural evolution of the Q17-Mini, this time with two pairs of power transistors, better thermal management with the same technical characteristics and the same sound signature.
@@ -30,6 +17,19 @@ All files are located in Q17-TURBO-1.2 directory. Old version are located in Q17
 
 Q17-Turbo v1.2 (190x75mm, 2 Oz PCB)
 ![Q17-Turbo-1 2](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/43840532-3415-4e17-b094-0514e58fedf2)
+
+
+
+<b>For the Q17-Mini project (100W @ 8 Ohms):</b>
+
+The first version of the board was released on December 8, 2021.
+
+Version 1.3.1 published on June 25, 2023.
+
+All files are located in Q17-Mini-1.3.1 directory. Old version are located in Q17-Mini Archives directory.
+
+Q17-Mini v1.3 (95x75mm, 2 Oz PCB)
+![IMG_7167](https://user-images.githubusercontent.com/12907102/188893876-657b84e3-38b6-482c-af0a-7cd518a24296.jpeg)
 
 
 Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
