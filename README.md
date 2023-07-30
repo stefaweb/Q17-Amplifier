@@ -5,7 +5,7 @@ Please refer to <a href="https://github.com/tiberiuvicol/Q17-audiophile-amplifie
 
 Use KiCad 7.0 or later to open and edit source files. KiCad 7.0 can be <a href="https://www.kicad.org/download/">downloaded</a> from CERN.
 
-<b>For the Q17-Turbo project (200W @ 8 Ohms):</b>
+<b>Q17-Turbo project (200W @ 8 Ohms):</b>
 
 The natural evolution of the Q17-Mini, this time with two pairs of power transistors, better thermal management with the same technical characteristics and the same sound signature.
 
@@ -18,7 +18,7 @@ All files are located in Q17-TURBO-1.2 directory. Old version are located in Q17
 Q17-Turbo v1.2 (190x75mm, 2 Oz PCB)
 ![Q17-Turbo-1 2](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/43840532-3415-4e17-b094-0514e58fedf2)
 
-<b>For the Q17-Mini project (100W @ 8 Ohms):</b>
+<b>Q17-Mini project (100W @ 8 Ohms):</b>
 
 The first version of the board was released on December 8, 2021.
 
