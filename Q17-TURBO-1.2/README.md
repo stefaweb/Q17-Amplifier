@@ -36,7 +36,7 @@ This new version requires at least the soldering of one SMD component to be able
 <br>
 Read the CHANGELOG file to know what's new.<br>
 <br>
-All files are located in Q17-TURBO-1.2.0 directory. Old version are located in Q17-TURBO Archives directory.<br>
+All files are located in Q17-TURBO-1.2 directory. Old version files are located in Q17-TURBO Archives directory.<br>
 <br>
 KiCad source - Q17-TURBO amplifier KiCad source files.<br>
 Gerber-Q17-TURBO-[version].zip - production gerber files for Q17-TURBO amplifier.<br>
