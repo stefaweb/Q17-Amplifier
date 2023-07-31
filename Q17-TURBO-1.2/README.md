@@ -38,7 +38,6 @@ Read the CHANGELOG file to know what's new.<br>
 <br>
 <a href="https://audio.cyberkata.org/Q17-TURBO-BOM.html">Online Q17-TURBO-BOM</a><br>
 <br>
-<br>
 All files are located in Q17-TURBO-1.2 directory. Old version files are located in Q17-TURBO Archives directory.<br>
 <br>
 KiCad source - Q17-TURBO amplifier KiCad source files.<br>
