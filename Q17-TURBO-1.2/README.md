@@ -36,8 +36,6 @@ This new version requires at least the soldering of one SMD component to be able
 <br>
 Read the CHANGELOG file to know what's new.<br>
 <br>
-<a href="https://audio.cyberkata.org/Q17-TURBO-BOM.html">Online Q17-TURBO-BOM</a><br>
-<br>
 All files are located in Q17-TURBO-1.2 directory. Old version files are located in Q17-TURBO Archives directory.<br>
 <br>
 KiCad source - Q17-TURBO amplifier KiCad source files.<br>
@@ -45,6 +43,8 @@ Gerber-Q17-TURBO-[version].zip - production gerber files for Q17-TURBO amplifier
 Q17-TURBO-schematic.pdf - schematic for Q17-TURBO amplifier.<br>
 Q17-TURBO-BOM.html - interactive BOM for Q17-TURBO amplifier (to open with an Internet Navigator).<br>
 Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
+<br>
+<a href="https://audio.cyberkata.org/Q17-TURBO-BOM.html">Online Q17-TURBO-BOM</a><br>
 <br>
 <br>
 ![Q17-TURBO-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/4f2b5d25-6385-4787-9880-327f0e6fd5d0)
