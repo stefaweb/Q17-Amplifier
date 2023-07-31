@@ -46,7 +46,6 @@ Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
 <br>
 <a href="https://audio.cyberkata.org/Q17-TURBO-BOM.html">Online Q17-TURBO-BOM</a><br>
 <br>
-<br>
 <a href="https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=c66919a584">Online Q17-TURBO-BOM on Mouser.</a><br>
 
 
