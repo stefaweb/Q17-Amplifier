@@ -63,10 +63,10 @@ Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
 ![Q17-TURBO-PCB](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/382cce62-0dac-4b86-b20b-c4c7547095fb)
 <br>
 <br>
-![Q17-TURBO-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/af499055-4d6c-4545-95f5-ece2e358110d)
+![Q17-TURBO-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/47b24ae0-a736-4f27-a1d6-182c19f0f6ed)
 <br>
 <br>
-![Q17-TURBO-PCB-BACK](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/164b2620-edac-4f19-929f-0549867296fb)
+![Q17-TURBO-PCB-BACK](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/fb9b21d6-91bf-46fe-9b2c-62feb414b313)
 <br>
 <br>
-![Q17-TURBO-3D-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/3a062e96-2ea8-434f-bf7f-250f20b7ed1e)
+![Q17-TURBO-3D-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/5be220c5-f96a-4023-b57b-70603df40992)
