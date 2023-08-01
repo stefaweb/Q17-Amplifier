@@ -1,15 +1,21 @@
 # Changelog Q17-Turbo
 
+Version [1.2.1] (xx-xx-2023)
+
+- New version of PCB files. Corrected an error on the SMD footprint for U1 on the back.
+- Added PJS6839 as replacement of NDC7003P.
+
 Version [1.2.0] (30-07-2023)
 
 - New circuits for handling low level signals and better specs at frequencies above 10KHz.
 - Added Erno Borbely cascode type using JFET & depletion NMOS (Q7, Q8). Can now use low noise JFET's like LSK170B (TH) or TI Burr-Brown JFE150 (SMD).
 - Current mirror was updated to a Wilson CCS with BS250 and NDC7003P (Q9 & U2).
-- DC offset is now below 1mV (770uV).
+- DC offset is now below 1mV.
 - The signal-to-noise ratio is better over the entire audio band.
 - Now work at 60vDC (recommended voltage).
 - Use handsoldering SMD footprints (enlarged tracks).
 - Removed C29 and C30 from schematic and SMD footprint on back PCB.
+- Removed C4' and C5' SMD footprint on back PCB.
 - Added Q7' optional SMD footprint on back PCB for JFE150.
 - Moved C31 and C32 close to the power input.
 - R10 and R13 changed to 9R1 (was 10R).
