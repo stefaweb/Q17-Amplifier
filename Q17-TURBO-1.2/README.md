@@ -1,4 +1,4 @@
-# Q17-TURBO (P2) 1.2.0</b><br>
+# Q17-TURBO (P2) 1.2.1</b><br>
 
 <b>Q17-TURBO project (200W @ 8 Ohms).</b><br>
 
