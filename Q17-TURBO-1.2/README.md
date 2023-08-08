@@ -27,7 +27,7 @@ These measurements were made with amateur measuring equipment. It is better to t
 <br>
 The first version of the board was released on January, 6 2023.<br>
 <br>
-Version 1.2 was released on July 30, 2023.<br>
+Version 1.2.1 was released on August 8, 2023.<br>
 <br>
 <br>
 Version 1.2 introduces two major changes to the original Q17 schematic. A new Erno Borbely cascode type using JFET & depletion NMOS (Q7, Q8) has been added. Current mirror has been updated to a Wilson CCS with BS250 and NDC7003P (Q9 & U2). This evolution was made possible thanks to the help of Tiberiu Vicol which made it possible to evolve the original scheme towards new performances.<br>
@@ -47,7 +47,7 @@ Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
 <a href="https://audio.cyberkata.org/Q17-TURBO-BOM.html">Online Q17-TURBO-BOM</a><br>
 <a href="https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=af5264f1df">Order Q17-TURBO-BOM on Mouser.</a><br> 
 
-![Q17-TURBO-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/2c85992c-1e0b-4e75-9005-c08199144390)
+![Q17-TURBO-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/eab7b12c-ca2e-487e-a34d-9c72c399d46a)
 <br>
 <br>
 ![Q17-Turbo_1 2_spectrum_61v-multitone](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/0342a9cd-6f9b-4d74-a31a-3aef63848853)

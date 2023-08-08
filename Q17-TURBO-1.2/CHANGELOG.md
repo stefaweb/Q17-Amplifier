@@ -1,6 +1,6 @@
 # Changelog Q17-Turbo
 
-Version [1.2.1] (xx-xx-2023)
+Version [1.2.1] (08-08-2023)
 
 - New version of PCB files. Corrected an error on the SMD footprint for U1 on the back.
 - Added PJS6839 as replacement of NDC7003P.
