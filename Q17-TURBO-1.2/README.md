@@ -16,7 +16,7 @@ Signal to Noise ratio (SNR): 110 dBFS <br>
 Intermodulation distortion: 0.012%<br>
 Frequency response: ±0,2 dB<br>
 Default gain: 25 (with input gain R17 at 1.4V)<br>
-DC offset at output: > 1mV<br>
+DC offset at output: less than 1mV<br>
 Power supply: 60vDC<br>
 Idle consumption: 15W @ 240vAC
 <br>
