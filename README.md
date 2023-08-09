@@ -11,7 +11,7 @@ The natural evolution of the Q17-Mini, this time with two pairs of power transis
 
 The first version of the board was released on January, 6 2023.
 
-Version 1.2 was released on July 30, 2023.
+Version 1.2.1 was released on August 8, 2023.
 
 All files are located in Q17-TURBO-1.2 directory. Old version are located in Q17-TURBO Archives directory.
 
