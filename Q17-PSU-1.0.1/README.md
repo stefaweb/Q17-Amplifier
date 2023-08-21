@@ -4,4 +4,5 @@
 
 ![Q17-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b2f11c96-1b7c-4872-b295-44d0381d6ff6)
 
-![Q17-PSU-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/253088b6-86fe-40f6-bf54-4d62188be863)
+![Q17-PSU-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/e98a353f-f597-4ad9-b280-d418a2dcda7a)
+
