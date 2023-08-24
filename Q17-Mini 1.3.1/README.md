@@ -23,7 +23,7 @@ Read the CHANGELOG file to know what's new.
 
 ![stepped_sin](https://user-images.githubusercontent.com/12907102/190194852-40d42843-2d08-4dd0-b583-4583f5c79af1.jpg)
 
-![Q17-Mini-schematic](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/assets/12907102/0ae3770d-4d13-49c0-a21f-abe7d1893909)
+![Q17-Mini-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/82f7ec45-0b64-4b47-b888-7c14cbd101dc)
 
 ![Q17-Mini-3D](https://github.com/stefaweb/Q17-a-QUAD405-audiophile-approach/assets/12907102/071d9f12-fbb9-40c6-8db7-37315823b1c5)
 
