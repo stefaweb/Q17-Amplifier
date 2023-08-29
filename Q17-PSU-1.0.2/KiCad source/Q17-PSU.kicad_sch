@@ -6,8 +6,8 @@
 
   (title_block
     (title "Q17 Power Supply Universal")
-    (date "2023-08-22")
-    (rev "1.0.1")
+    (date "2023-08-27")
+    (rev "1.0.2")
     (company "by stef")
   )
 
@@ -1412,6 +1412,10 @@
   (text "With other diode bridge." (at 15.24 180.34 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 71d27051-c865-4f0f-be7f-4c3dce3ec13f)
+  )
+  (text "- Strap R3 and R4." (at 15.24 187.96 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c5d3c3da-7b48-4a39-a470-564d05e133dc)
   )
   (text "- Do not use C1, C2, C3 and C4." (at 15.24 184.15 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
