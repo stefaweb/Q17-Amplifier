@@ -10,6 +10,6 @@ Version 1.0.3 published on August 30, 2023.
 
 ![Q17-PSU-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b94e48b1-966e-4bc7-a6d9-2952ea086b80)
 
-![Q17-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/79acf0df-3851-487e-a246-020d29dc090a)
+![Q17-PSU-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/ba554de2-8d1e-48b3-afd2-d3fe5812680b)
 
-![Q17-PSU-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/00a2c0be-c9b2-4ca7-9dcf-f34d045317e3)
+![Q17-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/dbe05607-3481-41e8-a4f8-3d47577683ac)
