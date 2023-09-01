@@ -22,7 +22,7 @@ Version 2.0 not yet published.
 Read the CHANGELOG file to know what's new.
 
 
-![Q17-Mini-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/db6382c8-7429-4066-9045-7ea33a7b9f1a)
+![IMG_8089](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/58acce37-9181-473a-a6c6-532a2841abbd)
 
 ![Q17-Mini-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/35ae588d-b3b5-43cc-be97-ac9193aa4a10)
 
