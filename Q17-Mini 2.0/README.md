@@ -1,6 +1,6 @@
-# Q17-Mini version 2.0 (100W @ 8 Ohms)<br>
+# Q17-Mini version 2.0 (100W @ 8 Ohms)</b><br>
 
-Technical specifications:
+<b>Technical specifications:</b>
 
 THD: 
 THD+N: 
