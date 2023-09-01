@@ -2,15 +2,15 @@
 
 <b>Technical specifications:</b>
 
-THD: 
-THD+N: 
-Signal to Noise ratio (SNR): 
-Intermodulation distortion: 
-Frequency response: ±0,2 dB
-Default gain: 25 (with input gain R17 at 1.4V)
-DC offset at output: 1mV
-Power supply: 50vDC
-Idle consumption: 10W @ 240vAC 
+THD: %<br>
+THD+N: %<br>
+Signal to Noise ratio (SNR):  dBFS <br>
+Intermodulation distortion: %<br>
+Frequency response: ±0,2 dB<br>
+Default gain: 25 (with input gain R17 at 1.4V)<br>
+DC offset at output: 1mV<br>
+Power supply: 50vDC<br>
+Idle consumption: 10W @ 240vAC
 
 These measurements were made with amateur measuring equipment. It is better to take them as an indication than as safe values. 
 
