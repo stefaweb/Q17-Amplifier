@@ -21,6 +21,8 @@ Version 2.0 not yet published.
 
 Read the CHANGELOG file to know what's new.
 
+<a href="https://audio.cyberkata.org/Q17-Mini-2.0-BOM.html">Q17-Mini-2.0-BOM Online Version</a><br>
+<br>
 
 ![IMG_8089](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/58acce37-9181-473a-a6c6-532a2841abbd)
 
