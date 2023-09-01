@@ -2,10 +2,10 @@
 
 <b>Technical specifications:</b>
 
-THD: %<br>
-THD+N: %<br>
-Signal to Noise ratio (SNR):  dBFS <br>
-Intermodulation distortion: %<br>
+THD: 0.009%<br>
+THD+N: 0.012%<br>
+Signal to Noise ratio (SNR): 110 dBFS<br>
+Intermodulation distortion: 0,25%<br>
 Frequency response: ±0,2 dB<br>
 Default gain: 25 (with input gain R17 at 1.4V)<br>
 DC offset at output: 1mV<br>
