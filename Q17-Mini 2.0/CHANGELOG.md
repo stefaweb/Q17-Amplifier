@@ -1,8 +1,8 @@
 # Changelog Q17-Mini
 
-Version [2.0] (28-08-2023)
+Version [2.0] (1-09-2023)
 
-- New circuits for handling low level signals and better specs at frequencies above 10KHz.
+- New Q17.3 circuit.
 - Added Erno Borbely cascode type using JFET & depletion NMOS (Q7, Q8). Can now use low noise JFET's like LSK170B (TH) or TI Burr-Brown JFE150 (SMD).
 - Current mirror was updated to a Wilson CCS with BS250 and NDC7003P (Q9 & U2).
 - DC offset is now below 1mV.
