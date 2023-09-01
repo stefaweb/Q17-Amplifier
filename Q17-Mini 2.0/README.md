@@ -1,8 +1,26 @@
 # Q17-Mini version 2.0 (100W @ 8 Ohms)<br>
 
+Technical specifications:
+
+THD: 
+THD+N: 
+Signal to Noise ratio (SNR): 
+Intermodulation distortion: 
+Frequency response: ±0,2 dB
+Default gain: 25 (with input gain R17 at 1.4V)
+DC offset at output: 1mV
+Power supply: 50vDC
+Idle consumption: 10W @ 240vAC 
+
+These measurements were made with amateur measuring equipment. It is better to take them as an indication than as safe values. 
+
+
+The first version of the board was released on December 8, 2021.
+
 Version 2.0 not yet published.
 
 Read the CHANGELOG file to know what's new.
+
 
 ![Q17-Mini-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/db6382c8-7429-4066-9045-7ea33a7b9f1a)
 
@@ -17,8 +35,4 @@ Read the CHANGELOG file to know what's new.
 ![Q17-Mini-PCB-BACK](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/46766aa8-3126-4e51-b855-a7ada7cf5036)
 
 ![Q17-Mini-PCB](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b17119fd-3e13-44c3-acea-754f326925db)
-
-
-
-
 
