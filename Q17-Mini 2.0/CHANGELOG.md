@@ -5,7 +5,6 @@ Version [2.0] (1-09-2023)
 - New Q17.3 circuit.
 - Added Erno Borbely cascode type using JFET & depletion NMOS (Q7, Q8). Can now use low noise JFET's like LSK170B (TH) or TI Burr-Brown JFE150 (SMD).
 - Current mirror was updated to a Wilson CCS with BS250 and NDC7003P (Q9 & U2).
-- DC offset is now below 1mV.
 - The signal-to-noise ratio is better over the entire audio band.
 - Use handsoldering SMD footprints (enlarged tracks).
 - Removed C29 and C30 from schematic and SMD footprint on back PCB.
