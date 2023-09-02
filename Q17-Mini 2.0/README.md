@@ -41,3 +41,4 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-PCB](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b17119fd-3e13-44c3-acea-754f326925db)
 
+![Q17-Mini-drilling](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/67c77239-9115-44a6-9773-10e68d280798)
