@@ -1,6 +1,6 @@
 # Changelog Q17-Mini
 
-Version [2.0] (1-09-2023)
+Version [2.0] (3-09-2023)
 
 - New Q17.3 circuit.
 - Added Erno Borbely cascode type using JFET & depletion NMOS (Q7, Q8). Can now use low noise JFET's like LSK170B (TH) or TI Burr-Brown JFE150 (SMD).
@@ -14,7 +14,7 @@ Version [2.0] (1-09-2023)
 - Replaced OPA1641 with OPA828 (SiGe JFET) for JFET lovers.
 - The 4 M3 mounting holes have been ovalized for easier installation.
 - Updated schematic with available Mouser part number and datasheet links.
-- Updated iBOM Q17-Mini-BOM file and <a href="https://audio.cyberkata.org/Q17-Mini.html">Online Q17-Mini-BOM</a> with Mouser part number (can be exported).
+- Updated iBOM Q17-Mini-BOM file and <a href="https://audio.cyberkata.org/Q17-Mini-2.0.html">Online Q17-Mini-2.0-BOM</a> with Mouser part number (can be exported).
 - New audio measures available.
 
 Version [1.3.1] (25-06-2023)
