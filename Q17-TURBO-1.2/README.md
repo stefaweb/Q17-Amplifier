@@ -45,7 +45,7 @@ Q17-TURBO-BOM.html - interactive BOM for Q17-TURBO amplifier (to open with an In
 Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
 <br>
 <a href="https://audio.cyberkata.org/Q17-TURBO-BOM.html">Online Q17-TURBO-BOM</a><br>
-<a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=752a26b957">Order Q17-Mini-2.0-BOM on Mouser.</a><br> 
+<a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=44c16dd97b">Order Q17-TURBO-BOM on Mouser.</a><br> 
 
 ![Q17-TURBO-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/bd93355b-2f5f-4d51-8b93-888e6ab36547)
 <br>
