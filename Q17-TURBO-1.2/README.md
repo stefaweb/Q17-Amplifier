@@ -63,7 +63,7 @@ Amplifier noise without signal.
 ![Q17-TURBO-PCB](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/8fd9a57e-1c90-4a52-b99a-6112c6bf89fe)
 <br>
 <br>
-![Q17-TURBO-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b88cb571-d302-4939-abad-c51fc426076d
+![Q17-TURBO-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b88cb571-d302-4939-abad-c51fc426076d)
 <br>
 <br>
 ![Q17-TURBO-PCB-BACK](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/4fc8bb3c-8004-481a-9e8e-6294b4e8848b)
