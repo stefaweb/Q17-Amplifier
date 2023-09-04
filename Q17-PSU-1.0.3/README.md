@@ -6,7 +6,7 @@ Version 1.0.3 published on August 30, 2023.
 
 <a href="https://audio.cyberkata.org/Q17-PSU-BOM.html">Online Q17-PSU-BOM</a><br>
 
-Classic version with Vishay bridge
+Classic version with Vishay bridge and Nichicon Muse
 ![IMG_8080-1](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/365bf9b0-dc3f-4a3c-9a13-fc9dd7f8cdfb)
 
 High-end version with Saligny mosfet bridge and Wurth WCAP-AIG5
