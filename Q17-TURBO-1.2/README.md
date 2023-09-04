@@ -60,19 +60,17 @@ Amplifier noise without signal.
 ![Q17-Turbo_1 2_no_signal_61v](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/df66cec7-f6ed-4381-a130-bb7c678b6d19)
 <br>
 <br>
-![Q17-TURBO-PCB](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/3c17c1c3-7de1-43e6-9994-cb332b2af6e9)
+![Q17-TURBO-PCB](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/8fd9a57e-1c90-4a52-b99a-6112c6bf89fe)
 <br>
 <br>
-![Q17-TURBO-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/47b24ae0-a736-4f27-a1d6-182c19f0f6ed)
+![Q17-TURBO-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b88cb571-d302-4939-abad-c51fc426076d
 <br>
 <br>
-![Q17-TURBO-PCB-BACK](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/fb9b21d6-91bf-46fe-9b2c-62feb414b313)
+![Q17-TURBO-PCB-BACK](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/4fc8bb3c-8004-481a-9e8e-6294b4e8848b)
 <br>
 <br>
-![Q17-TURBO-3D-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/5be220c5-f96a-4023-b57b-70603df40992)
+![Q17-TURBO-3D-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/5841935c-0402-4d7d-806f-7a9400b1ee82)
 <br>
 <br>
 Q17-Turbo PCB: 190x75mm - 2 Oz
 ![scan_pcb_v1 2 1](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/9ab3d39f-e95d-4d10-9d2b-1e8481d568a4)
-
-
