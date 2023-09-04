@@ -1,5 +1,9 @@
 # Changelog Q17-Turbo
 
+Version [1.2.2] (4-09-2023)
+
+- Added J4 jumper to be able to strap R32 more easily.
+
 Version [1.2.1] (08-08-2023)
 
 - New version of PCB files. Corrected an error on the SMD footprint for U1 on the back.
