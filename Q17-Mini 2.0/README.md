@@ -13,10 +13,11 @@ Power supply: 50vDC<br>
 Idle consumption: 10W @ 240vAC
 
 These measurements were made with amateur measuring equipment. It is better to take them as an indication than as safe values. 
-
-
+<br>
+<br>
 The first version of the board was released on December 8, 2021.
-
+<br>
+<br>
 Version 2.0 wad published on September 3, 2024.
 
 Read the CHANGELOG file to know what's new.
