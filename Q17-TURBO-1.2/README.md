@@ -70,7 +70,3 @@ Amplifier noise without signal.
 <br>
 <br>
 ![Q17-TURBO-3D-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b7deb838-e6f3-47ea-814e-0dbcf35ee6fb)
-<br>
-<br>
-Q17-Turbo PCB: 190x75mm - 2 Oz
-![scan_pcb_v1 2 1](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/9ab3d39f-e95d-4d10-9d2b-1e8481d568a4)
