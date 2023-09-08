@@ -26,7 +26,7 @@ Read the CHANGELOG file to know what's new.
 <a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=46b6f1744b">Order Q17-Mini-2.0-BOM on Mouser</a><br> 
 <br>
 
-![IMG_8089](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/58acce37-9181-473a-a6c6-532a2841abbd)
+![Q17-Mini-2 0-test](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b3afefec-db23-4179-b301-9268518544d9)
 
 ![Q17-Mini-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/1500875d-398c-4921-a36a-a5cd64c76808)
 
