@@ -6,7 +6,7 @@
 
   (title_block
     (title "Q17-Mini Amplifier")
-    (date "2023-09-02")
+    (date "2023-09-14")
     (rev "2.0")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
@@ -6172,10 +6172,10 @@
     (property "Datasheet" "https://www.vishay.com/doc?28724" (at 133.35 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Part#" "MRS25000C1009FRP00" (at 133.35 83.82 0)
+    (property "Part#" "MRS25000C1001FRP00" (at 133.35 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mouser" "594-MRS25000C1009FRP" (at 133.35 83.82 0)
+    (property "Mouser" "594-MRS25000C1001FRP" (at 133.35 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid bfcacf0a-106c-4522-ade1-43a40c52c7c0))
