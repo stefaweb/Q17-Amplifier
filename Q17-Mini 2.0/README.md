@@ -23,7 +23,7 @@ Version 2.0 wad published on September 3, 2024.
 Read the CHANGELOG file to know what's new.
 
 <a href="https://audio.cyberkata.org/Q17-Mini-2.0-BOM.html">Q17-Mini-2.0-BOM Online Version</a><br>
-<a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=46b6f1744b">Order Q17-Mini-2.0-BOM on Mouser</a><br> 
+<a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=e4eb528eff">Order Q17-Mini-2.0-BOM on Mouser</a><br> 
 <br>
 
 ![Q17-Mini-2 0-heatsink](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/1577c726-74a7-48e5-b425-e83f52a7cc36)
