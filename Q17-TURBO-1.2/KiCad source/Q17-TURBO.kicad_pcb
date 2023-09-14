@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (title "Q17-TURBO (P2)")
-    (date "2023-09-05")
+    (date "2023-09-14")
     (rev "1.2.2")
     (company "PCB design by Stef")
     (comment 1 "Zize 190 x 75 mm")
@@ -11001,8 +11001,8 @@
     (at 110.1472 104.902 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
-    (property "Mouser" "594-MRS25000C7501FRP")
-    (property "Part#" "MRS25000C7501FRP00")
+    (property "Mouser" "594-MRS25000C8201FRP")
+    (property "Part#" "MRS25000C8201FRP00")
     (property "Sheetfile" "Q17-TURBO.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor")
@@ -11013,7 +11013,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d7f923b8-4269-4856-b10e-faae8276afdf)
     )
-    (fp_text value "7k5" (at 5.08 0.01 90) (layer "F.SilkS") hide
+    (fp_text value "8k2" (at 5.08 0.01 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 80dc0797-c001-49d9-bcc2-576cbd074ae3)
     )

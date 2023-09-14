@@ -3,6 +3,7 @@
 Version [1.2.2] (4-09-2023)
 
 - Added J4 jumper to be able to strap R32 more easily.
+- R25 changed to 8k2 (was 7k5). Value optimized for 60Vdc at input.
 
 Version [1.2.1] (08-08-2023)
 
