@@ -5,8 +5,9 @@
 The natural evolution of the Q17-Mini, this time with two pairs of power transistors, better thermal management, better technical characteristics and the same sound signature with more punch.
 <br>
 <br>
-![Q17-Turbo-1 2](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/43840532-3415-4e17-b094-0514e58fedf2)
+![Q17-Turbo-1 2](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/43840532-3415-4e17-b094-0514e58fedf2)<br>
 <br>
+![IMG_8185](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/a890c2eb-964e-465d-91f4-4376e2c8fe9c)<br>
 <br>
 <b>Technical specifications:</b>
 
