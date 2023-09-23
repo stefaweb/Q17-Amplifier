@@ -13,7 +13,6 @@ The natural evolution of the Q17-Mini, this time with two pairs of power transis
 
 THD: 0.001%<br>
 THD+N: 0.01%<br>
-Signal to Noise ratio (SNR): 85 dBFS A <br>
 Intermodulation distortion: 0.012%<br>
 Frequency response: ±0,2 dB<br>
 Default gain: 25 (with input gain R17 at 1.4V)<br>
