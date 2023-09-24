@@ -27,7 +27,7 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-2 0-heatsink](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/1577c726-74a7-48e5-b425-e83f52a7cc36)
 
-![Q17-Mini-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/af016847-0ae7-42cc-8cf3-08c00d96983c)
+![Q17-Mini-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/c8dc0fb7-3036-4da6-818a-42c0802e6391)
 
 ![Q17-Mini-2 0-spectrum](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/d38abe8f-e176-4848-b72d-e20b2fdf4b0d)
 
