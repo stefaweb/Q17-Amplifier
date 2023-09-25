@@ -18,5 +18,4 @@ High-end version with Saligny mosfet bridge and Wurth WCAP-AIG5 capacitors (max 
 
 ![Q17-PSU-PCB-BACK](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/4fb3b6f7-bd6c-4e18-80c9-0c7e7c75c784)
 
-![Q17-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/812730ae-d875-4f72-8cfc-1ff38aa71e7a)
-
+![Q17-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/239e27c3-6e19-4aa8-b4fd-8ba17629b606)
