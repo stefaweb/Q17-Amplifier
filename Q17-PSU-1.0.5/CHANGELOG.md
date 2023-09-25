@@ -1,5 +1,10 @@
 # Changelog Q17-PSU
 
+
+Version [1.0.5] (25-09-2023)
+
+- Updated ground plan et traces on PCB.
+
 Version [1.0.4] (6-09-2023)
 
 - Updated trace for R1/C3 and R2/C4 on back PCB.
