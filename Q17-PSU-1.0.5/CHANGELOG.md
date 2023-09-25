@@ -4,6 +4,7 @@
 Version [1.0.5] (25-09-2023)
 
 - Updated ground plan et traces on PCB.
+- Don't use PCB below 1.0.5 version. They don't work (they produce hum).
 
 Version [1.0.4] (6-09-2023)
 
