@@ -1,8 +1,8 @@
-# Q17-PSU version 1.0.4<br>
+# Q17-PSU version 1.0.5<br>
 
 Universal Power Supply for Class B amplifiers.
 
-Version 1.0.4 published on September 6, 2023.
+Version 1.0.5 published on September 25, 2023.
 
 <a href="https://audio.cyberkata.org/Q17-PSU-BOM.html">Online Q17-PSU-BOM</a><br>
 
