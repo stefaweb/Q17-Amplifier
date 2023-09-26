@@ -1,5 +1,7 @@
 # Q17-Mini version 2.0 (100W @ 8 Ohms)</b><br>
 
+![Q17-Mini-2 0-portait](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f6fcf4be-ac92-450d-bcc0-ea5f8470a5d9)
+
 <b>Technical specifications:</b>
 
 THD: 0.009%<br>
@@ -24,8 +26,6 @@ Read the CHANGELOG file to know what's new.
 <a href="https://audio.cyberkata.org/Q17-Mini-2.0-BOM.html">Q17-Mini-2.0-BOM Online Version</a><br>
 <a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=e4eb528eff">Order Q17-Mini-2.0-BOM on Mouser</a><br> 
 <br>
-
-![Q17-Mini-2 0-portait](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f6fcf4be-ac92-450d-bcc0-ea5f8470a5d9)
 
 ![Q17-Mini-2 0-heatsink](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/1577c726-74a7-48e5-b425-e83f52a7cc36)
 
