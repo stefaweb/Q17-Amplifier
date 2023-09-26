@@ -50,9 +50,6 @@ Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
 ![Q17-TURBO-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/e0816a27-0bcf-4d1d-9987-51f16d88ec3c)
 <br>
 <br>
-![Q17-Turbo_1 2_spectrum_61v-multitone](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/0342a9cd-6f9b-4d74-a31a-3aef63848853)
-<br>
-<br>
 ![Q17-Turbo-v2-spectrum](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/908e093f-7d2d-4ead-acf5-5862df79a66b)
 <br>
 <br>
