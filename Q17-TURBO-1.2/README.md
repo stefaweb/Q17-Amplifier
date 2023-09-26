@@ -3,6 +3,8 @@
 <b>Q17-TURBO project (200W @ 8 Ohms).</b><br>
 
 The natural evolution of the Q17-Mini, this time with two pairs of power transistors, better thermal management, better technical characteristics and the same sound signature with more punch.
+
+An amplifier that will warm up even the coldest speakers.
 <br>
 <br>
 ![Q17-Turbo-1 2](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/43840532-3415-4e17-b094-0514e58fedf2)<br>
