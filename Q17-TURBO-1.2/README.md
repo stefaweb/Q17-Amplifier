@@ -15,8 +15,8 @@ THD: 0.001%<br>
 THD+N: 0.01%<br>
 Intermodulation distortion: 0.012%<br>
 Frequency response: ±0,2 dB<br>
-Default gain: 25 (with input gain R17 at 1.4V)<br>
-DC offset at output: less than 1mV<br>
+Default gain: 25 (with input gain R17 at 1.5V)<br>
+DC offset at output: less than 1mV (with R32=0R)<br>
 Power supply: 60vDC<br>
 Idle consumption: 15W @ 240vAC
 <br>
