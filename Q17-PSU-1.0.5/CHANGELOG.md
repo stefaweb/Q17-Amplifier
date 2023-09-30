@@ -4,7 +4,7 @@
 Version [1.0.5] (27-09-2023)
 
 - Updated ground plan et traces on PCB. Optimized the ground planes and tracks to minimize interference between the AC and DC part of the PCB.
-- Enlarged D1 and D2 bridge hols footprints.
+- Enlarged D1 and D2 bridge holes footprint.
 - Don't use PCB below 1.0.5 version. They don't work (they produce hum).
 
 Version [1.0.4] (6-09-2023)
