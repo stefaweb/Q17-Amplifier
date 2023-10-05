@@ -24,7 +24,7 @@ The first version of the board was released on December 8, 2021.
 
 Version 2.0 wad published on September 3, 2024.
 
-All files are located in Q17-Mini-1.3.1 directory. Old version are located in Q17-Mini Archives directory.
+All files are located in Q17-Mini-2.0 directory. Old version are located in Q17-Mini Archives directory.
 
 Q17-Mini v2.0 (95x75mm, 2 Oz PCB)
 ![Q17-Mini-2 0-portait](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f6fcf4be-ac92-450d-bcc0-ea5f8470a5d9)
