@@ -22,7 +22,7 @@ Q17-Turbo v1.2 (190x75mm, 2 Oz PCB)
 
 The first version of the board was released on December 8, 2021.
 
-Version 2.0 wad published on September 3, 2024.
+Version 2.0 was published on September 3, 2024.
 
 All files are located in Q17-Mini-2.0 directory. Old version are located in Q17-Mini Archives directory.
 
