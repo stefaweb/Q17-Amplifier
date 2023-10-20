@@ -4,6 +4,7 @@ Version [1.0.6] (20-10-2023)
 
 - Optimized ground plan and traces on PCB.
 - Enlarged bridge holes for easy unsoldering.
+- New measures uploaded.
 
 Version [1.0.5] (27-09-2023)
 
