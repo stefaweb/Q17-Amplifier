@@ -1,4 +1,4 @@
-# Q17-PSU version 1.0.5<br>
+# Q17-PSU version 1.0.6<br>
 
 Universal Power Supply for Class B amplifiers.
 
