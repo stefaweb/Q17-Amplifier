@@ -12,7 +12,7 @@ Classic version with Vishay bridge and Nichicon Muse capacitors (max 63V).
 High-end version with Saligny mosfet bridge and Wurth WCAP-AIG5 capacitors (max 55V).
 ![Q17-PSU-Saligny](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/0ea4b228-6e09-4759-a9b2-3f05455d011a)
 
-![Q17-PSU-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b6c75dd5-6c86-41ac-b1bf-394297be738e)
+![Q17-PSU-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/ba90d147-50b4-4e02-bc4c-08f6dd7fa837)
 
 ![Q17-PSU-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/0002974d-734f-45a2-a1b1-2d1e35210248)
 
