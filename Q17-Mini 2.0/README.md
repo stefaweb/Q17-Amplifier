@@ -6,7 +6,7 @@
 
 THD: 0.009%<br>
 THD+N: 0.012%<br>
-S/N : 101dBFS<br>
+S/N : 101 dBFS<br>
 Intermodulation distortion: 0,25%<br>
 Frequency response: ±0,2 dB<br>
 Default gain: 25 (with input gain R17 at 1.5V)<br>
