@@ -7,10 +7,7 @@ Version 1.0.6 published on October 20, 2023.
 <a href="https://audio.cyberkata.org/Q17-PSU-BOM.html">Online Q17-PSU-BOM</a><br>
 
 Classic version with Vishay bridge and Nichicon Muse capacitors (max 63V).
-![IMG_8080-1](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/365bf9b0-dc3f-4a3c-9a13-fc9dd7f8cdfb)
-
-High-end version with Saligny mosfet bridge and Wurth WCAP-AIG5 capacitors (max 55V).
-![Q17-PSU-Saligny](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/0ea4b228-6e09-4759-a9b2-3f05455d011a)
+![Q17-PSU-MUSE](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/fab3aace-2934-4a44-98ae-4f259ab853a2)
 
 ![Q17-PSU-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/ba90d147-50b4-4e02-bc4c-08f6dd7fa837)
 
