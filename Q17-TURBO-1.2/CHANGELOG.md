@@ -8,7 +8,7 @@ Version [1.2.3] (27-10-2023)
 - Added Faston connector footprint on J3 input power connector.
 - Removed useless fuse sockets to fit new Faston footprint.
 - Optimized some tracks on GNDPWD parts.
-- Added T5 and T6 to a better location.
+- Moved T5 and T6 to a better location.
 - Various adds on schematic.
 - New measures with a better measurement device.
 
