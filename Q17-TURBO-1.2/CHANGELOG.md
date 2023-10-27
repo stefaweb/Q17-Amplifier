@@ -1,9 +1,21 @@
 # Changelog Q17-Turbo
 
+
+Version [1.2.3] (26-10-2023)
+
+- Modified R32 footprint to support potentiometer type T93YA100KT20 (for testing).
+- Added zener D7 and D5 (1N5245B) to protect output.
+- Added Faston connector footprint on J3 input power connector.
+- Removed useless fuse sockets to fit new Faston footprint.
+- Optimized some tracks on GNDPWD parts.
+- Added T5 and T6 to a better location.
+- Various adds on schematic.
+- New measures with a better measurement device.
+
 Version [1.2.2] (4-09-2023)
 
 - Added J4 jumper to be able to strap R32 more easily.
-- R25 changed to 8k2 (was 7k5). Value optimized for 60Vdc at input.
+- R25 changed to 8k2 (was 7k5). Value optimized for 60Vdc.
 
 Version [1.2.1] (08-08-2023)
 
@@ -15,7 +27,7 @@ Version [1.2.0] (30-07-2023)
 - New circuits for handling low level signals and better specs at frequencies above 10KHz.
 - Added Erno Borbely cascode type using JFET & depletion NMOS (Q7, Q8). Can now use low noise JFET's like LSK170B (TH) or TI Burr-Brown JFE150 (SMD).
 - Current mirror was updated to a Wilson CCS with BS250 and NDC7003P (Q9 & U2).
-- DC offset is now below 1mV.
+- DC offset is now below 1mV (with R32=0R).
 - The signal-to-noise ratio is better over the entire audio band.
 - Now work at 60vDC (recommended voltage).
 - Use handsoldering SMD footprints (enlarged tracks).
