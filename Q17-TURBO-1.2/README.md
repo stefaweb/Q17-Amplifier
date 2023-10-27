@@ -14,8 +14,8 @@ An amplifier that will warm up even the coldest speakers.
 <b>Technical specifications:</b>
 
 THD: 0.001%<br>
-THD+N: 0.01%<br>
-Signal to Noise ratio (SNR): xxx dBFS<br>
+THD+N: 0.007%<br>
+Signal to Noise ratio (SNR): 102 dBFS<br>
 Intermodulation distortion: 0.012%<br>
 Frequency response: ±0,2 dB<br>
 Default gain: 25 (with input gain R17 at 1.5V)<br>
@@ -30,7 +30,7 @@ These measurements were made with amateur measuring equipment. It is better to t
 <br>
 The first version of the board was released on January, 6 2023.<br>
 <br>
-Version 1.2.3 was released on November 1st, 2023.<br>
+Version 1.2.3 was released on October 27, 2023.<br>
 <br>
 <br>
 Version 1.2 introduces two major changes to the original Q17 schematic. A new Erno Borbely cascode type using JFET & depletion NMOS (Q7, Q8) has been added. Current mirror has been updated to a Wilson CCS with BS250 and NDC7003P (Q9 & U2). This evolution was made possible thanks to the help of Tiberiu Vicol which made it possible to evolve the original scheme towards new performances.<br>
