@@ -3,12 +3,14 @@
 
 Version [1.2.3] (27-10-2023)
 
-- Modified R32 footprint to support potentiometer type T93YA100KT20 (for testing).
-- Added zener D7 and D8 (1N5245B) to protect output.
 - Added Faston connector footprint on J3 input power connector.
+- Added zener D7 and D8 (1N5245B) to protect output.
+- Updated the reference of C15 and C16 to Nichicon LKG (take advantage while they still last).
+- Modified R32 footprint to support potentiometer type T93YA100KT20 (for testing).
 - Removed useless fuse sockets to fit new Faston footprint.
 - Optimized some tracks on GNDPWD parts (power line to Q13/Q14).
 - Moved T5 and T6 to a better location.
+
 - Various adds on schematic.
 - New measures with a better measurement device.
 
