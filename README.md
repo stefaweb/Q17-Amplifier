@@ -5,7 +5,7 @@ Please refer to <a href="https://github.com/tiberiuvicol/Q17-audiophile-amplifie
 
 Use KiCad 7.0 or later to open and edit source files. KiCad 7.0 can be <a href="https://www.kicad.org/download/">downloaded</a> from CERN.
 
-<b>Q17-Turbo project (150W @ 8 Ohms):</b>
+<b>Q17-Turbo project (200W @ 8 Ohms):</b>
 
 The natural evolution of the Q17-Mini, this time with two pairs of power transistors, better thermal management with the same technical characteristics and the same sound signature.
 
