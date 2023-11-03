@@ -1,6 +1,6 @@
 # Q17-TURBO (P2) 1.2.3</b><br>
 
-<b>Q17-TURBO project (200W @ 8 Ohms).</b><br>
+<b>Q17-TURBO project (150W @ 8 Ohms).</b><br>
 
 The natural evolution of the Q17-Mini, this time with two pairs of power transistors, better thermal management, better technical characteristics and the same sound signature with more punch.
 
