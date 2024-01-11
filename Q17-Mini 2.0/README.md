@@ -20,7 +20,7 @@ These measurements were made with amateur measuring equipment. It is better to t
 The first version of the board was released on December 8, 2021.
 <br>
 <br>
-Version 2.0 was published on September 3, 2024.
+Version 2.0 was published on September 3, 2023.
 
 Read the CHANGELOG file to know what's new.
 
