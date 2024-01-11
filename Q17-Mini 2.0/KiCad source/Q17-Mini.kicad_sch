@@ -6,8 +6,8 @@
 
   (title_block
     (title "Q17-Mini Amplifier 2.x")
-    (date "2024-01-06")
-    (rev "2.0.3")
+    (date "2024-01-11")
+    (rev "2.0.4")
     (company "by eng. Tiberiu Vicol")
     (comment 1 "Modified by Stef for the Q17-Mini project")
     (comment 4 "Q17 a QUAD405 audiophile approach")
@@ -4237,7 +4237,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6a202cb7-1b61-4e70-9ac4-8a6973bf833b)
   )
-  (text "Transformer for 2 boards: 2 x 36Vac 160-250VA" (at 13.97 153.67 0)
+  (text "Transformer for 2 boards: 2 x 37Vac 160-250VA" (at 13.97 153.67 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 6a33e0d9-b757-41c8-9684-ff1a6134f1e7)
   )
