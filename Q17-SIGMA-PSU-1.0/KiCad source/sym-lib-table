@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Saligny")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/SalignyStandard.kicad_sym")(options "")(descr ""))
+  (lib (name "Bridge_GBJ")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/GBJ2510.kicad_sym")(options "")(descr ""))
+  (lib (name "ZHB6792TA")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/ZHB6792TA.kicad_sym")(options "")(descr ""))
+  (lib (name "IRFZ24NPBF")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/IRFZ24NPBF.kicad_sym")(options "")(descr ""))
+)
