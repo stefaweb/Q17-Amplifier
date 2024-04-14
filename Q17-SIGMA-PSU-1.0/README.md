@@ -4,9 +4,7 @@ The Q17-SIGMA-PSU power supply is inspired by Ti Kan's Sigma22 circuit. This pow
 
 This project is currently being tested and validated.
 
-Online BOM for Q17-SIGMA-PSU.
-
-https://audio.cyberkata.org/Q17-SIGMA-PSU-BOM.html
+<a href="https://audio.cyberkata.org/Q17-SIGMA-PSU-BOM.html">Q17-SIGMA-PSU-BOM Online Version</a><br>
 
 ![Q17-SIGMA-PSU-3D-VIEW-WO-HEATSINKS](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f0e94893-70dc-4894-8da3-0fec79059de2)
 
