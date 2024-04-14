@@ -4,14 +4,12 @@ The Q17-SIGMA-PSU power supply is inspired by Ti Kan's Sigma22 circuit. This pow
 
 This project is currently being tested and validated.
 
-![Q17-SIGMA-PSU-3D-VIEW-WO-HEATSINKS](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/7e1d5be7-b0e3-486b-b51e-1789eaf045fb)
+![Q17-SIGMA-PSU-3D-VIEW-WO-HEATSINKS](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f0e94893-70dc-4894-8da3-0fec79059de2)
 
 ![Q17-SIGMA-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/27a62992-eec8-48ad-a322-557047647c44)
 
-![Q17-SIGMA-PSU-TOP-VIEW-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/23faabce-f5df-455c-af98-e92c2f0449a2)
+![Q17-SIGMA-PSU-TOP-VIEW-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/fdda2d8c-28fc-4dc4-91bd-b2715201fd25)
 
-![Q17-SIGMA-PSU-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/d26a6679-ac3e-42c7-ada9-98fda66ee608)
+![Q17-SIGMA-PSU-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/96fc4fc1-95da-414a-a732-783275d60f42)
 
-![Q17-SIGMA-PSU-PCB-BACK](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/2ef85e47-d427-457d-aeb6-33ffd7ce868e)
-
-
+![Q17-SIGMA-PSU-PCB-BACK](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/47c351e9-3c4c-4f93-afec-cb9ac67f7ce7)
