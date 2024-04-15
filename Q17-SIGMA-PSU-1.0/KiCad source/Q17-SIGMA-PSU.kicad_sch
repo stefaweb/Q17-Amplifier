@@ -7,7 +7,7 @@
 	(title_block
 		(title "Q17-SIGMA Power Supply")
 		(date "2024-04-14")
-		(rev "1.0")
+		(rev "1.0.1")
 		(company "PCB and BOM by stef")
 		(comment 2 "Design and test by Moor")
 		(comment 3 "Inspired from Sigma22 v3 design")
@@ -6214,7 +6214,7 @@
 		)
 		(uuid "f161d0bc-1cc2-46f5-80ef-be57c72c294d")
 	)
-	(text "Heatsinks = AAVID 531202B02100G or Fischer SK104 SK104-50,8-STS-220(w35xt13xh50)"
+	(text "Heatsinks = AAVID 531202B02100G or Fischer SK104 SK104-50,8-STS-220 (w35xt13xh50)"
 		(exclude_from_sim no)
 		(at 14.478 181.61 0)
 		(effects
