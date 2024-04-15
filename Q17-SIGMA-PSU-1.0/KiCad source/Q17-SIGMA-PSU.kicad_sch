@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-SIGMA Power Supply")
-		(date "2024-04-14")
-		(rev "1.0.1")
+		(date "2024-04-15")
+		(rev "1.0.2")
 		(company "PCB and BOM by stef")
 		(comment 2 "Design and test by Moor")
 		(comment 3 "Inspired from Sigma22 v3 design")
@@ -6126,6 +6126,17 @@
 		)
 		(uuid "ff1d4c9c-f427-43f4-93d3-a80d6d352771")
 	)
+	(text "All capacitors rated for 80V/100V minimum."
+		(exclude_from_sim no)
+		(at 14.732 158.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0fc2090f-7a40-49bf-8106-b7bfe271e349")
+	)
 	(text "1uF = Wima MKP MKP1D041005G00KSSD (use MKP pulse caps)"
 		(exclude_from_sim no)
 		(at 14.478 173.99 0)
@@ -8663,7 +8674,7 @@
 		(dnp no)
 		(uuid "64ca8c5b-468c-4301-b12b-bf09ee2c284e")
 		(property "Reference" "R4"
-			(at 110.49 70.358 0)
+			(at 110.49 70.104 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9093,7 +9104,7 @@
 		(dnp no)
 		(uuid "7c108c3e-8be4-43dc-95e8-025489e72d9b")
 		(property "Reference" "R6"
-			(at 119.38 70.358 0)
+			(at 119.38 70.104 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9102,7 +9113,7 @@
 			)
 		)
 		(property "Value" "510K"
-			(at 119.38 72.136 0)
+			(at 119.38 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9455,7 +9466,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 215.138 121.158 0)
+			(at 215.138 121.412 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9629,7 +9640,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 202.438 121.158 0)
+			(at 202.438 121.412 0)
 			(effects
 				(font
 					(size 1.27 1.27)
