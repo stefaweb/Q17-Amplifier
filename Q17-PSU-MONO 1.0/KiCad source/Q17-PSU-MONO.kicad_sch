@@ -1,0 +1,5258 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6f6e3082-536f-4dd6-9db0-4603443bd8a6")
+	(paper "A4")
+	(title_block
+		(title "Q17 mono Power Supply Universal")
+		(date "2024-04-14")
+		(rev "1.0")
+		(company "by stef")
+	)
+	(lib_symbols
+		(symbol "Connector:Screw_Terminal_01x01"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Screw_Terminal_01x01"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "screw terminal"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TerminalBlock*:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Screw_Terminal_01x01_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 0.508) (xy 0.508 -0.3302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:C"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Unpolarized capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_0_1"
+				(polyline
+					(pts
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:C_Polarized"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Polarized"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Polarized capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_Polarized_0_1"
+				(rectangle
+					(start -2.286 0.508)
+					(end 2.286 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 2.286) (xy -0.762 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.794) (xy -1.27 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.286 -0.508)
+					(end -2.286 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "C_Polarized_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:LED"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LED"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Light emitting diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "LED diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LED_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "LED_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:R"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "MBR735_1"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MBR735"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_THT:TO-220-2_Vertical"
+				(at 0 -4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/MBR735-D.PDF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "35V 7.5A Schottky Barrier Rectifier Diode, TO-220"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode Schottky"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO?220*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MBR735_1_0_1"
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MBR735_1_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "MBR735_2"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MBR735"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_THT:TO-220-2_Vertical"
+				(at 0 -4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/MBR735-D.PDF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "35V 7.5A Schottky Barrier Rectifier Diode, TO-220"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode Schottky"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO?220*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MBR735_2_0_1"
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MBR735_2_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Mechanical:Heatsink_Pad_2Pin"
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim yes)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "HS"
+				(at 0 5.715 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Heatsink_Pad_2Pin"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.3048 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0.3048 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Heatsink with electrical connection, 2 pin"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "thermal heat temperature"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Heatsink_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Heatsink_Pad_2Pin_0_1"
+				(polyline
+					(pts
+						(xy -0.3302 0) (xy -0.9652 0) (xy -0.9652 2.54) (xy -1.6002 2.54) (xy -1.6002 0) (xy -2.2352 0)
+						(xy -2.2352 2.54) (xy -2.8702 2.54) (xy -2.8702 -1.27) (xy -0.9652 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3302 0) (xy -0.3302 2.54) (xy 0.3048 2.54) (xy 0.3048 0) (xy 0.9398 0) (xy 0.9398 2.54)
+						(xy 1.5748 2.54) (xy 1.5748 0) (xy 2.2098 0) (xy 2.2098 2.54) (xy 2.8448 2.54) (xy 2.8448 -1.27)
+						(xy -0.9652 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "Heatsink_Pad_2Pin_1_1"
+				(pin passive line
+					(at -2.54 -2.54 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -2.54 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:GNDPWR"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GNDPWR"
+				(at 0 -3.302 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GNDPWR_0_1"
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -1.27) (xy -1.27 -2.032) (xy -1.27 -2.032)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 -1.27) (xy -0.762 -2.032) (xy -0.762 -2.032)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy -0.254 -2.032) (xy -0.254 -2.032)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 -1.27) (xy 0.254 -2.032) (xy 0.254 -2.032)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 -1.27) (xy -1.016 -1.27) (xy -1.016 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 -1.27) (xy 0.762 -2.032) (xy 0.762 -2.032) (xy 0.762 -2.032)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GNDPWR_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0) hide
+					(name "GNDPWR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 193.04 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01752d8f-76df-4d8c-b789-104eb5f4e9df")
+	)
+	(junction
+		(at 147.32 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08e6a9c9-6b98-47e4-a4aa-78e17bbd3d1e")
+	)
+	(junction
+		(at 234.95 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1653f829-9ec6-426c-9818-d075731aa18b")
+	)
+	(junction
+		(at 120.65 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4dc1a31a-95a4-415b-a9b9-00e201a9008f")
+	)
+	(junction
+		(at 78.74 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5324caba-414e-4f08-a0dc-f4e07f2638d2")
+	)
+	(junction
+		(at 147.32 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "55c207e6-f697-4ae1-b358-af82621cc413")
+	)
+	(junction
+		(at 207.01 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "617c7a29-c0c3-43e4-9cce-aa7d2d7f0cc0")
+	)
+	(junction
+		(at 193.04 120.65)
+		(diameter 1.016)
+		(color 0 0 0 0)
+		(uuid "6bfe5804-2ef9-4c65-b2a7-f01e4014370a")
+	)
+	(junction
+		(at 102.87 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c17d721-3b37-4a14-bc65-4ab7d53b745a")
+	)
+	(junction
+		(at 83.82 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e1ba52c-5ddc-46b2-82e0-c1bccfefef99")
+	)
+	(junction
+		(at 120.65 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7f12366d-78ab-4772-81a3-c8ae7a4e3a60")
+	)
+	(junction
+		(at 234.95 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "850e77e2-f007-491e-b2a5-04a933b05d9e")
+	)
+	(junction
+		(at 207.01 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85f9637e-f7b4-49e0-9a72-c4ea95809282")
+	)
+	(junction
+		(at 170.18 120.65)
+		(diameter 1.016)
+		(color 0 0 0 0)
+		(uuid "8da933a9-35f8-42e6-8504-d1bab7264306")
+	)
+	(junction
+		(at 120.65 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "915d481f-7b07-4e51-862c-9d9e42b3ef40")
+	)
+	(junction
+		(at 217.17 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9c040bfa-72f6-4111-a189-045d33b224e8")
+	)
+	(junction
+		(at 170.18 69.85)
+		(diameter 1.016)
+		(color 0 0 0 0)
+		(uuid "b88717bd-086f-46cd-9d3f-0396009d0996")
+	)
+	(junction
+		(at 193.04 69.85)
+		(diameter 1.016)
+		(color 0 0 0 0)
+		(uuid "bd5408e4-362d-4e43-9d39-78fb99eb52c8")
+	)
+	(junction
+		(at 83.82 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c33e9144-ec3c-4626-a922-9bf06d9cae97")
+	)
+	(junction
+		(at 170.18 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cb5196a0-7cf0-4de4-8846-889a9650391d")
+	)
+	(junction
+		(at 120.65 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ceb745f9-a77b-4019-89ad-0881704d4111")
+	)
+	(junction
+		(at 102.87 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dbe4f00f-a62c-4020-862d-a1869b346ef2")
+	)
+	(junction
+		(at 102.87 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e62844a1-80a8-4698-a89c-8e3032f1c5de")
+	)
+	(junction
+		(at 130.81 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eee26fce-1493-407f-b00e-bb220d5bc58d")
+	)
+	(junction
+		(at 147.32 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f49ae818-8adf-4c14-a24b-6ca495888311")
+	)
+	(junction
+		(at 234.95 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f5fb3a36-873d-4c3a-95ab-11b96e2008ad")
+	)
+	(junction
+		(at 234.95 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f8feffc5-28a8-4533-9674-989f46f0a838")
+	)
+	(junction
+		(at 207.01 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fdab2ebe-ee86-4deb-b2a0-07739507da1c")
+	)
+	(junction
+		(at 130.81 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fea226cf-f7c9-4d07-b028-b7befa7a2378")
+	)
+	(wire
+		(pts
+			(xy 102.87 83.82) (xy 102.87 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "007edf48-088e-4b5e-93d5-5e100f4caab8")
+	)
+	(wire
+		(pts
+			(xy 120.65 120.65) (xy 130.81 120.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "052b4633-b59a-4413-ab8a-19b4ca9e741f")
+	)
+	(wire
+		(pts
+			(xy 217.17 91.44) (xy 234.95 91.44)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "06cc59ee-48e6-4e3a-be16-edc8caee0de5")
+	)
+	(wire
+		(pts
+			(xy 83.82 83.82) (xy 102.87 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07b39876-2785-4855-b1fa-77db7e1d57ea")
+	)
+	(wire
+		(pts
+			(xy 130.81 69.85) (xy 147.32 69.85)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "181f8884-6503-40a9-86f3-50498a1e40ab")
+	)
+	(wire
+		(pts
+			(xy 147.32 95.25) (xy 147.32 104.14)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "184aa158-77cc-4ddb-9c28-85986d5c85cb")
+	)
+	(wire
+		(pts
+			(xy 83.82 72.39) (xy 83.82 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19dd8e29-2459-43ec-9ac7-104f718ceb54")
+	)
+	(wire
+		(pts
+			(xy 147.32 87.63) (xy 147.32 95.25)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "1aaf5c08-dc83-4649-a7cb-5a43ada93bf4")
+	)
+	(wire
+		(pts
+			(xy 120.65 69.85) (xy 120.65 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1df5723a-ab68-4150-9e7f-f80653caf09a")
+	)
+	(wire
+		(pts
+			(xy 234.95 76.2) (xy 234.95 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "216fed21-4157-4519-8adb-fa66d128fed3")
+	)
+	(wire
+		(pts
+			(xy 193.04 69.85) (xy 193.04 80.01)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "222cb008-8e26-4ebb-ae82-86e688c5acf6")
+	)
+	(wire
+		(pts
+			(xy 130.81 83.82) (xy 120.65 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25ab7fa6-abb7-43cf-9807-5116440be0c1")
+	)
+	(wire
+		(pts
+			(xy 67.31 106.68) (xy 83.82 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "268adb1e-9b96-41d6-be4e-570d5ce76b10")
+	)
+	(wire
+		(pts
+			(xy 170.18 95.25) (xy 170.18 104.14)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "2cb1ea39-e5f1-48f6-98fb-e8b33250e267")
+	)
+	(wire
+		(pts
+			(xy 130.81 80.01) (xy 130.81 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e1bcbe4-045f-4cf2-90b0-77040006dea9")
+	)
+	(wire
+		(pts
+			(xy 234.95 115.57) (xy 234.95 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33f25de0-5099-4cf8-ba99-079ba058c3d0")
+	)
+	(wire
+		(pts
+			(xy 120.65 83.82) (xy 120.65 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e7dcd98-1a5a-493c-b141-20275fcad66d")
+	)
+	(wire
+		(pts
+			(xy 102.87 69.85) (xy 102.87 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "461663b7-bae5-4c4f-b77a-21e386163321")
+	)
+	(wire
+		(pts
+			(xy 78.74 90.17) (xy 78.74 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "532c3b3b-932a-4c27-8dc1-fc82d59f9b0c")
+	)
+	(wire
+		(pts
+			(xy 130.81 106.68) (xy 120.65 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53cbccd9-a3f6-4cbc-b90b-a70d1f6a6ac9")
+	)
+	(wire
+		(pts
+			(xy 234.95 120.65) (xy 207.01 120.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "58352f99-1ad5-4501-9a9f-b276eef29bff")
+	)
+	(wire
+		(pts
+			(xy 78.74 90.17) (xy 67.31 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58ba6d07-edb7-48a2-a453-4df91e4912d5")
+	)
+	(wire
+		(pts
+			(xy 102.87 69.85) (xy 120.65 69.85)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "59e1b29b-65b8-4365-87c2-63f8b9722cd4")
+	)
+	(wire
+		(pts
+			(xy 83.82 118.11) (xy 83.82 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bf56581-ab55-495a-8e4d-cdfd50a2055a")
+	)
+	(wire
+		(pts
+			(xy 207.01 109.22) (xy 207.01 110.49)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "60a7d272-80ea-44bd-a75b-9d44b59cf36d")
+	)
+	(wire
+		(pts
+			(xy 234.95 110.49) (xy 234.95 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "611e6678-308e-4c9b-9bb6-7c8c4e729cd2")
+	)
+	(wire
+		(pts
+			(xy 207.01 80.01) (xy 207.01 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61e72033-108c-4c1d-a206-e55434a2a99b")
+	)
+	(wire
+		(pts
+			(xy 78.74 95.25) (xy 147.32 95.25)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "6866eb08-e7e9-47b3-bb90-06250127c2b8")
+	)
+	(wire
+		(pts
+			(xy 170.18 87.63) (xy 170.18 95.25)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "6888024f-4ea9-4759-8b60-c2cbde24360e")
+	)
+	(wire
+		(pts
+			(xy 207.01 95.25) (xy 207.01 101.6)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "692293de-5e44-4ddf-94fc-5d72e4db0551")
+	)
+	(wire
+		(pts
+			(xy 83.82 80.01) (xy 83.82 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a9f4fdf-dfd2-47a6-a6ff-46c5824dda59")
+	)
+	(wire
+		(pts
+			(xy 207.01 69.85) (xy 207.01 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ce4c161-654a-4c48-8e26-92d89952cbb4")
+	)
+	(wire
+		(pts
+			(xy 193.04 95.25) (xy 193.04 104.14)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "6d2aa47a-61a1-49f1-bb8f-7902425384d3")
+	)
+	(wire
+		(pts
+			(xy 217.17 91.44) (xy 217.17 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6eb7011e-b458-477b-8fe2-24b329f08f01")
+	)
+	(wire
+		(pts
+			(xy 130.81 110.49) (xy 130.81 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f8dd458-fe85-45d0-9760-5eb0ee2b8183")
+	)
+	(wire
+		(pts
+			(xy 170.18 111.76) (xy 170.18 120.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "767b7abc-9c44-43e9-81aa-f16e8107a85a")
+	)
+	(wire
+		(pts
+			(xy 78.74 100.33) (xy 67.31 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80dac4e1-ca0e-4247-ae27-7e70f7f5339f")
+	)
+	(wire
+		(pts
+			(xy 120.65 118.11) (xy 120.65 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a3d93e7-6cdc-49b6-bb9d-ce2fc0f8e3c1")
+	)
+	(wire
+		(pts
+			(xy 207.01 95.25) (xy 217.17 95.25)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "8ab6816d-8398-42e2-b307-f29c95097fb3")
+	)
+	(wire
+		(pts
+			(xy 120.65 80.01) (xy 120.65 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b487d51-aefe-4e40-920b-564976c9594c")
+	)
+	(wire
+		(pts
+			(xy 234.95 91.44) (xy 234.95 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "903b5155-5c82-4196-9603-e2029e4f0d2a")
+	)
+	(wire
+		(pts
+			(xy 83.82 69.85) (xy 102.87 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b054345-7ff0-49ca-8b5a-7b0d753909dc")
+	)
+	(wire
+		(pts
+			(xy 78.74 95.25) (xy 78.74 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9db1cd01-38be-49a5-ae69-94c6a1668aeb")
+	)
+	(wire
+		(pts
+			(xy 102.87 80.01) (xy 102.87 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f40ac46-bd37-4575-b932-de7442fdbada")
+	)
+	(wire
+		(pts
+			(xy 83.82 106.68) (xy 83.82 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9a72f80-9f74-4626-8569-02c0a883b831")
+	)
+	(wire
+		(pts
+			(xy 83.82 106.68) (xy 120.65 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab587e6c-b5da-4969-a029-368a74a12e75")
+	)
+	(wire
+		(pts
+			(xy 102.87 118.11) (xy 102.87 120.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "ac7566f0-898b-47fa-aed0-0942048be626")
+	)
+	(wire
+		(pts
+			(xy 147.32 69.85) (xy 170.18 69.85)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "b147877d-8bf6-4ccc-b196-8ff42b4a5012")
+	)
+	(wire
+		(pts
+			(xy 170.18 69.85) (xy 193.04 69.85)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "b147877d-8bf6-4ccc-b196-8ff42b4a5013")
+	)
+	(wire
+		(pts
+			(xy 83.82 83.82) (xy 67.31 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b515c467-65bc-4075-a435-ea24fae6e932")
+	)
+	(wire
+		(pts
+			(xy 207.01 90.17) (xy 207.01 95.25)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "baaa4f11-59af-4c8d-b06d-51efdbb0d20f")
+	)
+	(wire
+		(pts
+			(xy 130.81 118.11) (xy 130.81 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbdeb299-d5d3-4550-b69c-09d84143015b")
+	)
+	(wire
+		(pts
+			(xy 102.87 120.65) (xy 120.65 120.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "bd4a7a66-bb4f-49aa-8a3b-06bc8ddbb66a")
+	)
+	(wire
+		(pts
+			(xy 83.82 120.65) (xy 102.87 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c27b7a79-ab79-4327-9711-a8fdc483c8ba")
+	)
+	(wire
+		(pts
+			(xy 234.95 96.52) (xy 234.95 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2920680-8ce7-4fe7-aee7-ebbb93e03f35")
+	)
+	(wire
+		(pts
+			(xy 120.65 69.85) (xy 130.81 69.85)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "c46a6b4d-b38e-466b-831c-bcbc908982b6")
+	)
+	(wire
+		(pts
+			(xy 217.17 95.25) (xy 217.17 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cde4a4df-10b6-49f3-813e-6a3b35e0f460")
+	)
+	(wire
+		(pts
+			(xy 147.32 69.85) (xy 147.32 80.01)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "ce04f43d-f76d-436f-b93f-e5eafe42814b")
+	)
+	(wire
+		(pts
+			(xy 193.04 87.63) (xy 193.04 95.25)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "d10e52f1-46ec-4bf9-b8ac-96ca66413e25")
+	)
+	(wire
+		(pts
+			(xy 207.01 69.85) (xy 234.95 69.85)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "d40be834-9722-4e44-8cb3-55b1e7174cab")
+	)
+	(wire
+		(pts
+			(xy 193.04 111.76) (xy 193.04 120.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "d89c748e-4b4c-42aa-8eaf-aebd8f1e76d3")
+	)
+	(wire
+		(pts
+			(xy 130.81 69.85) (xy 130.81 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d945d48e-0b8d-4115-a31f-12b0d462787d")
+	)
+	(wire
+		(pts
+			(xy 147.32 111.76) (xy 147.32 120.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "de2770b6-26fe-42a8-8b26-4f3d83b01dfa")
+	)
+	(wire
+		(pts
+			(xy 234.95 69.85) (xy 234.95 76.2)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "e0f7f058-b391-4cec-b890-5ae2cc3d4a67")
+	)
+	(wire
+		(pts
+			(xy 130.81 120.65) (xy 147.32 120.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "e38654e0-d596-40e2-b2a6-236a6f054be9")
+	)
+	(wire
+		(pts
+			(xy 193.04 69.85) (xy 207.01 69.85)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "e468df1d-f449-485a-9b41-f16608da480b")
+	)
+	(wire
+		(pts
+			(xy 147.32 95.25) (xy 170.18 95.25)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "e75c5fda-70f3-42c8-8419-48c029845dae")
+	)
+	(wire
+		(pts
+			(xy 170.18 95.25) (xy 193.04 95.25)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "e75c5fda-70f3-42c8-8419-48c029845daf")
+	)
+	(wire
+		(pts
+			(xy 193.04 95.25) (xy 207.01 95.25)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "e75c5fda-70f3-42c8-8419-48c029845db0")
+	)
+	(wire
+		(pts
+			(xy 147.32 120.65) (xy 170.18 120.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "ecbc67cc-1523-4aac-9524-91f7d2e0acb0")
+	)
+	(wire
+		(pts
+			(xy 170.18 120.65) (xy 193.04 120.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "ecbc67cc-1523-4aac-9524-91f7d2e0acb1")
+	)
+	(wire
+		(pts
+			(xy 193.04 120.65) (xy 207.01 120.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "ecbc67cc-1523-4aac-9524-91f7d2e0acb2")
+	)
+	(wire
+		(pts
+			(xy 207.01 120.65) (xy 207.01 118.11)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "ecbc67cc-1523-4aac-9524-91f7d2e0acb3")
+	)
+	(wire
+		(pts
+			(xy 170.18 69.85) (xy 170.18 80.01)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "f56269a5-1581-404f-a3c9-a5d74a206492")
+	)
+	(wire
+		(pts
+			(xy 120.65 106.68) (xy 120.65 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc2e6817-0686-4c2a-9119-b15e26cd8c7c")
+	)
+	(label "V-"
+		(at 83.82 120.65 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right top)
+		)
+		(uuid "8307d894-e9d1-40a1-b5b1-784f7da813b0")
+	)
+	(label "V+"
+		(at 83.82 69.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right top)
+		)
+		(uuid "87044278-2999-4215-ba36-4944d57a592d")
+	)
+	(symbol
+		(lib_name "MBR735_2")
+		(lib_id "Diode:MBR735")
+		(at 102.87 114.3 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "059fc602-bea9-403c-b61c-6fe552063fb3")
+		(property "Reference" "D2"
+			(at 100.33 115.2526 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MBRF10100"
+			(at 100.33 112.7126 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-2_Vertical"
+			(at 98.425 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?89320"
+			(at 102.87 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Schottky Diode 100V 10A"
+			(at 102.87 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "MBRF10100-M3/4W"
+			(at 102.87 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "78-MBRF10100-M34W"
+			(at 102.87 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6489bac7-a9d2-40ab-94da-edc8d10d0a85")
+		)
+		(pin "2"
+			(uuid "01108c47-63ce-4084-b289-197c9dff8ab1")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 62.23 106.68 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "13cb7d0e-a334-463c-a1d6-4a8d66942e06")
+		(property "Reference" "J1-4"
+			(at 64.77 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AC2-2"
+			(at 59.69 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:Faston_Connector_63849-1_TEC"
+			(at 62.23 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=63824&DocType=Customer+Drawing&DocLang=English&PartCntxt=63824-1&DocFormat=pdf"
+			(at 62.23 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 62.23 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TE Connectivity 63849-1"
+			(at 62.23 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "571-638241"
+			(at 62.23 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e35049db-0791-4ab0-832c-2cd087d285ca")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "J1-4")
+					(unit 1)
+				)
+			)
+			(project "Q17-Mini"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "J3-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 147.32 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1580a531-c249-4ca2-819a-d70168c48b96")
+		(property "Reference" "C6"
+			(at 150.2411 107.1891 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10000uF 80V"
+			(at 150.2411 109.4878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn"
+			(at 148.2852 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.cde.com/resources/catalogs/380-382.pdf"
+			(at 147.32 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 147.32 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "380LX103M080A052"
+			(at 147.32 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "598-380LX103M080A052"
+			(at 147.32 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9748886c-f3cc-4eff-96a7-33e558b6a707")
+		)
+		(pin "2"
+			(uuid "0f85766a-fe05-495a-91a8-ddfd36781c56")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 147.32 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "15c7e8bb-be0e-4da3-a543-2d04b284b68f")
+		(property "Reference" "C5"
+			(at 150.2411 83.0591 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10000uF 80V"
+			(at 150.2411 85.3578 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn"
+			(at 148.2852 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.cde.com/resources/catalogs/380-382.pdf"
+			(at 147.32 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 147.32 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "380LX103M080A052"
+			(at 147.32 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "598-380LX103M080A052"
+			(at 147.32 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "46f85d9e-cfb4-4895-9e0f-1ff73a6a24e9")
+		)
+		(pin "2"
+			(uuid "1f7e71c6-b324-4cfb-a443-a6d82ceefe43")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 130.81 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1d0d35db-753c-4175-9652-6c1550e0d03c")
+		(property "Reference" "C3"
+			(at 133.858 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220pF"
+			(at 133.858 77.216 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm"
+			(at 131.7752 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-mlcc/catalog/leadmlcc_halogenfree_fg_en.pdf?ref_disty=mouser"
+			(at 130.81 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Multilayer Ceramic Capacitors MLCC"
+			(at 130.81 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "FG28C0G2A221JNT06"
+			(at 130.81 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "810-FG28C0G2A221JNT6"
+			(at 130.81 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "09b19246-f84c-4353-b548-7e0dc34e004f")
+		)
+		(pin "2"
+			(uuid "de34deeb-c478-4224-8f42-57b5b21f6bd5")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 240.03 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "27fc65e5-0792-445e-a1f2-e3ad6dda8d00")
+		(property "Reference" "J2-3"
+			(at 242.57 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 229.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:Faston_Connector_63849-1_TEC"
+			(at 240.03 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=63824&DocType=Customer+Drawing&DocLang=English&PartCntxt=63824-1&DocFormat=pdf"
+			(at 240.03 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 240.03 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TE Connectivity 63849-1"
+			(at 240.03 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "571-638241"
+			(at 240.03 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e521c20e-812e-41b7-9fd7-36a99ac2c2a3")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "J2-3")
+					(unit 1)
+				)
+			)
+			(project "Q17-Mini"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "J3-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 240.03 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "30c0f9d6-0d3b-4f47-832e-fb32ba43094e")
+		(property "Reference" "J2-2"
+			(at 242.57 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "V+"
+			(at 231.14 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:Faston_Connector_63849-1_TEC"
+			(at 240.03 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=63824&DocType=Customer+Drawing&DocLang=English&PartCntxt=63824-1&DocFormat=pdf"
+			(at 240.03 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 240.03 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TE Connectivity 63849-1"
+			(at 240.03 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "571-638241"
+			(at 240.03 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9a91e0ed-7a98-4e1e-b974-3a9de44d5422")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "J2-2")
+					(unit 1)
+				)
+			)
+			(project "Q17-Mini"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "J3-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Heatsink_Pad_2Pin")
+		(at 40.64 193.04 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "35fe68f2-9078-439f-a505-1191a45b1cf7")
+		(property "Reference" "HS2"
+			(at 44.45 191.1349 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CSM221-12AE"
+			(at 44.45 193.6749 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "USER_LIB:CSM22112AE"
+			(at 40.9448 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/303/sink_csm-3082596.pdf"
+			(at 40.9448 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Board Mount Heat Sink For TO-220 Devices"
+			(at 40.64 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "CSM221-12AE"
+			(at 40.64 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "588-CSM221-12AE"
+			(at 40.64 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "db10e713-81f2-49e0-b868-ed0df1f2aefb")
+		)
+		(pin "1"
+			(uuid "200cf0fd-5cc1-472f-8eef-bc0c4d6d56c3")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "HS2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 207.01 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3b8da232-e2b3-4e22-8420-db6e4c4e78e0")
+		(property "Reference" "R2"
+			(at 208.7881 104.6491 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 208.7881 106.9478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 205.232 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?28729"
+			(at 207.01 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 207.01 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "PR01000101002JR500"
+			(at 207.01 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "594-5073NW10K00J"
+			(at 207.01 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "34c9e10a-9579-436f-a9b9-2f4bbe500e10")
+		)
+		(pin "2"
+			(uuid "d987366c-bc92-4e70-8af0-dd1f7e3f0eb5")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 240.03 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4623f810-1590-4136-a1d8-9854fb776127")
+		(property "Reference" "J2-5"
+			(at 242.57 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 229.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:Faston_Connector_63849-1_TEC"
+			(at 240.03 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=63824&DocType=Customer+Drawing&DocLang=English&PartCntxt=63824-1&DocFormat=pdf"
+			(at 240.03 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 240.03 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TE Connectivity 63849-1"
+			(at 240.03 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "571-638241"
+			(at 240.03 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2548064f-af80-487f-83b5-e46a798850c0")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "J2-5")
+					(unit 1)
+				)
+			)
+			(project "Q17-Mini"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "J3-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Heatsink_Pad_2Pin")
+		(at 63.5 193.04 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "473e2341-11f9-4203-9769-74cb47fe2678")
+		(property "Reference" "HS3"
+			(at 67.31 191.1349 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CSM221-12AE"
+			(at 67.31 193.6749 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "USER_LIB:CSM22112AE"
+			(at 63.8048 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/303/sink_csm-3082596.pdf"
+			(at 63.8048 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Board Mount Heat Sink For TO-220 Devices"
+			(at 63.5 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "CSM221-12AE"
+			(at 63.5 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "588-CSM221-12AE"
+			(at 63.5 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "081df63a-e756-4fff-99c8-bb88138d1e45")
+		)
+		(pin "1"
+			(uuid "95cf1c87-1e53-4cd9-8cdd-492962dbca62")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "HS3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 240.03 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "585c341f-2ef6-4700-9a48-e80a92267c48")
+		(property "Reference" "J2-6"
+			(at 242.57 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "V-"
+			(at 231.14 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:Faston_Connector_63849-1_TEC"
+			(at 240.03 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=63824&DocType=Customer+Drawing&DocLang=English&PartCntxt=63824-1&DocFormat=pdf"
+			(at 240.03 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 240.03 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TE Connectivity 63849-1"
+			(at 240.03 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "571-638241"
+			(at 240.03 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "524e4e61-25b6-47e3-8d79-3d8a9ab5c94b")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "J2-6")
+					(unit 1)
+				)
+			)
+			(project "Q17-Mini"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "J3-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 83.82 76.2 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "58e987bc-cfa9-412b-8acf-a68cfc8ad41d")
+		(property "Reference" "C1"
+			(at 80.772 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220pF"
+			(at 80.772 77.216 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm"
+			(at 82.8548 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-mlcc/catalog/leadmlcc_halogenfree_fg_en.pdf?ref_disty=mouser"
+			(at 83.82 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Multilayer Ceramic Capacitors MLCC"
+			(at 83.82 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "FG28C0G2A221JNT06"
+			(at 83.82 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "810-FG28C0G2A221JNT6"
+			(at 83.82 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aa1c3d45-188d-4f8c-adb2-03fca19a7375")
+		)
+		(pin "2"
+			(uuid "ddecfa17-5905-4ee2-866e-9e1f1a4857e8")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 207.01 114.3 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "62877f75-61ac-4882-be03-14b510779afc")
+		(property "Reference" "D6"
+			(at 209.9311 113.7296 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED"
+			(at 209.9311 116.0283 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 207.01 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?83012"
+			(at 207.01 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 207.01 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TLHR5400"
+			(at 207.01 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "78-TLHR5400"
+			(at 207.01 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5d0c9329-dd14-4246-967b-800ccf4da0d1")
+		)
+		(pin "2"
+			(uuid "cf2ecddc-d2ff-4276-8cc9-58caed89fe1a")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "MBR735_2")
+		(lib_id "Diode:MBR735")
+		(at 120.65 114.3 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "76df5ae5-f3e2-459b-bd3e-554cff9dccc7")
+		(property "Reference" "D4"
+			(at 118.11 115.2526 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MBRF10100"
+			(at 118.11 112.7126 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-2_Vertical"
+			(at 116.205 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?89320"
+			(at 120.65 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Schottky Diode 100V 10A"
+			(at 120.65 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "MBRF10100-M3/4W"
+			(at 120.65 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "78-MBRF10100-M34W"
+			(at 120.65 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0a6bc96d-d0ec-4a88-b128-d1cf844d3443")
+		)
+		(pin "2"
+			(uuid "5695ce2d-2420-4b25-806c-07c622577351")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 83.82 114.3 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7a110d06-537d-4ac5-9468-8133f69ce3d8")
+		(property "Reference" "C2"
+			(at 80.772 112.776 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220pF"
+			(at 80.772 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm"
+			(at 82.8548 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-mlcc/catalog/leadmlcc_halogenfree_fg_en.pdf?ref_disty=mouser"
+			(at 83.82 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Multilayer Ceramic Capacitors MLCC"
+			(at 83.82 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "FG28C0G2A221JNT06"
+			(at 83.82 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "810-FG28C0G2A221JNT6"
+			(at 83.82 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "70916cd7-e037-4e54-8b96-c42e5ee094bb")
+		)
+		(pin "2"
+			(uuid "f5b190a9-af30-49b2-aa09-36aecb2b8f0e")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 62.23 100.33 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7dbb9326-4de0-41da-90d4-3c10a38752a4")
+		(property "Reference" "J1-3"
+			(at 64.77 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AC2-1"
+			(at 59.69 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:Faston_Connector_63849-1_TEC"
+			(at 62.23 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=63824&DocType=Customer+Drawing&DocLang=English&PartCntxt=63824-1&DocFormat=pdf"
+			(at 62.23 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 62.23 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TE Connectivity 63849-1"
+			(at 62.23 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "571-638241"
+			(at 62.23 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bbcc9c04-2966-47d9-ad5c-9750d7c22296")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "J1-3")
+					(unit 1)
+				)
+			)
+			(project "Q17-Mini"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "J3-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 240.03 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7f66f30a-575e-4182-9d0a-580735341551")
+		(property "Reference" "J2-7"
+			(at 242.57 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "V-"
+			(at 231.14 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:Faston_Connector_63849-1_TEC"
+			(at 240.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=63824&DocType=Customer+Drawing&DocLang=English&PartCntxt=63824-1&DocFormat=pdf"
+			(at 240.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 240.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TE Connectivity 63849-1"
+			(at 240.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "571-638241"
+			(at 240.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "acd00546-e086-45b1-b1a2-9ee958a68965")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "J2-7")
+					(unit 1)
+				)
+			)
+			(project "Q17-Mini"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "J3-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "MBR735_1")
+		(lib_id "Diode:MBR735")
+		(at 120.65 76.2 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "90e2e86e-8461-415a-b6f0-29c755b8a793")
+		(property "Reference" "D3"
+			(at 118.11 77.1526 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MBRF10100"
+			(at 118.11 74.6126 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-2_Vertical"
+			(at 116.205 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?89320"
+			(at 120.65 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Schottky Diode 100V 10A"
+			(at 120.65 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "MBRF10100-M3/4W"
+			(at 120.65 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "78-MBRF10100-M34W"
+			(at 120.65 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a210eb5-fca7-43f5-a17d-6c5625fe1f59")
+		)
+		(pin "2"
+			(uuid "3513d287-51db-4f30-a42a-2c70946b3208")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "MBR735_2")
+		(lib_id "Diode:MBR735")
+		(at 102.87 76.2 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9664ab02-9d10-4b5c-897e-39f0905bcb93")
+		(property "Reference" "D1"
+			(at 100.33 77.1526 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MBRF10100"
+			(at 100.33 74.6126 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-2_Vertical"
+			(at 98.425 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?89320"
+			(at 102.87 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Schottky Diode 100V 10A"
+			(at 102.87 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "MBRF10100-M3/4W"
+			(at 102.87 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "78-MBRF10100-M34W"
+			(at 102.87 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab12e480-0901-4352-9c11-7d8303fe69b6")
+		)
+		(pin "2"
+			(uuid "9a78c3bb-cace-4cfb-991e-1ec7ecf07757")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Heatsink_Pad_2Pin")
+		(at 17.78 193.04 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "966c3017-2967-4860-9101-19bb3764c7d5")
+		(property "Reference" "HS1"
+			(at 21.59 191.1349 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CSM221-12AE"
+			(at 21.59 193.6749 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "USER_LIB:CSM22112AE"
+			(at 18.0848 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/303/sink_csm-3082596.pdf"
+			(at 18.0848 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Board Mount Heat Sink For TO-220 Devices"
+			(at 17.78 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "CSM221-12AE"
+			(at 17.78 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "588-CSM221-12AE"
+			(at 17.78 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "00ca2fef-85ff-4d48-bd2f-018f36b126b1")
+		)
+		(pin "1"
+			(uuid "5249a08a-2bcb-4d9e-997e-30452301e1c2")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "HS1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
+		(at 217.17 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "97a010b1-9869-4754-8519-f3d22faa8a7a")
+		(property "Reference" "#GND0101"
+			(at 217.17 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 217.043 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 217.17 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 217.17 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fb3f18f8-e90d-45b7-a305-c0ae7d87b0f3")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "#GND0101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 193.04 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9fdc47f9-0ce2-4ae3-99e1-f51b4b90e28f")
+		(property "Reference" "C10"
+			(at 195.9611 107.1891 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220nF"
+			(at 195.9611 109.4878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:C_Rect_Q17_PSU_L26.50_H11.00_P20.50"
+			(at 194.0052 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/88/MPX-2944692.pdf"
+			(at 193.04 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 193.04 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "MPX224K305E"
+			(at 193.04 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "598-MPX224K305E"
+			(at 193.04 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cf9986d6-64b7-450b-8c53-4eb5f94c1de8")
+		)
+		(pin "2"
+			(uuid "d1f12bf1-e07b-433d-be32-74fa47ff7277")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 193.04 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a2e8ead6-0bc2-40da-9d4a-4cd6b827d4a6")
+		(property "Reference" "C9"
+			(at 195.9611 83.0591 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220nf"
+			(at 195.9611 85.3578 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:C_Rect_Q17_PSU_L26.50_H11.00_P20.50"
+			(at 194.0052 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/88/MPX-2944692.pdf"
+			(at 193.04 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 193.04 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "MPX224K305E"
+			(at 193.04 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "598-MPX224K305E"
+			(at 193.04 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "78674112-c3a5-4fa4-a5ce-53bdb5218484")
+		)
+		(pin "2"
+			(uuid "411b2da6-215a-4dfb-b601-0a13dadabab2")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 240.03 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c2fa606a-c4c6-4bcd-a4a0-8ac0e19820d8")
+		(property "Reference" "J2-1"
+			(at 242.57 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "V+"
+			(at 231.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:Faston_Connector_63849-1_TEC"
+			(at 240.03 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=63824&DocType=Customer+Drawing&DocLang=English&PartCntxt=63824-1&DocFormat=pdf"
+			(at 240.03 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 240.03 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TE Connectivity 63849-1"
+			(at 240.03 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "571-638241"
+			(at 240.03 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6af6749f-ced2-41b9-af49-3152d6205642")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "J2-1")
+					(unit 1)
+				)
+			)
+			(project "Q17-Mini"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "J3-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 62.23 83.82 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ca1e5238-408b-4a21-9751-82378d3be46a")
+		(property "Reference" "J1-1"
+			(at 64.77 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AC1-1"
+			(at 59.69 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:Faston_Connector_63849-1_TEC"
+			(at 62.23 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=63824&DocType=Customer+Drawing&DocLang=English&PartCntxt=63824-1&DocFormat=pdf"
+			(at 62.23 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 62.23 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TE Connectivity 63849-1"
+			(at 62.23 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "571-638241"
+			(at 62.23 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e80f64d0-a079-42b1-b7b9-65f0bb11f3af")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "J1-1")
+					(unit 1)
+				)
+			)
+			(project "Q17-Mini"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "J3-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Heatsink_Pad_2Pin")
+		(at 86.36 193.04 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ccede4a0-8439-4e02-b112-61f6c69c59ac")
+		(property "Reference" "HS4"
+			(at 90.17 191.1349 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CSM221-12AE"
+			(at 90.17 193.6749 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "USER_LIB:CSM22112AE"
+			(at 86.6648 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/303/sink_csm-3082596.pdf"
+			(at 86.6648 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Board Mount Heat Sink For TO-220 Devices"
+			(at 86.36 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "CSM221-12AE"
+			(at 86.36 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "588-CSM221-12AE"
+			(at 86.36 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1e3f7681-721e-497d-98ba-e35cb4ba0a99")
+		)
+		(pin "1"
+			(uuid "db7694f4-7689-4918-98d6-f67d7dd5f0b9")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "HS4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 207.01 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cda455e9-9c52-46db-94e9-f4f4f5608947")
+		(property "Reference" "R1"
+			(at 208.7881 85.5991 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 208.7881 87.8978 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 205.232 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?28729"
+			(at 207.01 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 207.01 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "PR01000101002JR500"
+			(at 207.01 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "594-5073NW10K00J"
+			(at 207.01 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0dff39a4-606b-4039-8526-f3df552eb995")
+		)
+		(pin "2"
+			(uuid "3446efac-d5e6-4141-8bf2-95c263376d7e")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 130.81 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ce7d9b7e-6b3b-4e29-a668-12f51f65cb73")
+		(property "Reference" "C4"
+			(at 133.858 112.776 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220pF"
+			(at 133.858 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm"
+			(at 131.7752 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-mlcc/catalog/leadmlcc_halogenfree_fg_en.pdf?ref_disty=mouser"
+			(at 130.81 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Multilayer Ceramic Capacitors MLCC"
+			(at 130.81 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "FG28C0G2A221JNT06"
+			(at 130.81 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "810-FG28C0G2A221JNT6"
+			(at 130.81 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "76baff65-c774-489e-9ff2-f21e2e680707")
+		)
+		(pin "2"
+			(uuid "b8e28141-35be-422a-b5d5-ce238bc19030")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 207.01 76.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e24e127d-76c8-4ab3-bb57-df12310b9352")
+		(property "Reference" "D5"
+			(at 209.9311 75.6296 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED"
+			(at 209.9311 77.9283 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 207.01 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?83012"
+			(at 207.01 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 207.01 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TLHR5400"
+			(at 207.01 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "78-TLHR5400"
+			(at 207.01 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "956a3806-6aaa-4a6a-960a-bb527f64bc22")
+		)
+		(pin "2"
+			(uuid "fb307c32-32e2-45db-972b-0d34f6e1decd")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 170.18 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "eade87af-47a7-4f10-8024-7edc48650481")
+		(property "Reference" "C8"
+			(at 173.1011 107.1891 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10000uF 80V"
+			(at 173.1011 109.4878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn"
+			(at 171.1452 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.cde.com/resources/catalogs/380-382.pdf"
+			(at 170.18 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 170.18 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "380LX103M080A052"
+			(at 170.18 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "598-380LX103M080A052"
+			(at 170.18 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cf4b0570-4c57-4116-82c2-de2e372807e0")
+		)
+		(pin "2"
+			(uuid "ea5cccff-423e-4e1d-8ccb-7682437ab938")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 62.23 90.17 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f4116786-1a28-4824-9571-fd2636012974")
+		(property "Reference" "J1-2"
+			(at 64.77 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AC1-2"
+			(at 59.69 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:Faston_Connector_63849-1_TEC"
+			(at 62.23 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=63824&DocType=Customer+Drawing&DocLang=English&PartCntxt=63824-1&DocFormat=pdf"
+			(at 62.23 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 62.23 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TE Connectivity 63849-1"
+			(at 62.23 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "571-638241"
+			(at 62.23 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "790c5179-daa1-4755-8617-be47a6bfc26d")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "J1-2")
+					(unit 1)
+				)
+			)
+			(project "Q17-Mini"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "J3-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 170.18 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f61605f9-04ad-4729-917d-7f245699f4ba")
+		(property "Reference" "C7"
+			(at 173.1011 83.0591 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10000uF 80V"
+			(at 173.1011 85.3578 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn"
+			(at 171.1452 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.cde.com/resources/catalogs/380-382.pdf"
+			(at 170.18 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 170.18 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "380LX103M080A052"
+			(at 170.18 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "598-380LX103M080A052"
+			(at 170.18 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4b904af2-e232-468a-918e-dec8a155368f")
+		)
+		(pin "2"
+			(uuid "5ca45d9b-cb40-4989-9cf0-914d4d8c01c1")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 240.03 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f96aa3ac-c3e5-49a7-886e-1f9ef25cfe34")
+		(property "Reference" "J2-4"
+			(at 242.57 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 229.87 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Q17_Library:Faston_Connector_63849-1_TEC"
+			(at 240.03 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=63824&DocType=Customer+Drawing&DocLang=English&PartCntxt=63824-1&DocFormat=pdf"
+			(at 240.03 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 240.03 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "TE Connectivity 63849-1"
+			(at 240.03 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "571-638241"
+			(at 240.03 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "582a0566-1a92-4969-9518-0bac422580a0")
+		)
+		(instances
+			(project "Q17-PSU-MONO"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "J2-4")
+					(unit 1)
+				)
+			)
+			(project "Q17-Mini"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "J3-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
