@@ -4,6 +4,8 @@ The Q17-SIGMA-PSU power supply is inspired by Ti Kan's Sigma22 circuit. This pow
 
 The 2 Oz PCB measures 75x130mm. The filter card is external for greater flexibility and versatility.
 
+Version 1.0 published on April 14, 2024.
+
 This project is currently being tested and validated.
 
 <a href="https://audio.cyberkata.org/Q17-SIGMA-PSU-BOM.html">Q17-SIGMA-PSU-BOM Online Version</a><br>
