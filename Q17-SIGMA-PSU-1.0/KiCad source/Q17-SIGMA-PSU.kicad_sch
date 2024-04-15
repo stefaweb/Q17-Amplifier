@@ -7,7 +7,7 @@
 	(title_block
 		(title "Q17-SIGMA Power Supply")
 		(date "2024-04-15")
-		(rev "1.0.2")
+		(rev "1.0.3")
 		(company "PCB and BOM by stef")
 		(comment 2 "Design and test by Moor")
 		(comment 3 "Inspired from Sigma22 v3 design")
@@ -2473,7 +2473,7 @@
 				)
 			)
 		)
-		(symbol "Transistor_FET:IRF9540N"
+		(symbol "Transistor_FET:IRF540N"
 			(pin_names hide)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2487,7 +2487,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "IRF9540N"
+			(property "Value" "IRF540N"
 				(at 5.08 0 0)
 				(effects
 					(font
@@ -2507,7 +2507,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf9540n.pdf"
+			(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf540n.pdf"
 				(at 5.08 -3.81 0)
 				(effects
 					(font
@@ -2517,7 +2517,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "-23A Id, -100V Vds, 117mOhm Rds, P-Channel HEXFET Power MOSFET, TO-220"
+			(property "Description" "33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2526,7 +2526,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "P-Channel MOSFET HEXFET"
+			(property "ki_keywords" "HEXFET N-Channel MOSFET"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2544,7 +2544,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "IRF9540N_0_1"
+			(symbol "IRF540N_0_1"
 				(polyline
 					(pts
 						(xy 0.254 0) (xy -2.54 0)
@@ -2631,7 +2631,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.762 1.778) (xy 3.302 1.778) (xy 3.302 -1.778) (xy 0.762 -1.778)
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
 					)
 					(stroke
 						(width 0)
@@ -2643,7 +2643,7 @@
 				)
 				(polyline
 					(pts
-						(xy 2.286 0) (xy 1.27 0.381) (xy 1.27 -0.381) (xy 2.286 0)
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
 					)
 					(stroke
 						(width 0)
@@ -2655,7 +2655,7 @@
 				)
 				(polyline
 					(pts
-						(xy 2.794 -0.508) (xy 2.921 -0.381) (xy 3.683 -0.381) (xy 3.81 -0.254)
+						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
 					)
 					(stroke
 						(width 0)
@@ -2667,7 +2667,7 @@
 				)
 				(polyline
 					(pts
-						(xy 3.302 -0.381) (xy 2.921 0.254) (xy 3.683 0.254) (xy 3.302 -0.381)
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
 					)
 					(stroke
 						(width 0)
@@ -2711,7 +2711,7 @@
 					)
 				)
 			)
-			(symbol "IRF9540N_1_1"
+			(symbol "IRF540N_1_1"
 				(pin input line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -6159,7 +6159,7 @@
 		)
 		(uuid "39475328-2f7d-462e-896a-8b4eec7ab339")
 	)
-	(text "100uF = Panasonic EEU-FS1K101 (low ESR)"
+	(text "100uF = Panasonic EEU-FS1K101 (low ESR, miniature)"
 		(exclude_from_sim no)
 		(at 14.478 176.53 0)
 		(effects
@@ -6181,7 +6181,7 @@
 		)
 		(uuid "ac1a8a42-03f4-4b03-909e-157851f8b4f3")
 	)
-	(text "CR3, CR4 : E-562 (100V)"
+	(text "CR3, CR4 : Semitec E-562 (100V)"
 		(exclude_from_sim no)
 		(at 14.478 166.37 0)
 		(effects
@@ -6203,7 +6203,18 @@
 		)
 		(uuid "d0d3feb0-8985-49fc-b719-15d21078f0d1")
 	)
-	(text "CR1, CR2 : E-202 (100V)"
+	(text "Q7, Q9 : IRF9Z34NPBF or IRF9540NPBF"
+		(exclude_from_sim no)
+		(at 14.732 156.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d660ccd9-a93e-4e85-900f-058c90a215e5")
+	)
+	(text "CR1, CR2 : Semitec E-202 (100V)"
 		(exclude_from_sim no)
 		(at 14.478 163.83 0)
 		(effects
@@ -6213,6 +6224,17 @@
 			(justify left)
 		)
 		(uuid "d6c38c31-97c9-4dac-aa8e-e9df872ade39")
+	)
+	(text "Q6, Q8 : IRFZ24NPBF or IRF530NPBF"
+		(exclude_from_sim no)
+		(at 14.732 153.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e696d8e5-f363-4632-b096-e27a1d7c13fd")
 	)
 	(text "220pF 100V = Kemet C0G C315C221J1G "
 		(exclude_from_sim no)
@@ -6629,6 +6651,98 @@
 			(project "Q17-SIGMA-PSU"
 				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
 					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:IRF540N")
+		(at 213.36 53.34 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0cc30aad-3f0e-4343-99a0-bca3d8f3b600")
+		(property "Reference" "Q8"
+			(at 213.36 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IRFZ24NPBF"
+			(at 213.36 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+			(at 215.265 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/196/Infineon_IRFZ24N_DataSheet_v01_01_EN-3363353.pdf"
+			(at 217.17 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "MOSFET MOSFT 55V 17A 70mOhm 13.3nC"
+			(at 213.36 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "IRFZ24NPBF"
+			(at 213.36 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "942-IRFZ24NPBF"
+			(at 213.36 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5babaf54-3d2d-492e-a6b4-ef1de8f19ffd")
+		)
+		(pin "2"
+			(uuid "84f7f1dc-8d89-4c37-8ef8-95f57c312b0c")
+		)
+		(pin "3"
+			(uuid "6947c04d-7a7e-4052-b6f9-c883896738d4")
+		)
+		(instances
+			(project "Q17-SIGMA-PSU"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "Q8")
 					(unit 1)
 				)
 			)
@@ -7963,98 +8077,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:IRF9540N")
-		(at 200.66 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "492e937d-fb89-484b-8ccb-1840c19cb163")
-		(property "Reference" "Q6"
-			(at 200.66 33.02 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IRFZ24NPBF"
-			(at 200.66 35.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
-			(at 202.565 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/196/Infineon_IRFZ24N_DataSheet_v01_01_EN-3363353.pdf"
-			(at 204.47 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "MOSFET MOSFT 55V 17A 70mOhm 13.3nC"
-			(at 200.66 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" "IRFZ24NPBF"
-			(at 200.66 41.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" "942-IRFZ24NPBF"
-			(at 200.66 41.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "aa8b493f-c8a2-4327-84be-23c62b912d35")
-		)
-		(pin "1"
-			(uuid "f609656e-ddc9-4ddd-93c4-854b43f8f15a")
-		)
-		(pin "3"
-			(uuid "8a2cba2b-6d0d-40bb-b30d-0cf706beab30")
-		)
-		(instances
-			(project "Q17-SIGMA-PSU"
-				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
-					(reference "Q6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 96.52 105.41 0)
 		(unit 1)
@@ -8439,7 +8461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/268/LDS_0159-1593968.pdf"
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/362/P22-23-CRD-1729293.pdf"
 			(at 185.42 97.79 0)
 			(effects
 				(font
@@ -9466,7 +9488,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 215.138 121.412 0)
+			(at 215.138 122.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9640,7 +9662,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 202.438 121.412 0)
+			(at 202.438 122.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9884,98 +9906,6 @@
 			(project "Q17-SIGMA-PSU"
 				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
 					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:IRF9540N")
-		(at 213.36 53.34 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "97e1c27c-d7d4-422c-8c61-b7e60738ade8")
-		(property "Reference" "Q8"
-			(at 213.36 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IRFZ24NPBF"
-			(at 213.36 46.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
-			(at 215.265 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/196/Infineon_IRFZ24N_DataSheet_v01_01_EN-3363353.pdf"
-			(at 217.17 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "MOSFET MOSFT 55V 17A 70mOhm 13.3nC"
-			(at 213.36 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" "IRFZ24NPBF"
-			(at 213.36 53.34 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" "942-IRFZ24NPBF"
-			(at 213.36 53.34 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a8331335-bf15-4940-8883-e3273613c19a")
-		)
-		(pin "1"
-			(uuid "de6ebe90-d8ad-48e5-b01d-7436509e5a70")
-		)
-		(pin "3"
-			(uuid "a88e0598-b687-4a66-bf9b-e1bb3b074f6f")
-		)
-		(instances
-			(project "Q17-SIGMA-PSU"
-				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
-					(reference "Q8")
 					(unit 1)
 				)
 			)
@@ -11142,6 +11072,98 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:IRF540N")
+		(at 200.66 41.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc6aef1a-2e46-486e-88af-1d053da5b083")
+		(property "Reference" "Q6"
+			(at 200.66 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IRFZ24NPBF"
+			(at 200.66 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+			(at 202.565 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/196/Infineon_IRFZ24N_DataSheet_v01_01_EN-3363353.pdf"
+			(at 204.47 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "MOSFET MOSFT 55V 17A 70mOhm 13.3nC"
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "IRFZ24NPBF"
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "942-IRFZ24NPBF"
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e2d6af6a-6953-424c-a87c-b1651b5a03b9")
+		)
+		(pin "2"
+			(uuid "2c441630-3e90-4bb1-aa6e-ef5dcae3812a")
+		)
+		(pin "3"
+			(uuid "a2ea2eba-cd9d-4ed8-9c66-256b803dd73e")
+		)
+		(instances
+			(project "Q17-SIGMA-PSU"
+				(path "/6f6e3082-536f-4dd6-9db0-4603443bd8a6"
+					(reference "Q6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
 		(at 185.42 85.09 90)
 		(unit 1)
@@ -11175,7 +11197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/268/LDS_0159-1593968.pdf"
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/362/P22-23-CRD-1729293.pdf"
 			(at 185.42 85.09 0)
 			(effects
 				(font
