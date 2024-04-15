@@ -3,7 +3,7 @@ Q17 is an amplifier based on the QUAD405 current dumping principle.
 
 Please refer to <a href="https://github.com/tiberiuvicol/Q17-audiophile-amplifier/blob/main/Project%20description.pdf"> Q17 Project description</a> from Tiberiu Vicol's <a href="https://github.com/tvicol/Q17-a-QUAD405-audiophile-approach">original design</a>.
 
-Use KiCad 7.0 or later to open and edit source files. KiCad 7.0 can be <a href="https://www.kicad.org/download/">downloaded</a> from CERN.
+Use KiCad 8.0 or later to open and edit source files. KiCad 7.0 can be <a href="https://www.kicad.org/download/">downloaded</a> from CERN.
 
 <b>Q17-Turbo project (200W @ 8 Ohms):</b>
 
