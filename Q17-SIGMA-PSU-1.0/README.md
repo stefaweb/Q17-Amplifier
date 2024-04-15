@@ -10,7 +10,7 @@ This project is currently being tested and validated.
 
 ![Q17-SIGMA-PSU-3D-VIEW-WO-HEATSINKS](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f0e94893-70dc-4894-8da3-0fec79059de2)
 
-![Q17-SIGMA-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/27a62992-eec8-48ad-a322-557047647c44)
+![Q17-SIGMA-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/e68a5369-b560-484c-87d8-268cedec3d24)
 
 ![Q17-SIGMA-PSU-TOP-VIEW-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/fdda2d8c-28fc-4dc4-91bd-b2715201fd25)
 
