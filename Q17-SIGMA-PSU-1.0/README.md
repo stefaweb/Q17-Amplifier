@@ -2,7 +2,7 @@
 
 The Q17-SIGMA-PSU power supply is inspired by Ti Kan's Sigma22 circuit. This power supply provides a regulated  up to 60vDC and 3A continuous source (with external heatsinks). The voltage drop is less than 6 V (+10V for the original circuit limited to 30V). It should be able to power an amplifier board.
 
-The 2 Oz PCB measures 75x130mm. The filter card is external for greater flexibility and versatility.
+The 2 Oz PCB measures 75x130mm. The filter board is external for greater flexibility and versatility.
 
 Version 1.0 published on April 14, 2024.
 
