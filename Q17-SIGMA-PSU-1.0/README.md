@@ -1,16 +1,22 @@
 # Q17-SIGMA-PSU 1.0<br>
 
-The Q17-SIGMA-PSU power supply is inspired by Ti Kan's Sigma22 circuit. This power supply provides a regulated  up to 60vDC and 3A continuous source (with external heatsinks). The voltage drop is less than 6 V (+10V for the original circuit limited to 30V). It should be able to power an amplifier board.
+The Q17-SIGMA-PSU power supply is inspired by Ti Kan's Sigma22 circuit. 
 
-The 2 Oz PCB measures 75x130mm. The filter card is external for greater flexibility and versatility.
+The "sigma 22" is a high-performance DIY dual-rail, tracking, linear regulated power supply (PSU).
+
+This power supply provides a regulated  up to 60vDC and 3A continuous source (with external heatsinks). The voltage drop is less than 6 V (+10V for the original circuit limited to 30V). The board should be able to power an amplifier board.
 
 Version 1.0 published on April 14, 2024.
 
-This project is currently being tested and validated.
+# This project is currently being tested and validated.
 
 <a href="https://audio.cyberkata.org/Q17-SIGMA-PSU-BOM.html">Q17-SIGMA-PSU-BOM Online Version</a><br>
 
+The 2 Oz PCB measures 75x130mm. The filter board is external for greater flexibility and versatility.
+
 ![Q17-SIGMA-PSU-3D-VIEW-WO-HEATSINKS](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f0e94893-70dc-4894-8da3-0fec79059de2)
+
+![Q17-SIGMA-PSU-TOP-VIEW-HS-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f4cf5172-99dd-47aa-80e4-20472fcbb4d1)
 
 ![Q17-SIGMA-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/7d6aa012-c6d0-4369-ac32-fd23f7e4663b)
 
