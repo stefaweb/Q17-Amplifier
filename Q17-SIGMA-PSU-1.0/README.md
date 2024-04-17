@@ -4,7 +4,7 @@ The Q17-SIGMA-PSU power supply is inspired by Ti Kan's Sigma22 circuit.
 
 The "sigma 22" is a high-performance DIY dual-rail, tracking, linear regulated power supply (PSU).
 
-This power supply provides a regulated  up to 60vDC and 3A continuous source (with external heatsinks). The voltage drop is less than 6 V (+10V for the original circuit limited to 30V). The board should be able to power an amplifier board.
+This power supply provides a regulated  up to 60vDC and 4A continuous source (with external heatsinks). The voltage difference between output and input is around 6V. The board should be able to power an amplifier board.
 
 Version 1.0 published on April 14, 2024.
 
