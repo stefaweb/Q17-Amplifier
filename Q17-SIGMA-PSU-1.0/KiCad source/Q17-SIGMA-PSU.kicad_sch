@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-SIGMA Power Supply")
-		(date "2024-04-15")
-		(rev "1.0.3")
+		(date "2024-04-17")
+		(rev "1.0.4")
 		(company "PCB and BOM by stef")
 		(comment 2 "Design and test by Moor")
 		(comment 3 "Inspired from Sigma22 v3 design")
@@ -6128,7 +6128,7 @@
 	)
 	(text "All capacitors rated for 80V/100V minimum."
 		(exclude_from_sim no)
-		(at 14.732 158.75 0)
+		(at 14.732 156.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6139,7 +6139,7 @@
 	)
 	(text "1uF = Wima MKP MKP1D041005G00KSSD (use MKP pulse caps)"
 		(exclude_from_sim no)
-		(at 14.478 173.99 0)
+		(at 14.478 171.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6150,7 +6150,7 @@
 	)
 	(text "SR1 : TL431BCLPG (0.4%)"
 		(exclude_from_sim no)
-		(at 14.478 161.29 0)
+		(at 14.478 158.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6161,7 +6161,7 @@
 	)
 	(text "100uF = Panasonic EEU-FS1K101 (low ESR, miniature)"
 		(exclude_from_sim no)
-		(at 14.478 176.53 0)
+		(at 14.478 173.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6170,9 +6170,19 @@
 		)
 		(uuid "3f21b7cb-86e6-4982-b001-e00432aee4eb")
 	)
+	(text "TO-220 thermal pad : Aavid 4171G"
+		(exclude_from_sim no)
+		(at 32.004 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a7fd3230-07da-40c9-a535-2e83f64dfb4d")
+	)
 	(text "3900pF 100V = Wima MMK5392J100J01L16.5TA18"
 		(exclude_from_sim no)
-		(at 14.478 168.91 0)
+		(at 14.478 166.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6183,7 +6193,7 @@
 	)
 	(text "CR3, CR4 : Semitec E-562 (100V)"
 		(exclude_from_sim no)
-		(at 14.478 166.37 0)
+		(at 14.478 163.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6194,7 +6204,7 @@
 	)
 	(text "R16, R17, R20, R21 : Noble RGC5 or KOA BPR58 0R47 5W (white sugar)"
 		(exclude_from_sim no)
-		(at 14.478 179.07 0)
+		(at 14.478 176.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6205,7 +6215,7 @@
 	)
 	(text "Q7, Q9 : IRF9Z34NPBF or IRF9540NPBF"
 		(exclude_from_sim no)
-		(at 14.732 156.21 0)
+		(at 14.732 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6216,7 +6226,7 @@
 	)
 	(text "CR1, CR2 : Semitec E-202 (100V)"
 		(exclude_from_sim no)
-		(at 14.478 163.83 0)
+		(at 14.478 161.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6227,7 +6237,7 @@
 	)
 	(text "Q6, Q8 : IRFZ24NPBF or IRF530NPBF"
 		(exclude_from_sim no)
-		(at 14.732 153.67 0)
+		(at 14.732 151.13 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6238,7 +6248,7 @@
 	)
 	(text "220pF 100V = Kemet C0G C315C221J1G "
 		(exclude_from_sim no)
-		(at 14.478 171.45 0)
+		(at 14.478 168.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
