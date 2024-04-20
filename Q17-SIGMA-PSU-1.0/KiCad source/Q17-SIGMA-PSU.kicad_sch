@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-SIGMA Power Supply")
-		(date "2024-04-17")
-		(rev "1.0.4")
+		(date "2024-04-20")
+		(rev "1.0.5")
 		(company "PCB and BOM by stef")
 		(comment 2 "Design and test by Moor")
 		(comment 3 "Inspired from Sigma22 v3 design")
@@ -6180,7 +6180,7 @@
 		)
 		(uuid "a7fd3230-07da-40c9-a535-2e83f64dfb4d")
 	)
-	(text "3900pF 100V = Wima MMK5392J100J01L16.5TA18"
+	(text "3900pF 100V = Kemet MMK5392J100J01L16.5TA18 or Kemet PHE426DJ4390JR05"
 		(exclude_from_sim no)
 		(at 14.478 166.37 0)
 		(effects
