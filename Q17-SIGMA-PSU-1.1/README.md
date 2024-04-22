@@ -14,14 +14,14 @@ Version 1.0 published on April 14, 2024.
 
 The 2 Oz PCB measures 75x130mm. The filter board is external for greater flexibility and versatility.
 
-![Q17-SIGMA-PSU-3D-VIEW-WO-HEATSINKS](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f0e94893-70dc-4894-8da3-0fec79059de2)
+![Q17-SIGMA-PSU-3D-VIEW-WO-HEATSINKS](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/31233e7c-f856-4b06-9b80-ffafd5f6141c)
 
-![Q17-SIGMA-PSU-TOP-VIEW-HS-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f4cf5172-99dd-47aa-80e4-20472fcbb4d1)
+![Q17-SIGMA-PSU-TOP-VIEW-HS-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/9568592d-3acc-4e98-9ba3-3f9a6230a756)
 
-![Q17-SIGMA-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/229fea17-e0e9-4d28-a6bf-111d98218b15)
+![Q17-SIGMA-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/a5754add-e3fc-426f-9101-0ffec6214237)
 
-![Q17-SIGMA-PSU-TOP-VIEW-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/fdda2d8c-28fc-4dc4-91bd-b2715201fd25)
+![Q17-SIGMA-PSU-TOP-VIEW-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f3912ac7-cce4-4197-9902-b1ec2c2dc8ae)
 
-![Q17-SIGMA-PSU-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/96fc4fc1-95da-414a-a732-783275d60f42)
+![Q17-SIGMA-PSU-PCB-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/c84abd1f-844e-45a3-8c1a-c20a5f298067)
 
-![Q17-SIGMA-PSU-PCB-BACK](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/47c351e9-3c4c-4f93-afec-cb9ac67f7ce7)
+![Q17-SIGMA-PSU-PCB-BACK](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/483b13b1-6f01-45e4-b955-a27608ed0a1a)
