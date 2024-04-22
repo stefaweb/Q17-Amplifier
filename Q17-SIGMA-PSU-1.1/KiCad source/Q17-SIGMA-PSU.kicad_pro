@@ -67,7 +67,11 @@
         "courtyards_overlap|156430001|63270001|00b8f234-3939-4a06-9967-d1bd0c225e9d|50336776-b91a-4c45-a470-240a93bc3839",
         "courtyards_overlap|157310001|121680001|8bd9791d-6540-4f26-9c16-072b6fac81f3|cb0ee915-3f82-4894-bd9b-0361c7955c80",
         "courtyards_overlap|166849501|70260001|50336776-b91a-4c45-a470-240a93bc3839|bd02f0d5-08bc-4001-a43d-3209297ae1c1",
-        "courtyards_overlap|168506168|130580001|8bd9791d-6540-4f26-9c16-072b6fac81f3|e3e446a1-a13c-4dba-ad98-1aadcbcac4f6"
+        "courtyards_overlap|168506168|130580001|8bd9791d-6540-4f26-9c16-072b6fac81f3|e3e446a1-a13c-4dba-ad98-1aadcbcac4f6",
+        "lib_footprint_mismatch|201328912|67600184|641c6c8e-a6c8-4838-af8b-c95470ddf7bf|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|201345000|129540000|9b541b85-f5bf-477b-baf4-4a521b7f9636|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|83328883|67601847|d1246dbf-e2c7-4385-8cd6-aad5431782bb|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|83356845|129534189|edd329fc-251a-4942-86c2-f8c10b700625|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -672,7 +676,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "/Users/sleclerc/Desktop/Q17/Q17-SIGMA-PSU 1.0/",
+    "plot_directory": "/Users/sleclerc/Desktop/Q17/Q17-SIGMA-PSU 1.1/",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

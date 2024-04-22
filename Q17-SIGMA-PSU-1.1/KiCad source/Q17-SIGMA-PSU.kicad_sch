@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-SIGMA Power Supply")
-		(date "2024-04-20")
-		(rev "1.0.5")
+		(date "2024-04-22")
+		(rev "1.0.7")
 		(company "PCB and BOM by stef")
 		(comment 2 "Design and test by Moor")
 		(comment 3 "Inspired from Sigma22 v3 design")
@@ -6126,18 +6126,7 @@
 		)
 		(uuid "ff1d4c9c-f427-43f4-93d3-a80d6d352771")
 	)
-	(text "All capacitors rated for 80V/100V minimum."
-		(exclude_from_sim no)
-		(at 14.732 156.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0fc2090f-7a40-49bf-8106-b7bfe271e349")
-	)
-	(text "1uF = Wima MKP MKP1D041005G00KSSD (use MKP pulse caps)"
+	(text "C1, C2, C16, C17 : 1uF 100V Wima MKP MKP1D041005G00KSSD (use MKP pulse caps)"
 		(exclude_from_sim no)
 		(at 14.478 171.45 0)
 		(effects
@@ -6159,7 +6148,7 @@
 		)
 		(uuid "39475328-2f7d-462e-896a-8b4eec7ab339")
 	)
-	(text "100uF = Panasonic EEU-FS1K101 (low ESR, miniature)"
+	(text "C5, C6, C7, C8, C11 : 100uF 80V Panasonic EEU-FS1K101 (low ESR, miniature)"
 		(exclude_from_sim no)
 		(at 14.478 173.99 0)
 		(effects
@@ -6180,7 +6169,7 @@
 		)
 		(uuid "a7fd3230-07da-40c9-a535-2e83f64dfb4d")
 	)
-	(text "3900pF 100V = Kemet MMK5392J100J01L16.5TA18 or Kemet PHE426DJ4390JR05"
+	(text "C12, C13 : 3900pF 100V Kemet MMK5392J100J01L16.5TA18 or Kemet PHE426DJ4390JR05"
 		(exclude_from_sim no)
 		(at 14.478 166.37 0)
 		(effects
@@ -6215,7 +6204,7 @@
 	)
 	(text "Q7, Q9 : IRF9Z34NPBF or IRF9540NPBF"
 		(exclude_from_sim no)
-		(at 14.732 153.67 0)
+		(at 14.478 156.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6237,7 +6226,7 @@
 	)
 	(text "Q6, Q8 : IRFZ24NPBF or IRF530NPBF"
 		(exclude_from_sim no)
-		(at 14.732 151.13 0)
+		(at 14.478 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6246,7 +6235,7 @@
 		)
 		(uuid "e696d8e5-f363-4632-b096-e27a1d7c13fd")
 	)
-	(text "220pF 100V = Kemet C0G C315C221J1G "
+	(text "C14, C15 : 220pF 100V Kemet C0G C315C221J1G "
 		(exclude_from_sim no)
 		(at 14.478 168.91 0)
 		(effects
@@ -10742,7 +10731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-8_HandSoldering"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-8"
 			(at 157.48 40.64 0)
 			(effects
 				(font
@@ -12347,7 +12336,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-8_HandSoldering"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-8"
 			(at 157.48 90.17 0)
 			(effects
 				(font

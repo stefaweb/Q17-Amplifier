@@ -4,4 +4,6 @@
   (lib (name "Bridge_GBJ")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/GBJ2510.kicad_sym")(options "")(descr ""))
   (lib (name "ZHB6792TA")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/ZHB6792TA.kicad_sym")(options "")(descr ""))
   (lib (name "IRFZ24NPBF")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/IRFZ24NPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "574102B03300G")(type "KiCad")(uri "/Users/sleclerc/Desktop/Q17/Q17-PSU-MONO 1.0/KiCad source/Library/symbols/574502B03300G.kicad_sym")(options "")(descr ""))
+  (lib (name "IRF9Z34NPBF")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/IRF9Z34NPBF.kicad_sym")(options "")(descr ""))
 )

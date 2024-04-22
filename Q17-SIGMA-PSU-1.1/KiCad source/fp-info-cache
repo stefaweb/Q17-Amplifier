@@ -1,4 +1,4 @@
-22590138264851088
+22591851362547046
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81381,6 +81381,13 @@ TO-126-3 Horizontal RM 2.54mm
 0
 3
 3
+Q17_Library
+CSM22112AE
+CSM221-12AE-2
+Undefined or Miscellaneous
+0
+2
+2
 Q17_Library
 C_Axial_C0
 C, Axial series, Axial, Horizontal, pin pitch=27.5mm, , length*diameter=22*10.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
