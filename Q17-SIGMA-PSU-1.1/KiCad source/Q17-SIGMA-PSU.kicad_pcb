@@ -40105,7 +40105,7 @@
 		(descr "module CMS SOT223 8 pins, https://www.diodes.com/assets/Datasheets/ZXSBMR16PT8.pdf")
 		(tags "CMS SOT")
 		(property "Reference" "U2"
-			(at -6.321 -0.02333 90)
+			(at -6.321 -0.02333 0)
 			(layer "B.SilkS")
 			(uuid "3dc1f5e8-db12-4570-ba57-22039f66d616")
 			(effects
@@ -40472,7 +40472,7 @@
 		(descr "module CMS SOT223 8 pins, https://www.diodes.com/assets/Datasheets/ZXSBMR16PT8.pdf")
 		(tags "CMS SOT")
 		(property "Reference" "U1"
-			(at 6.007891 0.006753 90)
+			(at 6.007891 0.006753 0)
 			(layer "B.SilkS")
 			(uuid "75b5a7e6-92f2-4693-aff5-82f59966d11f")
 			(effects
