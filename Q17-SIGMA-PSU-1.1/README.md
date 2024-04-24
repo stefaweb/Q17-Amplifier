@@ -1,4 +1,4 @@
-# Q17-SIGMA-PSU 1.1<br>
+# Q17-SIGMA-PSU 1.1.1<br>
 
 The Q17-SIGMA-PSU power supply is inspired by Ti Kan's Sigma22 circuit. 
 
