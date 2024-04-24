@@ -10,6 +10,8 @@ Version 1.1 published on April 22, 2024.
 
 # This project is currently being tested and validated.
 
+The Gerber files will be available when the project is validated.
+
 <a href="https://audio.cyberkata.org/Q17-SIGMA-PSU-BOM.html">Q17-SIGMA-PSU-BOM Online Version</a><br>
 
 The 2 Oz PCB measures 75x130mm. The filter board is external for greater flexibility and versatility.
