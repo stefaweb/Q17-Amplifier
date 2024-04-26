@@ -1,9 +1,10 @@
 # Changelog Q17-SIGMA-PSU
 
-Version [1.1.1] (24-04-2024)
+Version [1.1.1] (26-04-2024)
 
 - Q2 orientation corrected.
 - Modified TR1 footprint.
+- Modified symbol for CRD E-502 and E-562.
 
 Version [1.1] (22-04-2024)
 
