@@ -6,6 +6,7 @@ Version [1.1.1] (27-04-2024)
 - Modified TR1 footprint.
 - Modified symbol for CRD E-502 and E-562.
 - Replaced C5, C6, C7 and C8 with 220uF 80V
+- Uploaded LTSpice model.
 
 Version [1.1] (22-04-2024)
 
