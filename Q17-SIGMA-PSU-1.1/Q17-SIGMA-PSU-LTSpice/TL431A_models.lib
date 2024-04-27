@@ -1,0 +1,123 @@
+* TL431A_models.lib
+* Models have been edited for LTspice syntax, but are otherwise per originals
+
+* Model developed by analogspiceman
+**************************************************
+.subckt TL431AS A K R ; Anode Kathode Reference
+D1 R K Dc
+R1 A R 1.3e6 tc1=3m
+G1 A 5 R 4 1
+C1 5 A 1n Rpar=600
+D2 7 R Dc
+D3 7 4 Dn
+R2 7 4 950k
+R3 6 5 600k
+D4 A 6 Di
+C2 K 6 40p Rser=5k Rpar=1e6
+G2 K 7 6 A 95m
+D5 A 7 2V5
+D6 7 A Dk
+C3 7 A 50p
+D7 A K Dc
+.model Dc d Ron=10 Vfwd=0.65 Vrev=36 Epsilon=50m
+.model Dn d Is=1p Kf=0p2 Cjo=0p3
+.model Di d Ron=10m epsilon=1m
+.model Dk d Ron=5k7 Vfwd=0.8 Epsilon=0.5
+.model 2V5 d Ron=27m Vfwd=0.6 Epsilon=10m Vrev={Vr} revEpsilon=10m
+.param Vr=2.5+dt*(95u-dt*2u6) dt=temp-10
+.ends TL431AS
+
+* Model developed by Eugene Dvoskin
+**************************************************
+.subckt TL431ED A K R ; Anode Kathode Reference
+Q1  K  R  5 0 QN_ED
+Q7  3  3  1 0 QP_ED
+D1  A  4      D_ED
+Q8  4  3  2 0 QP_ED
+R4  5  9      3k28
+R2  9 12      2k4
+R3  9 10      7k2
+R1 14  A      800
+R5  6 11      4k
+R7  K  1      800
+R8  K  2      800
+R6 13 12      1k
+R9  8  7      150
+R10 8  A      10k
+D2  A  K      D_ED
+C1  K  4      10p
+C2 10 11      20p
+Q2 12 12  A 0 QN_ED area=1.2
+Q3 10 12 14 0 QN_ED area=2.2
+Q5 11 10  A 0 QN_ED
+Q9  K  4  7 0 QN_ED
+Q10 K  8  A 0 QN_ED area=5
+Q4  3  5  6 0 QN_ED
+Q6  4 13  A 0 QN_ED area=0.5
+Q11 4  4  R 0 QN_ED
+.model QN_ED npn(Bf=140 Cje=1p Cjc=2p Rb=40 Vaf=80 Var=50 Kf=3.2e-16 Af=1)
+.model QP_ED pnp(Bf= 60 Cje=1p Cjc=3p Rb=80 Vaf=70 Var=40)
+.model D_ED d(Rs=5 Cjo=4p)
+.ends TL431ED
+
+* Model developed by Helmut Sennewald 6/27/2004
+* This TL431 model has been developed from the schematic in the datasheet.
+* It agrees with most of the test circuits and covers Tempco, C-load stability,
+* AC gain, reverse diode, noise, transient, Zout.
+**************************************************
+.subckt TL431AH A K R ; Anode Kathode Reference
+Q1  3  2 1 0 NPN1 2.7
+Q2  2  2 A 0 NPN1 1
+R1  1  A 800 TC1=350u ; This TC1 does the trick for the total tempco
+R2  4  2 2k4
+R3  4  3 7k2
+R4  5  4 3k28
+Q3  6  3 A 0 NPN1 1
+R5  7  6 4k
+Q4 10  5 7 0 NPN1 1
+Q5  K  R 5 0 NPN1 1
+R6  2 12 1k
+Q6 11 12 A 0 NPN1 0.2
+Q9  K 11 13 0 NPN1 2
+Q10 K 14 A 0 NPN1 10
+R10 14 A 10k
+R9 13 14 150
+R7  K  8 800
+Q7 10 10 8 0 PNP1 1
+Q8 11 10 9 0 PNP1 1
+D2  A  K D1
+D1  A 11 D3
+R8  K  9 800
+C1  K 11 20p
+C2  6  3 20p
+D3 11  R D2
+* adjust output voltage with Is
+.MODEL NPN1 npn(Is= 8f Bf=100 Vaf=100 Tf=0n5 IKF=10m Kf=1e-16 Af=1 Rb=50 Re=10)
+.MODEL PNP1 pnp(Is=10f Bf= 50 Vaf= 50 Tf=10n IKF= 2m Kf=1e-16 Af=1)
+.MODEL D1 d(Is=0p1 Rs=10 Cjo=20p)
+.MODEL D2 d(Is=0p1 Rs=10 Cjo= 2p Bv=5 Ibv=10u)
+.MODEL D3 d(Is=0p1 Rs=10 Cjo= 2p)
+.ends TL431AH
+
+* Released by: Analog eLab Design Center, Texas Instruments Inc.
+* Part: TL431
+* Date: 12/14/2009
+* Model Type: Transient and AC
+**************************************************
+.subckt TL431A A K R ; Anode Kathode Reference
+V1  1 A 2.495
+R1  A 2 15.6
+C1  2 A 0u5
+R2  2 3 100
+C2  3 4 80n
+R3  4 A 10
+GB1 A 8 Value = {if(V(3,A)<0, 1.73*V(3,A)-1u, -1u)}
+D1  5 8 Dclamp
+D2  K 8 Dclamp
+V4  5 A 2
+G1  A 2 1 R 0.11
+.model Dclamp d (Is=13n5 Rs=25m N=1.59 Cjo=45p Vj=0.75 M=302m Tt=50n4 Bv=34 Ibv=1m)
+.ends TL431A
+
+
+
