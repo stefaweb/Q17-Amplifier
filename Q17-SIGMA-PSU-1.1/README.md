@@ -6,7 +6,7 @@ The "sigma 22" is a high-performance DIY dual-rail, tracking, linear regulated p
 
 This power supply provides a regulated  up to 60vDC and 3A continuous source (or more with external heatsinks). The voltage difference between output and input is around 6V. The board should be able to power an amplifier board.
 
-Version 1.1.1 published on April 24, 2024.
+Version 1.1.1 published on April 27, 2024.
 
 # This project is currently being tested and validated.
 
@@ -20,7 +20,7 @@ The 2 Oz PCB measures 75x130mm. The filter board is external for greater flexibi
 
 ![Q17-SIGMA-PSU-TOP-VIEW-HS-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b6a83576-7b8c-4cfb-a002-c88a349ebe51)
 
-![Q17-SIGMA-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f7f61096-c567-411e-9a1e-65adfd877c54)
+![Q17-SIGMA-PSU-schematic](https://github.com/tiberiuvicol/Q17-audiophile-amplifier/assets/12907102/f0ed31fe-1a0f-430f-885d-b91474b5895d)
 
 ![sim_voltages](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b04c5173-080b-4b07-8acf-137cc47f3d3a)
 
