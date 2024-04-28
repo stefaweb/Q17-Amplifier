@@ -1,0 +1,3 @@
+* Z15 15V Zener Diode		(Diodes Inc. 1N5245B)
+* created November 24, 2010 copyright Cordell Audio
+.model 1N5245B D(Is=.6u Rs=.5 Cjo=110p nbv=8.5 bv=15 Ibv=5m Vpk=15 mfg=CA112410)

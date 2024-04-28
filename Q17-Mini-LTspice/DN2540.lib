@@ -1,0 +1,6 @@
+*VDMOS with subthreshold (c) Ian Hegglun and keantoken Jun 2019
+.model DN2540 VDMOS (Rg=1 Vto=-1.50 Kp=0.82 Lambda=8m
++ Rs=0.30 Ksubthres=0.11 Mtriode=0.8 Rd=10 Rb=0.2
++ Bex=-1.9 Vtotc=-0.8m tksubthres1=1m Trs1=3m Trd1=3m
++ Cgdmax=60p Cgdmin=1p a=0.1 Cgs=60p Cjo=170p 
++ m=0.75 VJ=0.75 IS=240p N=1.4 mfg=IHKT1906)

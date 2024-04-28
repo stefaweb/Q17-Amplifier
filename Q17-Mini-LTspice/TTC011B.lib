@@ -1,0 +1,51 @@
+*********************************************************************
+*  (C)  Copyright  TOSHIBA CORPORATION  2016
+*  Date                 :16/08/2016
+*  File Name            :TTC011B.lib
+*  Part Number          :TTC011B
+*  Parameter Ver.       :Ver.1
+*  Simulator            :PSpice
+*  Model Call Name      :TTC011B
+*  TNOM                 :25 degree
+*  Pin Assign           :1=Collector 2=Base 3=Emitter
+*********************************************************************
+.SUBCKT TTC011B 1 2 3
+Q1 1 2 3 3 TTC011B_BJT
+.MODEL TTC011B_BJT NPN(
++ LEVEL = 1
++ IS = 5e-013
++ BF = 120
++ NF = 1
++ VAF = 18
++ IKF = 2.2
++ ISE = 1.8e-013
++ NE = 1.3
++ BR = 20
++ NR = 1
++ VAR = 10
++ IKR = 0.005
++ ISC = 1.5e-013
++ NC = 1
++ NK = 0.8
++ RE = 0.08
++ RB = 1.5
++ RC = 0.08
++ CJE = 8e-010
++ VJE = 0.75
++ MJE = 0.33
++ CJC = 4.8156e-011
++ VJC = 0.75
++ MJC = 0.33
++ FC = 0.5
++ TF = 1.2e-009
++ XTF = 10
++ VTF = 2.8
++ ITF = 1
++ PTF = 0
++ TR = 500E-09
++ EG = 1.11
++ XTB = 1.2
++ XTI = 7
++ TRC1 = 0
++ TNOM = 25)
+.ENDS

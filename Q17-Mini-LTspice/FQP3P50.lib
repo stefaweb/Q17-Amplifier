@@ -1,0 +1,79 @@
+*** From file FQP3P50.lib
+**************** Power Discrete MOSFET Electrical Circuit Model *****************
+** Product Name: FQP3P50
+** 500V P-Channel MOSFET
+** Model Type: BSIM3V3
+**-------------------------------------------------------------------------------
+.SUBCKT FQP3P50 2 1 3
+*Nom Temp=25 deg C
+Dbody 5 7 DbodyMOD
+Dbreak 7 11 DbreakMOD
+Lgate 1 9 1.125e-9
+Ldrain 2 5 5.00e-10
+Lsource 3 7 9.66e-10
+RLgate 1 9 11.25
+RLdrain 2 5 5.00
+RLsource 3 7 9.66
+Rgate 9 6 0.5
+It 7 17 1
+Ebreak 5 11 17 7 -500
+Rbreak 17 7 RbreakMOD 1
+.MODEL RbreakMOD RES (TC1=8.2e-4 TC2=-1.05e-6)
+.MODEL DbodyMOD D (IS=1.08e-15  N=1.0    RS=0.152   TRS1=1.0e-6  TRS2=1.1e-7
++ CJO=6.52e-10     M=0.42       VJ=0.65  TT=4.39e-7 XTI=3        EG=1.24)
+.MODEL DbreakMOD D (RS=0.1 TRS1=1e-3 TRS2=1e-6)
+Rdrain 5 16 RdrainMOD 3.9
+.MODEL RdrainMOD RES (TC1=7.31e-3 TC2=1.14e-5)
+M_BSIM3 16 6 7 7 Bsim3 W=0.86 L=2.0e-6 NRS=1
+.MODEL Bsim3 PMOS (LEVEL=7 VERSION=3.1 MOBMOD=3 CAPMOD=2 PARAMCHK=1 NQSMOD=0
++ TOX=970e-10      XJ=1.0e-6       NCH=1.1e17
++ U0=250           VSAT=5.0e5      DROUT=1.0
++ DELTA=0.1        PSCBE2=0        RSH=1.5e-3
++ VTH0=-3.55       VOFF=-0.1       NFACTOR=1.1
++ LINT=2.7e-8      DLC=2.7e-8      CGSO=1.1e-15
++ CGSL=0           CGDO=6.5e-15    CGDL=7.82e-10
++ CJ=0             CF=0            CKAPPA=0.2
++ KT1=-1.08        KT2=0           UA1=-7.2e-9
++ NJ=10            FC=0.5)
+.ENDS
+
+
+*** From file FQPF9P25(PSPICE MODEL).LIB
+*
+**************** Power Discrete MOSFET Electrical Circuit Model *****************
+** Product Name: FQPF9P25
+** P-Channel QFET 250V, -6A, 620mohm and TO-220F
+** Model Type: BSIM3V3
+**-------------------------------------------------------------------------------
+.SUBCKT FQPF9P25 2 1 3
+*Nom Temp=25 deg C
+Dbody 5 7 DbodyMOD
+Dbreak 7 11 DbreakMOD
+Lgate 1 9 1.12e-9
+Ldrain 2 5 0.5e-9
+Lsource 3 7 9.10e-10
+RLgate 1 9 11.2
+RLdrain 2 5 5.0
+RLsource 3 7 9.1
+Rgate 9 6 0.5
+It 7 17 1
+Ebreak 5 11 17 7 -275
+Rbreak 17 7 RbreakMOD 1
+.MODEL RbreakMOD RES (TC1=8.8e-4 TC2=-1.09e-6)
+.MODEL DbodyMOD D (IS=6.5e-12  N=1.5  RS=0.0852   TRS1=1.02e-5  TRS2=5.1e-7
++ CJO=1.38e-9    M=0.65    VJ=0.63    TT=3.13e-7  XTI=18        EG=1.18)
+.MODEL DbreakMOD D (RS=0.1 TRS1=1e-3 TRS2=1e-6)
+Rdrain 5 16 RdrainMOD 0.456
+.MODEL RdrainMOD RES (TC1=7.7e-3 TC2=1.20e-5)
+M_BSIM3 16 6 7 7 Bsim3 W=2.314 L=2.0e-6 NRS=1
+.MODEL Bsim3 PMOS (LEVEL=7 VERSION=3.1 MOBMOD=3 CAPMOD=2 PARAMCHK=1 NQSMOD=0
++ TOX=970e-10      XJ=1.4e-6       NCH=1.3e17
++ U0=220           VSAT=1e5        DROUT=1.0
++ DELTA=0.1        PSCBE2=0        RSH=6.5e-3
++ VTH0=-4.05       VOFF=-0.1       NFACTOR=1.1
++ LINT=4.17e-7     DLC=4.17e-7     CGSO=1.1e-15
++ CGSL=1.0e-15     CGDO=1.06e-14   CGDL=6.25e-10
++ CJ=0             CF=0            CKAPPA=0.1
++ KT1=-1.35        KT2=0           UA1=-2.61e-9
++ NJ=10)
+.ENDS

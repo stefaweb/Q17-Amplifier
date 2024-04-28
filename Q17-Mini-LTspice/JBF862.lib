@@ -1,0 +1,4 @@
+.model JBF862 NJF(Beta=47.800E-3 Betatce=-.5 Rd=.8 Rs=7.5000 Lambda=37.300E-3 Vto=-.57093
++ Vtotc=-2.0000E-3 Is=424.60E-12 Isr=2.995p N=1 Nr=2 Xti=3 Alpha=-1.0000E-3
++ Vk=59.97 Cgd=7.4002E-12 M=.6015 Pb=.5 Fc=.5 Cgs=8.2890E-12 Kf=87.5E-18
++ Af=1)
