@@ -20,6 +20,8 @@ The 2 Oz PCB measures 75x130mm. The filter board is external for greater flexibi
 
 ![IMG_8610](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/601b203e-d900-40bd-8a44-18cfc6e18782)
 
+![Q17-sigma_back_chip](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/6de52a90-a810-4c67-a12e-8f67683c94d4)
+
 ![Q17-SIGMA-PSU-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/39ce295d-0b2b-418a-856c-e8a23fc10f08)
 
 ![sim_voltages_diag](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/ee0529cd-0cb1-4b57-9ba0-3e57c66b4cc6)
