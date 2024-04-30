@@ -6,7 +6,7 @@ The "sigma 22" is a high-performance DIY dual-rail, tracking, linear regulated p
 
 This power supply provides a regulated  up to 60vDC and 3A continuous source (or more with external heatsinks). The voltage difference between output and input is around 6V. The board should be able to power an amplifier board.
 
-Version 1.1.1 published on April 27, 2024.
+Version 1.1.1 published on April 30, 2024.
 
 # This project is currently being tested and validated.
 
