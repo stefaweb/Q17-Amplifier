@@ -16,7 +16,7 @@ The Gerber files will be available when the project is validated.
 
 The 2 Oz PCB measures 75x130mm. The filter board is external for greater flexibility and versatility.
 
-![Q17-SIGMA-PSU-3D-VIEW-WO-HEATSINKS](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/3c852fff-8178-4288-a8f6-25b199f5d206)
+![Q17-Sigma-PSU_wohs](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/105e5dc0-1a16-4a9d-9e36-4929bceb21f5)
 
 ![Q17-SIGMA-PSU-TOP-VIEW-HS-3D](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b6a83576-7b8c-4cfb-a002-c88a349ebe51)
 
