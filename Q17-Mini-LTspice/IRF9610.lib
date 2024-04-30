@@ -1,24 +1,7 @@
-*IRF9610  MCE  4-2-96
-*200V  1.8A  3 ohms HEXFET pkg:TO-220 2,1,3
-.SUBCKT IRF9610  10 20 40
-M1   1  2  3  3  DMOS L=1U W=1U
-RD  10  1  1.42
-RS  30  3  76M
-RG  20  2  83.3
-CGS  2  3  155P
-EGD 12  0  1  2  1
-VFB 14  0  0
-FFB  1  2  VFB  1
-CGD 13 14  192P
-R1  13  0  1
-D1  12 13  DLIM
-DDG 15 14  DCGD
-R2  12 15  1
-D2  15  0  DLIM
-DSD 10  3  DSUB
-LS  30 40  7.5N
-.MODEL DMOS PMOS (LEVEL=3 THETA=60M VMAX=416K ETA=2M VTO=-3 KP=.869)
-.MODEL DCGD D (CJO=192P VJ=.6 M=.68)
-.MODEL DSUB D (IS=7.47N N=1.5 RS=2.8 BV=200 CJO=150P VJ=.8 M=.42 TT=240N)
-.MODEL DLIM D (IS=100U)
-.ENDS IRF9610
+*VDMOS with subthreshold (c) Ian Hegglun Apr 2019
+.model IRF9610 VDMOS (pchan Rg=6 Vto={(-3.76+2.5m*(0+temp-25))} Lambda=4m
++ Rs={68m*(1+3m*(0+temp-25))} Tnom={temp} Kp={0.35/(1+3m*(0+temp-25))}
++ Ksubthres={0.2*(1+4m*(0+temp-25))} Mtriode={0.5} Rd={2*(1+9m*(0+temp-25))}
++ Cgdmax=120p Cgdmin=15p a=0.26 Cgs=113p Cjo=207p Tnom=temp
++ m=0.75 VJ=2.5 IS=1p N=1.5 Rb=0.02 Vds=-200 Ron=3 Qg=11nC mfg=IH201904 )
+*

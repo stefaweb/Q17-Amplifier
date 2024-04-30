@@ -1,13 +1,13 @@
 ***********************************************************
 *
-* MMBZ18VAL
+* MMBZ12VAL
 *
 * Nexperia
 *
 * Low capacitance unidirectional double ESD protection diodes
-* VRWM = 14,5V
-* Cd   = 90pF @ f = 1MHz, VR = 0V
-* IRM  = 5nA  @ VR = 14,5V
+* VRWM = 8,5V
+* Cd   = 140pF @ f = 1MHz, VR = 0V
+* IRM  = 5nA   @ VR = 8,5V
 * 
 * 
 *
@@ -28,15 +28,15 @@
 * Please note: This device is an array and the
 * symbol has to be placed twice on the schematic.
 *
-.MODEL MMBZ18VAL  D 
+.MODEL MMBZ12VAL D 
 + IS = 3.566E-14 
 + N = 1.131 
-+ BV = 17.94 
++ BV = 11.98 
 + IBV = 0.001 
 + RS = 0.1756 
-+ CJO = 6.806E-11 
-+ VJ = 0.6566 
-+ M = 0.3373 
++ CJO = 1.063E-10 
++ VJ = 0.5921 
++ M = 0.3312 
 + FC = 0.5 
 .ENDS
 *

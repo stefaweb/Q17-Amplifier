@@ -1,0 +1,30 @@
+* PSpice Model Editor - Version 9.2.1
+
+*$
+*DEVICE=IXFH58N20,NMOS
+
+* IXFH58N20 NMOS model
+* updated using Model Editor release 9.2.1 on 03/09/04 at 15:30
+* The Model Editor is a PSpice product hem.
+.MODEL IXFH58N20 NMOS
++ LEVEL=3
++ L=2.0000E-6
++ W=58
++ KP=1.0430E-6
++ RS=10.000E-3
++ RD=24.491E-3
++ VTO=3.6288
++ RDS=8.0000E6
++ TOX=2.0000E-6
++ CGSO=154.48E-12
++ CGDO=7.6009E-12
++ CBD=3.6792E-9
++ MJ=1.0215
++ PB=3
++ RG=10.000E-3
++ IS=11.429E-6
++ N=2.3157
++ RB=1.0000E-9
++ GAMMA=0
++ KAPPA=0
+*$
