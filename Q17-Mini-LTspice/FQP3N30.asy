@@ -1,36 +1,36 @@
 Version 4
 SymbolType CELL
-LINE Normal -48 0 -80 0
-LINE Normal -39 -24 -39 -40
-LINE Normal -39 25 -39 40
-LINE Normal -39 -16 -39 16
-LINE Normal 0 -48 0 48
-LINE Normal 0 -32 -39 -32
-LINE Normal 0 32 -39 32
-LINE Normal -16 0 -39 0
-LINE Normal -16 -32 -16 0
-LINE Normal 8 9 -9 9
-LINE Normal 8 -8 -9 -8
-LINE Normal -48 -32 -48 32
-LINE Normal -16 0 -32 -8
-LINE Normal -32 8 -16 0
-LINE Normal -32 -8 -32 8
-LINE Normal 0 -8 8 9
-LINE Normal -9 9 0 -8
-CIRCLE Normal -71 -48 24 48
-WINDOW 0 32 48 Left 2
-WINDOW 3 32 -32 Left 2
+LINE Normal -16 0 -48 0
+LINE Normal -7 24 -7 40
+LINE Normal -7 -25 -7 -40
+LINE Normal -7 16 -7 -16
+LINE Normal 32 48 32 -48
+LINE Normal 32 32 -7 32
+LINE Normal 32 -32 -7 -32
+LINE Normal 16 0 -7 0
+LINE Normal 16 32 16 0
+LINE Normal 8 -8 -7 0
+LINE Normal 8 7 8 -8
+LINE Normal -7 0 8 7
+LINE Normal 40 -9 23 -9
+LINE Normal 23 8 32 -9
+LINE Normal 40 8 23 8
+LINE Normal 32 -9 40 8
+LINE Normal -16 32 -16 -32
+CIRCLE Normal -39 48 56 -48
+WINDOW 0 64 -48 Left 2
+WINDOW 3 64 32 Left 2
 SYMATTR Value FQP3N30
 SYMATTR Prefix X
 SYMATTR SpiceModel FQP3N30.lib
 SYMATTR Value2 FQP3N30
 SYMATTR Description FQP3N30
-PIN 0 48 NONE 0
+PIN 32 -48 NONE 0
 PINATTR PinName C
 PINATTR SpiceOrder 1
-PIN -80 0 NONE 0
+PIN -48 0 NONE 0
 PINATTR PinName G
 PINATTR SpiceOrder 2
-PIN 0 -48 NONE 0
+PIN 32 48 NONE 0
 PINATTR PinName E
 PINATTR SpiceOrder 3
