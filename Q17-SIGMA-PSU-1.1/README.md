@@ -8,8 +8,6 @@ This power supply provides a regulated  up to 60vDC and 3A continuous source (or
 
 Version 1.1.1 published on April 30, 2024.
 
-# This project is currently being tested and validated.
-
 The Gerber files will be available when the project is validated.
 
 <a href="https://audio.cyberkata.org/Q17-SIGMA-PSU-BOM.html">Q17-SIGMA-PSU-BOM Online Version</a><br>

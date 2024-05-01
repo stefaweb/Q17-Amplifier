@@ -1,6 +1,6 @@
 # Changelog Q17-SIGMA-PSU
 
-Version [1.1.1] (27-04-2024)
+Version [1.1.1] (30-04-2024)
 
 - Q2 orientation corrected.
 - Modified TR1 footprint.
