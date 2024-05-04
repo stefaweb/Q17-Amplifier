@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-SIGMA Power Supply")
-		(date "2024-04-30")
-		(rev "1.1.1")
+		(date "2024-05-04")
+		(rev "1.1.2")
 		(company "PCB and BOM by stef")
 		(comment 2 "Design and test by Moor")
 		(comment 3 "Inspired from Sigma22 v3 design from Ti Kan")
@@ -6497,7 +6497,7 @@
 		)
 		(uuid "d6c38c31-97c9-4dac-aa8e-e9df872ade39")
 	)
-	(text "Q6, Q8 : IRFZ24NPBF or IRF530NPBF"
+	(text "Q6, Q8 : IRFZ24NPBF, IRFZ34NPBF or IRF530NPBF"
 		(exclude_from_sim no)
 		(at 14.478 150.622 0)
 		(effects
