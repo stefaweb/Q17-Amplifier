@@ -6,6 +6,8 @@ The "sigma 22" is a high-performance DIY dual-rail, tracking, linear regulated p
 
 This power supply provides a regulated  up to 60vDC and 3A continuous source (or more with external heatsinks). The voltage difference between output and input is around 6V. The board should be able to power an amplifier board.
 
+Compared to the original design, the precision has been improved through the use of a circuit based on TL431B, a new servo motor based on an H-Bridge ZHB6792 chip from Diodes Incorporated, the addition of a trimmer to adjust the voltage and better protection in the event of failure. All in 75x130mm.
+
 Version 1.1.1 published on April 30, 2024.
 
 <a href="https://audio.cyberkata.org/Q17-SIGMA-PSU-BOM.html">Q17-SIGMA-PSU-BOM Online Version</a><br>
