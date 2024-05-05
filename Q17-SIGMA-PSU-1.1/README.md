@@ -4,7 +4,7 @@ The Q17-SIGMA-PSU power supply regulator board is inspired by Ti Kan's Sigma22 c
 
 The "sigma 22" is a high-performance DIY dual-rail, tracking, linear regulated power supply (PSU).
 
-This power supply provides a regulated  up to 60vDC and 3A continuous source (or more with external heatsinks). The voltage difference between output and input is around 6V. The board should be able to power an amplifier board.
+This power supply provides a regulated  up to 60vDC and 3A continuous source (or more with external heatsinks). The voltage difference between output and input is around 6V. The board is able to power an amplifier board.
 
 Compared to the original design, the precision has been improved through the use of a circuit based on TL431B, a new servo motor based on an H-Bridge ZHB6792 chip from Diodes Incorporated, the addition of a trimmer to adjust the voltage and better protection in the event of failure. All in 75x130mm.
 
