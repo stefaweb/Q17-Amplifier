@@ -1,6 +1,6 @@
 # Q17-SIGMA-PSU 1.1.1<br>
 
-The Q17-SIGMA-PSU power supply is inspired by Ti Kan's Sigma22 circuit. 
+The Q17-SIGMA-PSU power supply regulator board is inspired by Ti Kan's Sigma22 circuit. 
 
 The "sigma 22" is a high-performance DIY dual-rail, tracking, linear regulated power supply (PSU).
 
