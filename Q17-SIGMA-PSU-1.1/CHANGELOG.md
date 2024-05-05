@@ -7,6 +7,7 @@ Version [1.1.1] (30-04-2024)
 - Modified symbol for CRD E-502 and E-562.
 - Replaced C5, C6, C7 and C8 with 220uF 80V
 - Uploaded LTSpice model.
+- Updated diagram with voltage measures.
 
 Version [1.1] (22-04-2024)
 
