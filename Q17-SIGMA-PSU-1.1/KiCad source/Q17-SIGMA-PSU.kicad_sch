@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-SIGMA Power Supply")
-		(date "2024-05-04")
-		(rev "1.1.2")
+		(date "2024-05-05")
+		(rev "1.1.3")
 		(company "PCB and BOM by stef")
 		(comment 2 "Design and test by Moor")
 		(comment 3 "Inspired from Sigma22 v3 design from Ti Kan")
@@ -6268,6 +6268,20 @@
 		)
 		(uuid "00c5da12-8d30-472d-9252-fc6defd2ead9")
 	)
+	(text "Measure at 50mA 60V input with output setup at 54V."
+		(exclude_from_sim no)
+		(at 177.8 163.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 4 17 1)
+			)
+			(justify left)
+		)
+		(uuid "124e879d-bc4d-4484-a452-eef1dfbbe1c3")
+	)
 	(text "C5, C6, C7, C8 : 220uF 80V Panasonic EEU-FS1K221 or Chemi-con KYB EKYB800ELL221MJ25S (low ESR, miniature)"
 		(exclude_from_sim no)
 		(at 14.478 171.196 0)
@@ -6278,6 +6292,20 @@
 			(justify left)
 		)
 		(uuid "197cfd14-7f9c-4b79-9779-fbe696eefe8c")
+	)
+	(text "-58.94V"
+		(exclude_from_sim no)
+		(at 121.666 137.668 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 4 17 1)
+			)
+			(justify left)
+		)
+		(uuid "2584c1eb-5e21-43ec-984e-21733c1f6993")
 	)
 	(text "C1, C2, C16, C17 : 1uF 100V Wima MKP MKP1D041005G00KSSD (use MKP pulse caps)"
 		(exclude_from_sim no)
@@ -6290,6 +6318,20 @@
 		)
 		(uuid "2727f786-2c26-4dd2-975e-1d8e3aa7887f")
 	)
+	(text "-54V"
+		(exclude_from_sim no)
+		(at 256.54 110.744 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 4 17 1)
+			)
+			(justify left)
+		)
+		(uuid "2a2082b2-1cc8-441c-b8f9-457e14cf9a81")
+	)
 	(text "SR1 : TL431BCLPG (0.4%)"
 		(exclude_from_sim no)
 		(at 14.478 155.702 0)
@@ -6300,6 +6342,20 @@
 			(justify left)
 		)
 		(uuid "39475328-2f7d-462e-896a-8b4eec7ab339")
+	)
+	(text "-58.01V"
+		(exclude_from_sim no)
+		(at 200.914 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 4 17 1)
+			)
+			(justify left)
+		)
+		(uuid "3a73f4b7-7eda-444f-a7d8-dac5c3bc0bf8")
 	)
 	(text "C9, C10, C11 : 100uF 80V Panasonic EEU-FS1K101 (low ESR, miniature)"
 		(exclude_from_sim no)
@@ -6332,6 +6388,34 @@
 		)
 		(uuid "5886740f-84f4-4db1-9492-d0e7532f01e6")
 	)
+	(text "+54V"
+		(exclude_from_sim no)
+		(at 256.794 71.374 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 4 17 1)
+			)
+			(justify left)
+		)
+		(uuid "65d991f0-038f-4e2f-97fe-726860fe265c")
+	)
+	(text "+60V"
+		(exclude_from_sim no)
+		(at 42.418 40.894 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 4 17 1)
+			)
+			(justify left)
+		)
+		(uuid "699ba438-1974-4323-8218-e3dda47a3976")
+	)
 	(text "G"
 		(exclude_from_sim no)
 		(at 201.676 138.684 0)
@@ -6361,6 +6445,34 @@
 			)
 		)
 		(uuid "98caa2b0-6e38-41c4-8cad-3e1c7aa57ee8")
+	)
+	(text "+57.14V"
+		(exclude_from_sim no)
+		(at 199.898 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 4 17 1)
+			)
+			(justify left)
+		)
+		(uuid "9b69b97a-b265-42a6-9b21-70abe99aa093")
+	)
+	(text "-60V"
+		(exclude_from_sim no)
+		(at 42.926 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 4 17 1)
+			)
+			(justify left)
+		)
+		(uuid "9bab702d-0217-4573-9310-f7336f5b2a2a")
 	)
 	(text "G"
 		(exclude_from_sim no)
@@ -6444,6 +6556,34 @@
 		)
 		(uuid "bc4c1e4a-f3e7-425c-82ff-375cb2a88093")
 	)
+	(text "+58.80V"
+		(exclude_from_sim no)
+		(at 122.682 47.244 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 4 17 1)
+			)
+			(justify left)
+		)
+		(uuid "c819d2c2-73c8-4be5-a9f7-e80dce2f0c3a")
+	)
+	(text "+57.07V"
+		(exclude_from_sim no)
+		(at 104.14 50.038 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 4 17 1)
+			)
+			(justify left)
+		)
+		(uuid "cd4a5e21-584b-45b9-822e-9550d1ebbb05")
+	)
 	(text "S"
 		(exclude_from_sim no)
 		(at 204.724 146.304 0)
@@ -6464,6 +6604,20 @@
 			(justify left)
 		)
 		(uuid "d0d3feb0-8985-49fc-b719-15d21078f0d1")
+	)
+	(text "+18.08"
+		(exclude_from_sim no)
+		(at 120.396 76.454 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 4 17 1)
+			)
+			(justify left)
+		)
+		(uuid "d454516d-e255-4851-9794-c8e4da63280e")
 	)
 	(text "+"
 		(exclude_from_sim no)
@@ -9223,7 +9377,8 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 251.46 69.85 180)
+		(at 251.46 69.85 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9231,7 +9386,7 @@
 		(dnp no)
 		(uuid "7a4240a8-ba30-4628-9ae0-2463252c45ae")
 		(property "Reference" "R22"
-			(at 256.794 68.326 0)
+			(at 246.126 68.326 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9240,7 +9395,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 256.794 71.374 0)
+			(at 246.126 71.374 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9249,7 +9404,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 253.238 69.85 90)
+			(at 249.682 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9848,7 +10003,7 @@
 		(dnp no)
 		(uuid "8f27d7ad-2cae-40d2-923b-b5b2ae9edd2c")
 		(property "Reference" "C17"
-			(at 237.236 116.586 0)
+			(at 239.776 117.348 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9857,7 +10012,7 @@
 			)
 		)
 		(property "Value" "1uF 100V"
-			(at 236.982 121.92 0)
+			(at 239.776 119.888 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10377,7 +10532,7 @@
 		(dnp no)
 		(uuid "9e31d188-aebe-406d-a243-fec0dd5ba460")
 		(property "Reference" "C16"
-			(at 237.236 60.706 0)
+			(at 239.776 61.722 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10386,7 +10541,7 @@
 			)
 		)
 		(property "Value" "1uF 100V"
-			(at 236.982 66.04 0)
+			(at 239.776 64.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
