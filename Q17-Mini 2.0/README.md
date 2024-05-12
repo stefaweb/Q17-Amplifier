@@ -9,7 +9,7 @@ THD+N: 0.006%<br>
 S/N : 101 dBFS<br>
 Intermodulation distortion: 0,25%<br>
 Frequency response: ±0,2 dB<br>
-Default gain: 25 (with input gain R17 at 1.5V)<br>
+Default gain: 26 (with input gain R17 at 1.5V)<br>
 DC offset at output: 1mV (with R32=0R)<br>
 Power supply: 50vDC<br>
 Idle consumption: 10W @ 240vAC
@@ -32,7 +32,7 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/7f4adf1f-0019-4bbf-bed1-3bd3e442b201)
 
-![Q17-Mini-2 0-spectrum_1W](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/730d3837-c369-4a15-a6ad-549056223ddc)
+![spectre_mini_1W](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/385b6c44-303d-4724-9ebb-b83473bcf05d)
 
 ![Q17-Mini-3D-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/df84aa06-162f-471d-9c15-c0e1a0803745)
 
