@@ -32,6 +32,7 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/7f4adf1f-0019-4bbf-bed1-3bd3e442b201)
 
+Measure at 1W.
 ![spectrum-q17-mini-1W](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/c696afb9-2482-4b1a-95e6-719cfdd0da3e)
 
 ![Q17-Mini-3D-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/df84aa06-162f-471d-9c15-c0e1a0803745)
