@@ -27,7 +27,6 @@ Idle consumption: 15W @ 240vAC
 These measurements were made with amateur measuring equipment. It is better to take them as an indication than as safe values.
 <br>
 <br>
-<br>
 The first version of the board was released on January, 6 2023.<br>
 <br>
 Version 1.2.4 was released on May 21, 2024.<br>
