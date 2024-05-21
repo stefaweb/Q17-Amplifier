@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini Amplifier 2.x")
-		(date "2024-05-12")
-		(rev "2.0.6")
+		(date "2024-05-21")
+		(rev "2.0.7")
 		(company "by eng. Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-Mini project")
 		(comment 4 "Q17 a QUAD405 audiophile approach")
@@ -6635,6 +6635,12 @@
 		(uuid "84e5506c-143e-495f-9aa4-d3a71622f213")
 	)
 	(junction
+		(at 44.45 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8e625273-b6c3-4d00-b847-21ad2ae460d2")
+	)
+	(junction
 		(at 189.23 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6675,12 +6681,6 @@
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "aa2ea573-3f20-43c1-aa99-1f9c6031a9aa")
-	)
-	(junction
-		(at 44.45 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b1ab2e08-2c38-48d7-821b-effac861ea85")
 	)
 	(junction
 		(at 149.86 36.83)
@@ -7080,7 +7080,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 73.66) (xy 26.67 73.66)
+			(xy 22.86 73.66) (xy 36.83 73.66)
 		)
 		(stroke
 			(width 0)
@@ -7190,7 +7190,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 55.88) (xy 163.83 55.88)
+			(xy 173.99 55.88) (xy 161.29 55.88)
 		)
 		(stroke
 			(width 0)
@@ -7320,16 +7320,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 73.66) (xy 64.77 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "411c3ae7-3780-474d-8120-1625115f5717")
-	)
-	(wire
-		(pts
 			(xy 55.88 107.95) (xy 59.69 107.95)
 		)
 		(stroke
@@ -7440,7 +7430,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 114.3) (xy 173.99 114.3)
+			(xy 167.64 114.3) (xy 173.99 114.3)
 		)
 		(stroke
 			(width 0)
@@ -7450,7 +7440,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 114.3) (xy 157.48 114.3)
+			(xy 140.97 114.3) (xy 160.02 114.3)
 		)
 		(stroke
 			(width 0)
@@ -7690,7 +7680,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 124.46) (xy 181.61 124.46)
+			(xy 167.64 124.46) (xy 181.61 124.46)
 		)
 		(stroke
 			(width 0)
@@ -7700,7 +7690,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 124.46) (xy 157.48 124.46)
+			(xy 148.59 124.46) (xy 160.02 124.46)
 		)
 		(stroke
 			(width 0)
@@ -7747,6 +7737,16 @@
 			(type default)
 		)
 		(uuid "6e869916-9fc0-485f-9c05-a46b0db119d9")
+	)
+	(wire
+		(pts
+			(xy 44.45 73.66) (xy 52.07 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f0fefcd-d6bb-4e88-8ff3-dc884d82decb")
 	)
 	(wire
 		(pts
@@ -7980,16 +7980,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 73.66) (xy 36.83 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "827a755a-e13b-47bd-b0e5-722a861a6e2b")
-	)
-	(wire
-		(pts
 			(xy 237.49 24.13) (xy 248.92 24.13)
 		)
 		(stroke
@@ -8200,6 +8190,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 73.66) (xy 64.77 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c7a2536-c978-48a0-a1ee-02464baedcf0")
+	)
+	(wire
+		(pts
 			(xy 187.96 128.27) (xy 187.96 140.97)
 		)
 		(stroke
@@ -8300,7 +8300,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 55.88) (xy 156.21 55.88)
+			(xy 119.38 55.88) (xy 153.67 55.88)
 		)
 		(stroke
 			(width 0)
@@ -9078,7 +9078,7 @@
 		)
 		(uuid "fd982052-c652-4a42-b488-a4710b03589f")
 	)
-	(text "-43.8V"
+	(text "-44V"
 		(exclude_from_sim no)
 		(at 107.95 124.46 0)
 		(effects
@@ -9112,7 +9112,7 @@
 		)
 		(uuid "0a1f5c34-cce1-4f8d-9ba0-d72ae33d0649")
 	)
-	(text "+2.25V"
+	(text "+2.2V"
 		(exclude_from_sim no)
 		(at 119.38 80.01 0)
 		(effects
@@ -9123,17 +9123,6 @@
 			(justify left bottom)
 		)
 		(uuid "0b21ac80-d019-4153-bc9d-9f0f3bbbf184")
-	)
-	(text "Remember to take off the resistors of 1W and more from the PCB when you solder them."
-		(exclude_from_sim no)
-		(at 177.8 165.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0b89ec97-e529-4877-bce7-4048c770135a")
 	)
 	(text "max 55V"
 		(exclude_from_sim no)
@@ -9146,7 +9135,7 @@
 		)
 		(uuid "0bed01fc-5126-4cfd-a31f-79c34be73d2c")
 	)
-	(text "-17.3V"
+	(text "-17.7V"
 		(exclude_from_sim no)
 		(at 97.79 118.11 0)
 		(effects
@@ -9228,9 +9217,9 @@
 		)
 		(uuid "2668056a-4eca-4d43-9597-7895423e73b6")
 	)
-	(text "For input sensibility at 1.5v: R17 = 7.32k"
+	(text "For input sensibility at 1Vrms: R27 = 7k32"
 		(exclude_from_sim no)
-		(at 177.8 157.48 0)
+		(at 177.8 160.274 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9241,7 +9230,7 @@
 	)
 	(text "The value of R25 depends on the input voltage (42v = 2K7, 50v = 7K5, 60v = 8k2)."
 		(exclude_from_sim no)
-		(at 177.8 162.56 0)
+		(at 177.8 165.354 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9286,7 +9275,7 @@
 	)
 	(text "R26, R28 : 22R 1% 1W TE Connectivity H4P22RFZA"
 		(exclude_from_sim no)
-		(at 107.95 173.99 0)
+		(at 107.95 176.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9295,9 +9284,9 @@
 		)
 		(uuid "3597e775-520f-418e-a1b6-31b513370e9c")
 	)
-	(text "+0.35V"
+	(text "+0.39V"
 		(exclude_from_sim no)
-		(at 119.634 94.996 0)
+		(at 122.682 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9307,9 +9296,9 @@
 		)
 		(uuid "3cc45df5-24ae-46ab-89f0-75f8284e4aa2")
 	)
-	(text "Input gain = 1+R18/R17"
+	(text "Opamp input gain = 1+R18/R17"
 		(exclude_from_sim no)
-		(at 237.998 156.718 0)
+		(at 193.802 154.686 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9341,7 +9330,7 @@
 	)
 	(text "C2 : Non polar capacitor Nichicon Muse UES1A101MPM."
 		(exclude_from_sim no)
-		(at 107.95 179.07 0)
+		(at 107.95 181.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9383,18 +9372,6 @@
 		)
 		(uuid "4bf6d1d6-12e8-40b5-835d-d7f552a38e7d")
 	)
-	(text "I = 90mA"
-		(exclude_from_sim no)
-		(at 263.652 58.674 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 3 20 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "4cfda5fb-d491-43c1-a835-edfd903fbf60")
-	)
 	(text "J1: KF127 or JST B2B-XH-A-GU"
 		(exclude_from_sim no)
 		(at 71.12 196.85 0)
@@ -9406,7 +9383,7 @@
 		)
 		(uuid "4d757039-1cc0-44ca-ab32-68b5103a4993")
 	)
-	(text "U1 : OPA1611 (BIPOLAR) or OPA828 (JFET)"
+	(text "U1 : OPA1611 (BIPOLAR) or OPA1641 (JFET)"
 		(exclude_from_sim no)
 		(at 13.97 166.37 0)
 		(effects
@@ -9416,6 +9393,18 @@
 			(justify left bottom)
 		)
 		(uuid "4f0d84a2-33c6-4174-a11e-6c2d81a26f16")
+	)
+	(text "-5.8V"
+		(exclude_from_sim no)
+		(at 140.97 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 3 20 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "4fda8112-fd48-4c3f-a504-84f05fdfa568")
 	)
 	(text "+3.4V"
 		(exclude_from_sim no)
@@ -9452,17 +9441,6 @@
 			(justify left bottom)
 		)
 		(uuid "5cff2459-d275-4803-8fa2-8289cb689a75")
-	)
-	(text "For input sensibility at 2v: R17 = 10.7K"
-		(exclude_from_sim no)
-		(at 177.8 154.94 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5df23cbc-bb9a-4080-bb5d-a18477e90b78")
 	)
 	(text "Q6 : FQP3N30, 2SK3564 or IRF610 (isolator)"
 		(exclude_from_sim no)
@@ -9513,7 +9491,7 @@
 	)
 	(text "For resistor < 150R : sort then or use 1% range."
 		(exclude_from_sim no)
-		(at 107.95 166.37 0)
+		(at 107.95 168.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9522,9 +9500,9 @@
 		)
 		(uuid "6b4ba869-5c38-4781-aeca-8059a3b602a7")
 	)
-	(text "0.638v"
+	(text "0.63v"
 		(exclude_from_sim no)
-		(at 130.3215 35.1112 90)
+		(at 130.302 34.798 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9535,7 +9513,7 @@
 		)
 		(uuid "6be6cb29-8a27-4175-a5fe-f930be881dac")
 	)
-	(text "+13.6V"
+	(text "+14.2V"
 		(exclude_from_sim no)
 		(at 71.12 64.77 0)
 		(effects
@@ -9568,18 +9546,6 @@
 			(justify left bottom)
 		)
 		(uuid "7093d6f8-e00e-4700-8c9f-92896eff9f94")
-	)
-	(text "I = 100mA"
-		(exclude_from_sim no)
-		(at 264.668 100.584 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 3 20 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "70fdcc61-05a6-4bfd-8ba1-6701ecea046b")
 	)
 	(text "2W resistor : Vishay CCF02 or PR02"
 		(exclude_from_sim no)
@@ -9626,9 +9592,9 @@
 		)
 		(uuid "7a5aad4f-ce17-4167-af50-ea20485f26f1")
 	)
-	(text "For input sensibility at 0.750v: R17 = 3.3k"
+	(text "For input sensibility at 0.5Vrms: R17 = 3k3"
 		(exclude_from_sim no)
-		(at 177.8 160.02 0)
+		(at 177.8 162.814 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9670,18 +9636,7 @@
 		)
 		(uuid "859eb132-4d4e-40d4-9c55-324f12000995")
 	)
-	(text "234KHz LPF"
-		(exclude_from_sim no)
-		(at 34.29 72.39 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8eafe96b-e358-4fb5-a4aa-165e62856b90")
-	)
-	(text "-13.8V"
+	(text "-14.2V"
 		(exclude_from_sim no)
 		(at 71.12 99.06 0)
 		(effects
@@ -9693,9 +9648,9 @@
 		)
 		(uuid "92d4cb95-f177-431e-a5d3-f0a259a1ab28")
 	)
-	(text "+39.6V"
+	(text "+40V"
 		(exclude_from_sim no)
-		(at 164.846 55.88 0)
+		(at 166.37 55.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9707,7 +9662,7 @@
 	)
 	(text "C15, C16 : 2200uF 63v Vishay MAL204858222E3"
 		(exclude_from_sim no)
-		(at 107.95 186.69 0)
+		(at 107.95 189.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9718,7 +9673,7 @@
 	)
 	(text "C18, C19 : 0.1uF/160V MKP Vishay MKP1839410164"
 		(exclude_from_sim no)
-		(at 107.95 191.77 0)
+		(at 107.95 194.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9740,7 +9695,7 @@
 	)
 	(text "C17 : 100nF capacitor FKP3C031004C00JSSD or MKT1822410255."
 		(exclude_from_sim no)
-		(at 107.95 189.23 0)
+		(at 107.95 191.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9749,21 +9704,19 @@
 		)
 		(uuid "9eec0d4d-515b-489a-972e-af88ac2e5452")
 	)
-	(text "+0.26V"
+	(text "Global gain = ((R17+R18)/R17)x((R27+R6)/R6)"
 		(exclude_from_sim no)
-		(at 105.41 86.36 0)
+		(at 201.676 157.226 0)
 		(effects
 			(font
 				(size 1.27 1.27)
-				(color 255 3 20 1)
 			)
-			(justify left bottom)
 		)
-		(uuid "9facc6e5-a417-4e97-bf4f-f5ef0a10a143")
+		(uuid "9f6502aa-4cca-4cc6-94d0-49d6008bc67b")
 	)
 	(text "0.25W, 0.5W resistor : Vishay MRS25 or CCF07 or MB"
 		(exclude_from_sim no)
-		(at 107.95 168.91 0)
+		(at 107.95 171.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9772,9 +9725,9 @@
 		)
 		(uuid "9fb5544a-76fb-42ec-a54d-3ad00a066032")
 	)
-	(text "C7 : 1uF Wima MKP2C041001N00MN00 or MKS4B041002C00JF00."
+	(text "C7 : 2.2uF Vishay MKP1839522164 or Wima MKS4B042202F00JSSD"
 		(exclude_from_sim no)
-		(at 107.95 181.61 0)
+		(at 107.95 184.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9785,7 +9738,7 @@
 	)
 	(text "C1 : 470pF CDE CD15FD471JO3F or polystyrene capacitor."
 		(exclude_from_sim no)
-		(at 107.95 176.53 0)
+		(at 107.95 179.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9805,7 +9758,7 @@
 		)
 		(uuid "ab7aec6b-9a77-4eda-bc6e-f26a74023f27")
 	)
-	(text "+43.7V"
+	(text "+44V"
 		(exclude_from_sim no)
 		(at 105.41 41.91 0)
 		(effects
@@ -9827,18 +9780,6 @@
 			(justify left bottom)
 		)
 		(uuid "b9e5477d-5532-4db8-a6f4-a325a6003817")
-	)
-	(text "-45.2V"
-		(exclude_from_sim no)
-		(at 148.336 123.952 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 3 20 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "bc9abd88-afe3-4e83-ad2c-38ff524c3fc8")
 	)
 	(text "Vz15v"
 		(exclude_from_sim no)
@@ -9864,7 +9805,7 @@
 	)
 	(text "R27 : 560R 1W 1% Ohmite WNB560FET or Vishay CMF60560R00JKR6"
 		(exclude_from_sim no)
-		(at 107.95 171.45 0)
+		(at 107.95 173.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9873,9 +9814,9 @@
 		)
 		(uuid "bf7e69d7-fa9d-4c50-90e7-a0e832d7726e")
 	)
-	(text "-40.1V"
+	(text "-40V"
 		(exclude_from_sim no)
-		(at 164.846 114.3 0)
+		(at 167.64 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9962,17 +9903,6 @@
 		)
 		(uuid "dc3c2a87-9006-4d57-9314-4647b42972e6")
 	)
-	(text "C20 : 1nF CD15FA102JO3 or FKP2C011001D00HSSD."
-		(exclude_from_sim no)
-		(at 107.95 194.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e7543349-a658-45a8-b84d-1ea27808d300")
-	)
 	(text "Do not power on the board without opamp."
 		(exclude_from_sim no)
 		(at 233.68 16.51 0)
@@ -9986,9 +9916,9 @@
 		)
 		(uuid "ee823590-ecbd-4107-bb1f-1a309e1b21af")
 	)
-	(text "0.628v"
+	(text "0.63v"
 		(exclude_from_sim no)
-		(at 184.8687 137.0676 90)
+		(at 184.912 136.398 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10012,7 +9942,7 @@
 	)
 	(text "C10 : 47pF Mica CDE CD15ED470JO3 or ceramic NP0."
 		(exclude_from_sim no)
-		(at 107.95 184.15 0)
+		(at 107.95 186.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10021,7 +9951,7 @@
 		)
 		(uuid "f58dec00-f0f6-404d-87ad-a909dfe5fba8")
 	)
-	(text "+39.8V"
+	(text "-41V"
 		(exclude_from_sim no)
 		(at 140.97 59.69 0)
 		(effects
@@ -10033,7 +9963,7 @@
 		)
 		(uuid "f5915f0b-40ee-4879-bdc1-d14011b1a702")
 	)
-	(text "+17.2V"
+	(text "+17.7V"
 		(exclude_from_sim no)
 		(at 95.25 46.99 0)
 		(effects
@@ -10136,7 +10066,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 30.48 73.66 270)
+		(at 55.88 73.66 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10145,15 +10075,15 @@
 		(dnp no)
 		(uuid "02255283-2707-4e92-96ff-96f5779d9534")
 		(property "Reference" "R33"
-			(at 30.48 71.12 90)
+			(at 55.88 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "680R"
-			(at 30.48 76.2 90)
+		(property "Value" "Not used"
+			(at 55.88 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10161,7 +10091,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 30.48 75.438 90)
+			(at 55.88 75.438 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10170,7 +10100,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/doc?28724"
-			(at 30.48 73.66 0)
+			(at 55.88 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10179,7 +10109,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 30.48 73.66 0)
+			(at 55.88 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10187,8 +10117,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "MRS25000C6800FCT00"
-			(at 30.48 73.66 90)
+		(property "Part#" "MRS25000C1009FRP00"
+			(at 55.88 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10196,8 +10126,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "594-MRS25000C6800FCT"
-			(at 30.48 73.66 90)
+		(property "Mouser" "594-MRS25000C1009FRP"
+			(at 55.88 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10408,7 +10338,7 @@
 		(dnp no)
 		(uuid "0778d228-2b23-458f-a853-33dfe5d5d4fb")
 		(property "Reference" "C5"
-			(at 63.5 97.79 90)
+			(at 63.5 96.774 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11113,7 +11043,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 161.29 124.46 90)
+		(at 163.83 124.46 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11121,7 +11051,7 @@
 		(dnp no)
 		(uuid "16bee16b-d73b-4e36-9601-f0cb8d0495d0")
 		(property "Reference" "R9"
-			(at 161.29 119.2338 90)
+			(at 163.83 119.2338 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11129,7 +11059,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 161.29 121.533 90)
+			(at 163.83 121.533 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11137,7 +11067,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 161.29 126.238 90)
+			(at 163.83 126.238 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11146,7 +11076,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/doc?28724"
-			(at 161.29 124.46 0)
+			(at 163.83 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11155,7 +11085,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 124.46 0)
+			(at 163.83 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11164,7 +11094,7 @@
 			)
 		)
 		(property "Part#" "MRS25000C1000FCT00"
-			(at 161.29 124.46 90)
+			(at 163.83 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11173,7 +11103,7 @@
 			)
 		)
 		(property "Mouser" "594-MRS25000C1000FCT"
-			(at 161.29 124.46 90)
+			(at 163.83 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12170,7 +12100,7 @@
 		(dnp no)
 		(uuid "36992cac-f26a-4454-857c-961531074fa8")
 		(property "Reference" "C6"
-			(at 60.4721 105.363 90)
+			(at 66.294 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12502,7 +12432,7 @@
 				)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "47k"
 			(at 48.26 82.55 0)
 			(effects
 				(font
@@ -12528,7 +12458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47k resistor"
 			(at 44.45 81.28 0)
 			(effects
 				(font
@@ -12537,7 +12467,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "MRS25000C2202FCT00"
+		(property "Part#" "MRS25000C4702FRP00"
 			(at 44.45 81.28 0)
 			(effects
 				(font
@@ -12546,7 +12476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "594-MRS25000C2202FCT"
+		(property "Mouser" "594-MRS25000C4702FRP"
 			(at 44.45 81.28 0)
 			(effects
 				(font
@@ -13653,7 +13583,7 @@
 				)
 			)
 		)
-		(property "Value" "560R/1W"
+		(property "Value" "487R/1W"
 			(at 161.6861 97.8047 90)
 			(effects
 				(font
@@ -13670,7 +13600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/303/res_wh_wn-3082550.pdf"
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/418/5/ENG_DS_1773230_H-731439.pdf"
 			(at 161.29 95.25 0)
 			(effects
 				(font
@@ -13679,7 +13609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "487R resistor"
 			(at 161.29 95.25 0)
 			(effects
 				(font
@@ -13688,7 +13618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "WNB560FET"
+		(property "Part#" "H4P487RDZA"
 			(at 161.29 95.25 90)
 			(effects
 				(font
@@ -13697,7 +13627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "588-WNB560FET"
+		(property "Mouser" "279-H4P487RDZA"
 			(at 161.29 95.25 90)
 			(effects
 				(font
@@ -14223,7 +14153,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 160.02 55.88 90)
+		(at 157.48 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14231,7 +14161,7 @@
 		(dnp no)
 		(uuid "6b821148-8fd8-4b84-a07d-b623375099c0")
 		(property "Reference" "R7"
-			(at 160.02 58.6613 90)
+			(at 157.48 58.6613 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14239,7 +14169,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 160.02 60.96 90)
+			(at 157.48 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14247,7 +14177,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 160.02 57.658 90)
+			(at 157.48 57.658 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14256,7 +14186,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/doc?28724"
-			(at 160.02 55.88 0)
+			(at 157.48 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14265,7 +14195,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 55.88 0)
+			(at 157.48 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14274,7 +14204,7 @@
 			)
 		)
 		(property "Part#" "MRS25000C1000FCT00"
-			(at 160.02 55.88 90)
+			(at 157.48 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14283,7 +14213,7 @@
 			)
 		)
 		(property "Mouser" "594-MRS25000C1000FCT"
-			(at 160.02 55.88 90)
+			(at 157.48 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14496,8 +14426,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1nF MICA or FKP"
-			(at 41.3049 84.0076 0)
+		(property "Value" "Not used"
+			(at 34.29 83.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14514,7 +14444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/88/STD_DIPPED-1702530.pdf"
+		(property "Datasheet" ""
 			(at 36.83 81.28 0)
 			(effects
 				(font
@@ -14532,7 +14462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "CD15FA102JO3"
+		(property "Part#" ""
 			(at 36.83 81.28 0)
 			(effects
 				(font
@@ -14541,7 +14471,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "598-CD15FA102JO3"
+		(property "Mouser" ""
 			(at 36.83 81.28 0)
 			(effects
 				(font
@@ -14720,7 +14650,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 161.29 114.3 90)
+		(at 163.83 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14728,7 +14658,7 @@
 		(dnp no)
 		(uuid "7a01ae7a-7f1e-40b2-b5f1-0a3fd770613f")
 		(property "Reference" "R8"
-			(at 161.29 109.0738 90)
+			(at 163.83 109.0738 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14736,7 +14666,7 @@
 			)
 		)
 		(property "Value" "120R"
-			(at 161.29 111.3725 90)
+			(at 163.83 111.3725 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14744,7 +14674,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 161.29 116.078 90)
+			(at 163.83 116.078 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14753,7 +14683,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/doc?28724"
-			(at 161.29 114.3 0)
+			(at 163.83 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14762,7 +14692,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 114.3 0)
+			(at 163.83 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14771,7 +14701,7 @@
 			)
 		)
 		(property "Part#" "MRS25000C1200FCT00"
-			(at 161.29 114.3 90)
+			(at 163.83 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14780,7 +14710,7 @@
 			)
 		)
 		(property "Mouser" "594-MRS25000C1200FCT"
-			(at 161.29 114.3 90)
+			(at 163.83 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14813,7 +14743,7 @@
 		(dnp no)
 		(uuid "7bdcb95c-7367-48a6-abc0-daea118df4a3")
 		(property "Reference" "U2"
-			(at 160.02 38.1 0)
+			(at 161.29 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14821,7 +14751,7 @@
 			)
 		)
 		(property "Value" "NDC7003P"
-			(at 163.83 40.64 0)
+			(at 165.1 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15161,7 +15091,7 @@
 				)
 			)
 		)
-		(property "Value" "7k32"
+		(property "Value" "4k99"
 			(at 56.7302 93.7195 0)
 			(effects
 				(font
@@ -15178,7 +15108,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/219/MF_MFS_RK-18760.pdf"
+		(property "Datasheet" "https://www.vishay.com/doc?28724"
 			(at 52.07 92.71 0)
 			(effects
 				(font
@@ -15187,7 +15117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4k99 resistor"
 			(at 52.07 92.71 0)
 			(effects
 				(font
@@ -15196,7 +15126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "MF1/4CCT52R7321F"
+		(property "Part#" "MRS25000C4991FRP00"
 			(at 52.07 92.71 0)
 			(effects
 				(font
@@ -15205,7 +15135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "660-MF1/4CCT52R7321F"
+		(property "Mouser" "594-MRS25000C4991FRP"
 			(at 52.07 92.71 0)
 			(effects
 				(font
@@ -15418,8 +15348,8 @@
 				)
 			)
 		)
-		(property "Value" "1uF MKP or MKT"
-			(at 78.74 90.17 90)
+		(property "Value" "2.2uF"
+			(at 76.454 89.916 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15435,7 +15365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/440/e_WIMA_MKP_2-1139746.pdf"
+		(property "Datasheet" "https://www.vishay.com/doc?26022"
 			(at 76.2 85.09 0)
 			(effects
 				(font
@@ -15444,7 +15374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1uF 63V MKP capacitor"
+		(property "Description" "2.2uF capacitor"
 			(at 76.2 85.09 0)
 			(effects
 				(font
@@ -15453,7 +15383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "MKP2C041001N00MN00"
+		(property "Part#" "MKP1839522164"
 			(at 76.2 85.09 90)
 			(effects
 				(font
@@ -15462,7 +15392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "505-MKP2C0411NMN"
+		(property "Mouser" "75-MKP1839522164"
 			(at 76.2 85.09 90)
 			(effects
 				(font
@@ -15961,7 +15891,7 @@
 		(dnp no)
 		(uuid "a26718f1-b3a3-4ccb-a912-863a0899dae7")
 		(property "Reference" "Q8"
-			(at 125.73 66.04 0)
+			(at 125.984 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16610,7 +16540,7 @@
 			)
 		)
 		(property "Value" "IRF610"
-			(at 204.47 20.574 90)
+			(at 203.2 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16776,7 +16706,7 @@
 		(dnp no)
 		(uuid "b98c0083-5c3e-499b-a715-41a8a33432d0")
 		(property "Reference" "Q10"
-			(at 146.8222 26.2075 0)
+			(at 161.798 28.702 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16785,7 +16715,7 @@
 			)
 		)
 		(property "Value" "KSA992"
-			(at 146.8222 28.7475 0)
+			(at 161.798 31.242 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17656,7 +17586,7 @@
 		(dnp no)
 		(uuid "cd9a223c-983c-4b21-a1ee-a6888c923810")
 		(property "Reference" "Q14"
-			(at 204.47 144.272 90)
+			(at 203.962 144.272 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17665,7 +17595,7 @@
 			)
 		)
 		(property "Value" "IRF9610"
-			(at 204.47 146.812 90)
+			(at 202.438 146.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18390,7 +18320,7 @@
 		(dnp no)
 		(uuid "ec41bd13-d169-4b04-82e8-82bf8614a606")
 		(property "Reference" "C4"
-			(at 63.5 60.96 90)
+			(at 66.294 62.484 90)
 			(effects
 				(font
 					(size 1.27 1.27)

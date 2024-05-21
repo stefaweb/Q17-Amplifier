@@ -9,7 +9,7 @@ THD+N: 0.006%<br>
 S/N : 101 dBFS<br>
 Intermodulation distortion: 0,25%<br>
 Frequency response: ±0,2 dB<br>
-Default gain: 26 (with input gain R17 at 1.5V)<br>
+Default gain: 26 (with input gain R17 at 1V)<br>
 DC offset at output: 1mV (with R32=0R)<br>
 Power supply: 50vDC<br>
 Idle consumption: 10W @ 240vAC
@@ -20,7 +20,7 @@ These measurements were made with amateur measuring equipment. It is better to t
 The first version of the board was released on December 8, 2021.
 <br>
 <br>
-Version 2.0 was published on September 3, 2023.
+Version 2.0.1 was published on May 21, 2024.
 
 Read the CHANGELOG file to know what's new.
 
@@ -30,9 +30,11 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-2 0-heatsink](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/1577c726-74a7-48e5-b425-e83f52a7cc36)
 
-![Q17-Mini-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/7f4adf1f-0019-4bbf-bed1-3bd3e442b201)
+![Q17-Mini-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/ba20b8e9-d914-4950-8292-c718ba9549cf)
 
-![spectrum-q17-mini-1W](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/c696afb9-2482-4b1a-95e6-719cfdd0da3e)
+![Q17-Mini-2 0-bandwitch](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/a5fac896-cb16-49c4-864d-ea770642d698)
+
+![Q17-Mini-2 0-spectrum_1W](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b558ad51-3c05-42e7-abe8-b2c60b37a566)
 
 ![Q17-Mini-3D-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/df84aa06-162f-471d-9c15-c0e1a0803745)
 

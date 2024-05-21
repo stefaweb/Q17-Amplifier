@@ -1,5 +1,11 @@
 # Changelog Q17-Mini
 
+Version [2.0.1] (21-05-2024)
+
+- Changed C7 to 2.2uF (better bandwidth linearity).
+- Removed R33 (replace with 0R or strap) and C20.
+- No PCB change.
+
 Version [2.0] (3-09-2023)
 
 - New Q17.3 circuit.
