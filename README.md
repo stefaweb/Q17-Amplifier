@@ -1,7 +1,7 @@
 # Q17 : A QUAD405 audiophile MOSFET amplifier
 Q17 is an amplifier based on the QUAD405 current dumping principle.
 
-Please refer to <a href="https://github.com/tiberiuvicol/Q17-audiophile-amplifier/blob/main/Project%20description.pdf"> Q17 Project description</a> from Tiberiu Vicol's <a href="https://github.com/tvicol/Q17-a-QUAD405-audiophile-approach">original design</a>.
+The project for porting the operating principle of the QUAD405 to a MOSFET base was originally created by engineer Tiberiu Vicol.
 
 Use KiCad 8.0 or later to open and edit source files. KiCad 8.0 can be <a href="https://www.kicad.org/download/">downloaded</a> from CERN.
 
@@ -11,7 +11,7 @@ The natural evolution of the Q17-Mini, this time with two pairs of power transis
 
 The first version of the board was released on January, 6 2023.
 
-Version 1.2.3 was released on October 27, 2023.
+Version 1.2.4 was released on May 21, 2024.
 
 All files are located in Q17-TURBO-1.2 directory. Old version are located in Q17-TURBO Archives directory.
 
@@ -22,7 +22,7 @@ Q17-Turbo v1.2 (190x75mm, 2 Oz PCB)
 
 The first version of the board was released on December 8, 2021.
 
-Version 2.0 was published on September 3, 2023.
+Version 2.0.1 was published on on May 21, 2024.
 
 All files are located in Q17-Mini-2.0 directory. Old version are located in Q17-Mini Archives directory.
 
