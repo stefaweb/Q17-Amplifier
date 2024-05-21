@@ -10082,7 +10082,7 @@
 				)
 			)
 		)
-		(property "Value" "Not used"
+		(property "Value" "strap"
 			(at 55.88 76.2 90)
 			(effects
 				(font
@@ -10099,7 +10099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/doc?28724"
+		(property "Datasheet" ""
 			(at 55.88 73.66 0)
 			(effects
 				(font
@@ -10117,7 +10117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "MRS25000C1009FRP00"
+		(property "Part#" ""
 			(at 55.88 73.66 90)
 			(effects
 				(font
@@ -10126,7 +10126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "594-MRS25000C1009FRP"
+		(property "Mouser" ""
 			(at 55.88 73.66 90)
 			(effects
 				(font
@@ -13583,7 +13583,7 @@
 				)
 			)
 		)
-		(property "Value" "487R/1W"
+		(property "Value" "560R/1W"
 			(at 161.6861 97.8047 90)
 			(effects
 				(font
@@ -13600,7 +13600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/418/5/ENG_DS_1773230_H-731439.pdf"
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/303/res_wh_wn-3082550.pdf"
 			(at 161.29 95.25 0)
 			(effects
 				(font
@@ -13609,7 +13609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "487R resistor"
+		(property "Description" "560R resistor"
 			(at 161.29 95.25 0)
 			(effects
 				(font
@@ -13618,7 +13618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "H4P487RDZA"
+		(property "Part#" "WNB560FET"
 			(at 161.29 95.25 90)
 			(effects
 				(font
@@ -13627,7 +13627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "279-H4P487RDZA"
+		(property "Mouser" "588-WNB560FET"
 			(at 161.29 95.25 90)
 			(effects
 				(font
@@ -15091,7 +15091,7 @@
 				)
 			)
 		)
-		(property "Value" "4k99"
+		(property "Value" "7k32"
 			(at 56.7302 93.7195 0)
 			(effects
 				(font
@@ -15348,8 +15348,8 @@
 				)
 			)
 		)
-		(property "Value" "2.2uF"
-			(at 76.454 89.916 90)
+		(property "Value" "2.2uF MKP or FKP"
+			(at 80.01 89.408 90)
 			(effects
 				(font
 					(size 1.27 1.27)

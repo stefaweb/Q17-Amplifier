@@ -3,6 +3,7 @@
 Version [2.0.1] (21-05-2024)
 
 - Changed C7 to 2.2uF (better bandwidth linearity).
+- Changed R16 to 47k.
 - Removed R33 (replace with 0R or strap) and C20.
 - No PCB change.
 
