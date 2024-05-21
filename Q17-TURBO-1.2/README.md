@@ -18,7 +18,7 @@ THD+N: 0.007%<br>
 Signal to Noise ratio (SNR): 104 dBFS<br>
 Intermodulation distortion: 0.012%<br>
 Frequency response: ±0,2 dB<br>
-Default gain: 25 (with input gain R17 at 1.5V)<br>
+Default gain: 25 (with input gain R17 at 1Vrms)<br>
 DC offset at output: less than 1mV (with R32=0R)<br>
 Power supply: 60vDC<br>
 Idle consumption: 15W @ 240vAC
@@ -30,7 +30,7 @@ These measurements were made with amateur measuring equipment. It is better to t
 <br>
 The first version of the board was released on January, 6 2023.<br>
 <br>
-Version 1.2.3 was released on October 27, 2023.<br>
+Version 1.2.4 was released on May 21, 2024.<br>
 <br>
 <br>
 Version 1.2 introduces two major changes to the original Q17 schematic. A new Erno Borbely cascode type using JFET & depletion NMOS (Q7, Q8) has been added. Current mirror has been updated to a Wilson CCS with BS250 and NDC7003P (Q9 & U2). This evolution was made possible thanks to the help of Tiberiu Vicol which made it possible to evolve the original scheme towards new performances.<br>
@@ -50,10 +50,13 @@ Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
 <a href="https://audio.cyberkata.org/Q17-TURBO-BOM.html">Online Q17-TURBO-BOM</a><br>
 <a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=4e25ab8e25">Order Q17-TURBO-BOM on Mouser</a><br> 
 
-![Q17-TURBO-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/40043242-6a3d-45c0-8e46-1a7c0ee78d36)
+![Q17-TURBO-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/3548609a-f911-4f95-903d-9ca4985d746e)
 <br>
 <br>
-![Q17-Turbo-1 2 3-spectrum](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/a0549098-daae-4ddd-9cb4-43b3b9c11e71)
+![Q17-Turbo-1 2-spectrum_1W](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/cd03c2de-d44a-4e79-b013-e3bf7941ef95)
+<br>
+<br>
+![Q17-Turbo-1 2-bandwitch](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/c24a9ce1-09ad-4bd7-9916-7a801052a2be)
 <br>
 <br>
 Amplifier noise without signal.

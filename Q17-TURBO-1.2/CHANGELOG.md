@@ -1,5 +1,10 @@
 # Changelog Q17-Turbo
 
+Version [1.2.4] (21-05-2024)
+
+- Changed C7 to 2.2uF (better bandwidth linearity).
+- Removed R33 (replace with 0R or strap) and C20.
+- No PCB change.
 
 Version [1.2.3] (27-10-2023)
 
