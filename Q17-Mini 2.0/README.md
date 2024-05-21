@@ -32,9 +32,9 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/7b31a167-d9bb-4cbc-ba0b-874e881f193e)
 
-![Q17-Mini-2 0-bandwitch](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/a5fac896-cb16-49c4-864d-ea770642d698)
-
 ![Q17-Mini-2 0-spectrum_1W](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/b558ad51-3c05-42e7-abe8-b2c60b37a566)
+
+![Q17-Mini-2 0-bandwitch](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/a5fac896-cb16-49c4-864d-ea770642d698)
 
 ![Q17-Mini-3D-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/df84aa06-162f-471d-9c15-c0e1a0803745)
 
