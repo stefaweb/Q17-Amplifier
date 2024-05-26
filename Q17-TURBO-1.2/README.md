@@ -18,6 +18,7 @@ THD+N: 0.007%<br>
 Signal to Noise ratio (SNR): 104 dBFS<br>
 Intermodulation distortion: 0.012%<br>
 Frequency response: ±0,2 dB<br>
+Damping factor : 290<br>
 Default gain: 25 (with input gain R17 at 1Vrms)<br>
 DC offset at output: less than 1mV (with R32=0R)<br>
 Power supply: 60vDC<br>
