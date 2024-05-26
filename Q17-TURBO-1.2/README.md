@@ -32,7 +32,6 @@ The first version of the board was released on January, 6 2023.<br>
 <br>
 Version 1.2.4 was released on May 21, 2024.<br>
 <br>
-<br>
 Version 1.2 introduces two major changes to the original Q17 schematic. A new Erno Borbely cascode type using JFET & depletion NMOS (Q7, Q8) has been added. Current mirror has been updated to a Wilson CCS with BS250 and NDC7003P (Q9 & U2). This evolution was made possible thanks to the help of Tiberiu Vicol which made it possible to evolve the original scheme towards new performances.<br>
 <br>
 This new version requires at least the soldering of one SMD component to be able to benefit from the use of a high-performance component to drive the Wilson Current Mirror circuit.<br>
