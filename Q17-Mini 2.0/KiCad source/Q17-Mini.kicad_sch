@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini Amplifier 2.x")
-		(date "2024-05-21")
-		(rev "2.0.7")
+		(date "2024-05-27")
+		(rev "2.0.8")
 		(company "by eng. Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-Mini project")
 		(comment 4 "Q17 a QUAD405 audiophile approach")
@@ -6960,7 +6960,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 99.06) (xy 69.85 99.06)
+			(xy 67.31 99.06) (xy 69.85 99.06)
 		)
 		(stroke
 			(width 0)
@@ -7970,7 +7970,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 99.06) (xy 57.15 99.06)
+			(xy 55.88 99.06) (xy 59.69 99.06)
 		)
 		(stroke
 			(width 0)
@@ -9296,13 +9296,14 @@
 		)
 		(uuid "3cc45df5-24ae-46ab-89f0-75f8284e4aa2")
 	)
-	(text "Opamp input gain = 1+R18/R17"
+	(text "Opamp input gain = 1+R18/R17 (gain > 4 minimum)"
 		(exclude_from_sim no)
-		(at 193.802 154.686 0)
+		(at 177.546 154.432 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "3df910da-20b5-4c5f-8b19-75ede6078d0e")
 	)
@@ -9406,6 +9407,17 @@
 		)
 		(uuid "4fda8112-fd48-4c3f-a504-84f05fdfa568")
 	)
+	(text "If you have ground loop concerns, you can put R32=0R on one board and R32=10R on the second board. This fixes the problem."
+		(exclude_from_sim no)
+		(at 85.09 15.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5799dd0f-9f3e-4123-abd8-3e7cddb3b0d3")
+	)
 	(text "+3.4V"
 		(exclude_from_sim no)
 		(at 195.58 63.5 0)
@@ -9491,7 +9503,7 @@
 	)
 	(text "For resistor < 150R : sort then or use 1% range."
 		(exclude_from_sim no)
-		(at 107.95 168.91 0)
+		(at 107.95 166.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9524,6 +9536,16 @@
 			(justify left bottom)
 		)
 		(uuid "6c92f8d0-0f53-4f09-a260-260458a9458d")
+	)
+	(text "For R27 use a good quality low noise resistor."
+		(exclude_from_sim no)
+		(at 131.064 173.228 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6e5ff5cc-854d-471d-b7fb-a9dfb28f6817")
 	)
 	(text "Measure across R13 for class A stage BIAS."
 		(exclude_from_sim no)
@@ -9592,7 +9614,7 @@
 		)
 		(uuid "7a5aad4f-ce17-4167-af50-ea20485f26f1")
 	)
-	(text "For input sensibility at 0.5Vrms: R17 = 3k3"
+	(text "For input sensibility at 0.7Vrms (0dBu): R17 = 5k1"
 		(exclude_from_sim no)
 		(at 177.8 162.814 0)
 		(effects
@@ -9706,17 +9728,18 @@
 	)
 	(text "Global gain = ((R17+R18)/R17)x((R27+R6)/R6)"
 		(exclude_from_sim no)
-		(at 201.676 157.226 0)
+		(at 177.546 156.972 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "9f6502aa-4cca-4cc6-94d0-49d6008bc67b")
 	)
 	(text "0.25W, 0.5W resistor : Vishay MRS25 or CCF07 or MB"
 		(exclude_from_sim no)
-		(at 107.95 171.45 0)
+		(at 107.95 168.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9805,7 +9828,7 @@
 	)
 	(text "R27 : 560R 1W 1% Ohmite WNB560FET or Vishay CMF60560R00JKR6"
 		(exclude_from_sim no)
-		(at 107.95 173.99 0)
+		(at 107.95 171.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9891,17 +9914,6 @@
 			(justify left bottom)
 		)
 		(uuid "d92f9f32-7303-4a5c-8835-ddfe6eedbd02")
-	)
-	(text "If you use a potentiometer in front of the amp, do not wire the LFE (not wire C20 and replace R33 by 100R)."
-		(exclude_from_sim no)
-		(at 86.36 15.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "dc3c2a87-9006-4d57-9314-4647b42972e6")
 	)
 	(text "Do not power on the board without opamp."
 		(exclude_from_sim no)
@@ -10330,7 +10342,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 60.96 99.06 90)
+		(at 63.5 99.06 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10338,7 +10350,7 @@
 		(dnp no)
 		(uuid "0778d228-2b23-458f-a853-33dfe5d5d4fb")
 		(property "Reference" "C5"
-			(at 63.5 96.774 90)
+			(at 63.246 95.504 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10346,7 +10358,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 65.2658 100.4056 90)
+			(at 64.008 102.616 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10354,7 +10366,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 64.77 98.0948 0)
+			(at 67.31 98.0948 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10363,7 +10375,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.fr/datasheet/2/440/e_WIMA_MKS_2-1139871.pdf"
-			(at 60.96 99.06 0)
+			(at 63.5 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10372,7 +10384,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 99.06 0)
+			(at 63.5 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10381,7 +10393,7 @@
 			)
 		)
 		(property "Part#" "MKS2D031001A00KSSD"
-			(at 60.96 99.06 90)
+			(at 63.5 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10390,7 +10402,7 @@
 			)
 		)
 		(property "Mouser" "505-MKS2.1/100/10"
-			(at 60.96 99.06 90)
+			(at 63.5 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12100,7 +12112,7 @@
 		(dnp no)
 		(uuid "36992cac-f26a-4454-857c-961531074fa8")
 		(property "Reference" "C6"
-			(at 66.294 105.41 90)
+			(at 66.294 106.426 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12108,7 +12120,7 @@
 			)
 		)
 		(property "Value" "47uF/25V"
-			(at 62.484 112.776 90)
+			(at 63.246 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15091,7 +15103,7 @@
 				)
 			)
 		)
-		(property "Value" "7k32"
+		(property "Value" "5k1"
 			(at 56.7302 93.7195 0)
 			(effects
 				(font
@@ -15117,7 +15129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "4k99 resistor"
+		(property "Description" "5k1 resistor"
 			(at 52.07 92.71 0)
 			(effects
 				(font
@@ -15126,7 +15138,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "MRS25000C4991FRP00"
+		(property "Part#" "MRS25000C5101FRP00"
 			(at 52.07 92.71 0)
 			(effects
 				(font
@@ -15135,7 +15147,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "594-MRS25000C4991FRP"
+		(property "Mouser" "594-MRS25000C5101FRP"
 			(at 52.07 92.71 0)
 			(effects
 				(font
@@ -18320,7 +18332,7 @@
 		(dnp no)
 		(uuid "ec41bd13-d169-4b04-82e8-82bf8614a606")
 		(property "Reference" "C4"
-			(at 66.294 62.484 90)
+			(at 60.706 62.992 90)
 			(effects
 				(font
 					(size 1.27 1.27)
