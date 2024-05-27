@@ -10,7 +10,7 @@ S/N : 101 dBFS<br>
 Intermodulation distortion: 0,25%<br>
 Frequency response: ±0,2 dB<br>
 Damping factor : 290<br>
-Default gain: 35 (with input gain R17 at 0.7V)<br>
+Default gain: 35 (with input gain R17 at 0.7Vrms)<br>
 DC offset at output: 1mV (with R32=0R)<br>
 Power supply: 50vDC<br>
 Idle consumption: 10W @ 240vAC
