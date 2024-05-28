@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-TURBO (P2) Amplifier")
-		(date "2024-05-27")
-		(rev "1.3.2")
+		(date "2024-05-28")
+		(rev "1.3.3")
 		(company "by eng. Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-TURBO project")
 		(comment 4 "Q17 a QUAD405 audiophile approach")
@@ -10791,7 +10791,7 @@
 	)
 	(text "Opamp input gain = 1+R18/R17"
 		(exclude_from_sim no)
-		(at 193.294 153.924 0)
+		(at 193.548 153.924 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10989,17 +10989,6 @@
 		)
 		(uuid "7b04b683-11e2-43de-a1ad-ae4e9204af6b")
 	)
-	(text "For input sensibility at 1Vrms: R27 = 7k32"
-		(exclude_from_sim no)
-		(at 177.292 159.512 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "83b7f414-1402-411d-9c82-b2a0e692979f")
-	)
 	(text "-"
 		(exclude_from_sim no)
 		(at 281.0258 86.0562 0)
@@ -11043,6 +11032,17 @@
 			(justify left bottom)
 		)
 		(uuid "961dfdff-79f6-4f98-9dec-bd80f82b5e5a")
+	)
+	(text "For input sensibility at 1.2Vrms (+4dBu): R17=4k75 and R6=182R"
+		(exclude_from_sim no)
+		(at 177.292 159.512 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "98b88500-4a6f-4771-b88a-c76130942f0e")
 	)
 	(text "D2, D3 : 1N5248B"
 		(exclude_from_sim no)
@@ -11335,7 +11335,7 @@
 	)
 	(text "Global gain = ((R17+R18)/R17)x((R27+R6)/R6)"
 		(exclude_from_sim no)
-		(at 201.168 156.464 0)
+		(at 201.422 156.464 0)
 		(effects
 			(font
 				(size 1.27 1.27)
