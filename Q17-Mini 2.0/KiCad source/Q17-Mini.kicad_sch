@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini Amplifier 2.x")
-		(date "2024-05-27")
-		(rev "2.0.8")
+		(date "2024-05-28")
+		(rev "2.0.9")
 		(company "by eng. Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-Mini project")
 		(comment 4 "Q17 a QUAD405 audiophile approach")
@@ -9217,7 +9217,7 @@
 		)
 		(uuid "2668056a-4eca-4d43-9597-7895423e73b6")
 	)
-	(text "For input sensibility at 1Vrms: R27 = 7k32"
+	(text "For input sensibility at 1.2Vrms (+4dBu): R17=4k75 and R6=182R"
 		(exclude_from_sim no)
 		(at 177.8 160.274 0)
 		(effects
