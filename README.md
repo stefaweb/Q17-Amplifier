@@ -5,20 +5,7 @@ The project for porting the operating principle of the QUAD405 to a MOSFET base 
 
 Use KiCad 8.0 or later to open and edit source files. KiCad 8.0 can be <a href="https://www.kicad.org/download/">downloaded</a> from CERN.
 
-<b>Q17-Turbo project (200W @ 8 Ohms):</b>
-
-The natural evolution of the Q17-Mini, this time with two pairs of power transistors, better thermal management with the same technical characteristics and the same sound signature.
-
-The first version of the board was released on January, 6 2023.
-
-Version 1.2.4 was released on May 21, 2024.
-
-All files are located in Q17-TURBO-1.2 directory. Old version are located in Q17-TURBO Archives directory.
-
-Q17-Turbo v1.2 (190x75mm, 2 Oz PCB)
-![Q17-Turbo-1 2 3_1](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/97a1cd29-f3ba-49e2-b852-ad42e8673918)
-
-<b>Q17-Mini project (100W @ 8 Ohms):</b>
+<b>Q17-Mini project (100W @ 8 Ohms)</b>
 
 The first version of the board was released on December 8, 2021.
 
@@ -28,6 +15,18 @@ All files are located in Q17-Mini-2.0 directory. Old version are located in Q17-
 
 Q17-Mini v2.0 (95x75mm, 2 Oz PCB)
 ![Q17-Mini-2 0-portait](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f6fcf4be-ac92-450d-bcc0-ea5f8470a5d9)
+
+<b>Q17-SIGMA-PSU 1.1.1</b>
+
+The Q17-SIGMA-PSU power supply regulator board is inspired by Ti Kan's Sigma22 circuit.
+
+The "sigma 22" is a high-performance DIY dual-rail, tracking, linear regulated power supply (PSU).
+
+This power supply provides a regulated up to 60vDC and 3A continuous source (or more with external heatsinks). The voltage difference between output and input is around 6V. The board is able to power an amplifier board.
+
+Version 1.1.1 published on April 30, 2024.
+
+![Q17_Sigma_on_heatsink](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/2e3aa669-a094-4757-9d00-970eb2c82c9c)
 
 Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
 
