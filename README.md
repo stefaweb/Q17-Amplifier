@@ -26,7 +26,7 @@ This power supply provides a regulated up to 60vDC and 3A continuous source (or 
 
 Version 1.1.1 published on April 30, 2024.
 
-The 2 Oz PCB measures 75x130mm. The filter board is external for greater flexibility and versatility.
+The 2 Oz PCB measures 75x130mm.
 ![Q17_Sigma_on_heatsink](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/2e3aa669-a094-4757-9d00-970eb2c82c9c)
 
 Construction, discussion and support at https://www.diyaudio.com/forums/solid-state/374507-q17-quad405-audiophile-approach-perfect-sound.html
