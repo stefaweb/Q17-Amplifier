@@ -1,6 +1,6 @@
 # Q17-Mini version 2.2.1 (90W @ 8 Ohms)</b><br>
 
-![Q17-Mini-2 0-portait](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/f6fcf4be-ac92-450d-bcc0-ea5f8470a5d9)
+![Q17-Mini_2 2_front](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/8d030e60-4fc4-40f8-9dfa-c088eb7cce30)
 
 <b>Technical specifications:</b>
 
