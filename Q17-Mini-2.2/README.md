@@ -27,7 +27,7 @@ Version 2.2.1 was published on June 8, 2024.
 
 Read the CHANGELOG file to know what's new.
 
-<a href="https://audio.cyberkata.org/Q17-Mini-2.2-BOM.html">Q17-Mini-2.2-BOM Online Version</a><br>
+<a href="https://audio.cyberkata.org/Q17-Mini-BOM-2.2.html">Q17-Mini-2.2-BOM Online Version</a><br>
 <a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=e4eb528eff">Order Q17-Mini-2.2-BOM on Mouser</a><br> 
 <br>
 
