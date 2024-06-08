@@ -2,6 +2,8 @@
 
 ![Q17-Mini_2 2_front](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/8d030e60-4fc4-40f8-9dfa-c088eb7cce30)
 
+![Q17-Mini_2 2_top jpeg](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/c78954b0-dfd2-4313-b72d-0c541248f79b)
+
 <b>Technical specifications:</b>
 
 THD: 0.009%<br>
