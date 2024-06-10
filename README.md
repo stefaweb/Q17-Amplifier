@@ -9,7 +9,7 @@ Use KiCad 8.0 or later to open and edit source files. KiCad 8.0 can be <a href="
 
 The first version of the board was released on December 8, 2021.
 
-Version 2.2.1 was published on on June 8, 2024.
+Version 2.2.1 was published on June 8, 2024.
 
 All files are located in Q17-Mini-2.2 directory. Old version are located in Q17-Mini Archives directory.
 
