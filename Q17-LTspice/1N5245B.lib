@@ -1,3 +1,13 @@
-* Z15 15V Zener Diode		(Diodes Inc. 1N5245B)
-* created November 24, 2010 copyright Cordell Audio
-.model 1N5245B D(Is=.6u Rs=.5 Cjo=110p nbv=8.5 bv=15 Ibv=5m Vpk=15 mfg=CA112410)
+* Zener 12V
+.MODEL 1N5245B D 
++ IS = 3.566E-14 
++ N = 1.131 
++ BV = 11.98 
++ IBV = 0.001 
++ RS = 0.1756 
++ CJO = 1.063E-10 
++ VJ = 0.5921 
++ M = 0.3312 
++ FC = 0.5 
+.ENDS
+*
