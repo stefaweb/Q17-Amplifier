@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NDC7003P")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/NDC7003P.kicad_sym")(options "")(descr ""))
+)
