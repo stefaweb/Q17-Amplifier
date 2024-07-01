@@ -9,12 +9,12 @@ Use KiCad 8.0 or later to open and edit source files. KiCad 8.0 can be <a href="
 
 The first version of the board was released on December 8, 2021.
 
-Version 2.2.1 was published on June 8, 2024.
+Version 3.0.1 was published on July 1st, 2024.
 
-All files are located in Q17-Mini-2.2 directory. Old version are located in Q17-Mini Archives directory.
+All files are located in Q17-Mini-3.0 directory. Old version are located in Q17-Mini Archives directory.
 
-Q17-Mini v2.2 (95x75mm, 2 Oz PCB)
-![Q17-Mini-2 2](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/d640f0e2-73e2-4f8b-b47b-d5186d3325b4)
+Q17-Mini v3.0 (95x75mm, 2 Oz PCB)
+![Q17-Mini-3 0-wood](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/68a157e1-7c4c-4b81-8558-91945bf384a3)
 
 <b>Q17-SIGMA-PSU 1.1.1</b>
 
