@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini Amplifier")
-		(date "2024-06-29")
-		(rev "2.3.1")
+		(date "2024-07-02")
+		(rev "2.3.2")
 		(company "Principe circuit by Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-Mini project")
 		(comment 4 "Q17 a QUAD405 audiophile approach")
@@ -8624,7 +8624,7 @@
 	)
 	(text "max 55V"
 		(exclude_from_sim no)
-		(at 269.24 71.12 0)
+		(at 269.494 68.072 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8915,9 +8915,9 @@
 		)
 		(uuid "4fda8112-fd48-4c3f-a504-84f05fdfa568")
 	)
-	(text "If you have ground loop concerns, you can put R32=0R on one board and R32=10R on the second board. This fixes the problem."
+	(text "Board consumption per voltage rail without power transistors: 10mA"
 		(exclude_from_sim no)
-		(at 85.09 15.24 0)
+		(at 121.412 15.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8972,18 +8972,6 @@
 			(justify left bottom)
 		)
 		(uuid "63b9a2ab-0b82-4944-81be-f9a31e0a8271")
-	)
-	(text "35mV with R32 = 10R"
-		(exclude_from_sim no)
-		(at 196.088 81.28 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 3 20 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "65bd98d6-bd47-4652-824c-7561a7889b6f")
 	)
 	(text "Q9, U2 : Wilson current mirror (CCS)"
 		(exclude_from_sim no)
@@ -9311,6 +9299,17 @@
 		)
 		(uuid "b7473b7c-944d-46d6-be71-dc3e000b83c5")
 	)
+	(text "105mA"
+		(exclude_from_sim no)
+		(at 255.27 139.954 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b9d37ec4-0327-468e-8526-2b53340e961b")
+	)
 	(text "DC Offset at output < 1mV"
 		(exclude_from_sim no)
 		(at 13.97 27.94 0)
@@ -9402,7 +9401,7 @@
 	)
 	(text "POWER 50VDC"
 		(exclude_from_sim no)
-		(at 269.24 68.58 0)
+		(at 269.494 65.532 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9432,6 +9431,17 @@
 			(justify left bottom)
 		)
 		(uuid "d92f9f32-7303-4a5c-8835-ddfe6eedbd02")
+	)
+	(text "95mA"
+		(exclude_from_sim no)
+		(at 256.794 26.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da9ac968-940d-435f-864e-bbc50e2944da")
 	)
 	(text "Do not power on the board without opamp."
 		(exclude_from_sim no)
