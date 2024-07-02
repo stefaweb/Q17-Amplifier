@@ -11,7 +11,7 @@ Intermodulation distortion: 0,25%<br>
 Frequency response: ±0,2 dB<br>
 Damping factor : 290 (350 with 1.2Vrms sensibility)<br>
 Default gain: 35 (with input gain at 0.7Vrms, 22 with input gain at 1.2Vrms)<br>
-DC offset at output: 1mV (with R32=0R)<br>
+DC offset at output: 1mV<br>
 Power supply : 50Vdc<br>
 Idle consumption: 7.5W
 
