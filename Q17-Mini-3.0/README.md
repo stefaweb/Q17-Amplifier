@@ -26,7 +26,7 @@ Version 3.0.1 was published on July 1st, 2024.
 Read the CHANGELOG file to know what's new.
 
 <a href="https://audio.cyberkata.org/Q17-Mini-BOM-3.0.html">Q17-Mini-3.0-BOM Online Version</a><br>
-<a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=e4eb528eff">Order Q17-Mini-3.0-BOM on Mouser</a><br> 
+<a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=e4eb528eff">Order Q17-Mini-3.0-BOM on Mouser</a> (not up to date)<br> 
 <br>
 
 ![Q17-Mini-3 0-stereo](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/6ebd8f31-758f-45a4-9b8a-f3d3397181cd)
