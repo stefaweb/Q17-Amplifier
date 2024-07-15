@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini Amplifier")
-		(date "2024-07-09")
-		(rev "2.3.2")
+		(date "2024-07-15")
+		(rev "2.3.3")
 		(company "Principe circuit by Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-Mini project")
 		(comment 4 "Q17 a QUAD405 audiophile approach")
@@ -8679,7 +8679,7 @@
 		)
 		(uuid "1d9a03ee-9637-45ec-a4ae-ce7c58f2fe00")
 	)
-	(text "-49.8V"
+	(text "-49.9V"
 		(exclude_from_sim no)
 		(at 255.27 143.51 0)
 		(effects
@@ -8715,7 +8715,7 @@
 		)
 		(uuid "260c26af-1e30-4624-94a4-7cbfebc53f93")
 	)
-	(text "-3.23V"
+	(text "-3.25V"
 		(exclude_from_sim no)
 		(at 194.31 106.68 0)
 		(effects
@@ -8727,7 +8727,7 @@
 		)
 		(uuid "2668056a-4eca-4d43-9597-7895423e73b6")
 	)
-	(text "For input sensibility at 1.2Vrms (+4dBu): R17=4k75 and R6=182R"
+	(text "For input sensibility at 1.2Vrms (+4dBu): R17=4k75 and R6=196R"
 		(exclude_from_sim no)
 		(at 177.8 160.274 0)
 		(effects
@@ -8794,7 +8794,7 @@
 		)
 		(uuid "3597e775-520f-418e-a1b6-31b513370e9c")
 	)
-	(text "660mV"
+	(text "603mV"
 		(exclude_from_sim no)
 		(at 122.682 95.25 0)
 		(effects
@@ -8915,7 +8915,7 @@
 		)
 		(uuid "4f0d84a2-33c6-4174-a11e-6c2d81a26f16")
 	)
-	(text "6.3V"
+	(text "-7.04V"
 		(exclude_from_sim no)
 		(at 140.97 100.33 0)
 		(effects
@@ -8938,7 +8938,7 @@
 		)
 		(uuid "5799dd0f-9f3e-4123-abd8-3e7cddb3b0d3")
 	)
-	(text "+3.42V"
+	(text "+3.47V"
 		(exclude_from_sim no)
 		(at 195.58 63.5 0)
 		(effects
@@ -9020,7 +9020,7 @@
 		)
 		(uuid "6b4ba869-5c38-4781-aeca-8059a3b602a7")
 	)
-	(text "0.63v"
+	(text "0.654v"
 		(exclude_from_sim no)
 		(at 130.302 34.798 90)
 		(effects
@@ -9188,7 +9188,7 @@
 		)
 		(uuid "92d4cb95-f177-431e-a5d3-f0a259a1ab28")
 	)
-	(text "+39.8V"
+	(text "+40.28V"
 		(exclude_from_sim no)
 		(at 166.37 55.88 0)
 		(effects
@@ -9366,7 +9366,7 @@
 		)
 		(uuid "bf7e69d7-fa9d-4c50-90e7-a0e832d7726e")
 	)
-	(text "-40.2V"
+	(text "-40.29V"
 		(exclude_from_sim no)
 		(at 164.846 114.046 0)
 		(effects
@@ -9468,7 +9468,7 @@
 		)
 		(uuid "ee823590-ecbd-4107-bb1f-1a309e1b21af")
 	)
-	(text "0.63v"
+	(text "0.639v"
 		(exclude_from_sim no)
 		(at 184.912 136.398 90)
 		(effects
@@ -9514,7 +9514,7 @@
 		)
 		(uuid "f58dec00-f0f6-404d-87ad-a909dfe5fba8")
 	)
-	(text "+38.9V"
+	(text "+39.05V"
 		(exclude_from_sim no)
 		(at 140.97 59.69 0)
 		(effects
@@ -9549,7 +9549,7 @@
 		)
 		(uuid "f9f02156-73b4-4314-820c-7abfa5579d7d")
 	)
-	(text "+49.8V"
+	(text "+49.9V"
 		(exclude_from_sim no)
 		(at 255.27 24.13 0)
 		(effects
