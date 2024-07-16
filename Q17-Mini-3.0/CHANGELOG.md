@@ -1,13 +1,14 @@
 # Changelog Q17-Mini
 
-Version [3.0.1] (1-07-2024)
+Version [3.0.1] (16-07-2024)
 
 - Complete new PCB design and components placement.
 - Same PCB size, mounting holes and power transistor locations as v2.
 - Removed all thermal brakes and VIAs.
-- Removed R32.
+- Removed R32. No longer needed due to new ground plane.
 - Removed C18 and C19. They are not needed with low ESR capacitors.
 - Added D7 and D8 protection zener (MMSZ5245C).
+- Updated R17 to 196R for 1.2V sensibility (with LSK170B).
 - Merged GND / GNDPWR ground and built a new ground plane using GND zones and star topology.
 - Better thermal management on the PCB.
 - Updated diagram to 2.3.
