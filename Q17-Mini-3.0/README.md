@@ -39,7 +39,7 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-3 0_sweep_1W_output_0dbu](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/6f0499d1-96ef-41c4-ad6a-c7098ba61f3f)
 
-![Q17-Power-Transistors-Selection-1 1 4](https://github.com/user-attachments/assets/5aac9fc5-3c91-48ab-b44b-c901e39d45fa)
+![Q17-Power-Transistors-Selection-1 1 5](https://github.com/user-attachments/assets/47300af7-6f62-4dc0-a037-701038d062f6)
 
 ![Q17-Mini-3D-FRONT](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/ee1d964c-2dcf-4c85-a294-9576a06d4e31)
 
