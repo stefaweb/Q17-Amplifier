@@ -14,6 +14,7 @@ Version [3.0.1] (27-07-2024)
 - Better thermal management on the PCB.
 - Updated diagram to 2.3.
 - Updated iBOM Q17-Mini-BOM file.
+- Added Q17 Power Transistors Selection table PDF file on github repository.
 
 Version [2.2.1] (8-06-2024)
 
