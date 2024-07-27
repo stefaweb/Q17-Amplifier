@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini Amplifier")
-		(date "2024-07-15")
+		(date "2024-07-27")
 		(rev "2.3.3")
 		(company "Principe circuit by Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-Mini project")
@@ -8599,7 +8599,7 @@
 		)
 		(uuid "087fefc9-36a6-4461-aa2c-904b660f9314")
 	)
-	(text "Q15 : FQA46N15, IXFH50N85X or IRFP240 (isolator)"
+	(text "Q15 : FQA46N15, IXTQ50N20P or IRFP240 (isolator)"
 		(exclude_from_sim no)
 		(at 13.97 194.31 0)
 		(effects
@@ -8610,7 +8610,7 @@
 		)
 		(uuid "0a1f5c34-cce1-4f8d-9ba0-d72ae33d0649")
 	)
-	(text "+2.46V"
+	(text "+2.50V"
 		(exclude_from_sim no)
 		(at 119.38 80.01 0)
 		(effects
@@ -8679,6 +8679,17 @@
 		)
 		(uuid "1d9a03ee-9637-45ec-a4ae-ce7c58f2fe00")
 	)
+	(text "You may need to pair Q11 and Q11 transistors to have same Vbe or Vgs at 5mA. This improves the accuracy of the CCS+ current mirror.\n"
+		(exclude_from_sim no)
+		(at 13.97 163.068 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1e962c4d-55b8-4bbe-9758-16b3ded9b8e5")
+	)
 	(text "-49.9V"
 		(exclude_from_sim no)
 		(at 255.27 143.51 0)
@@ -8715,7 +8726,7 @@
 		)
 		(uuid "260c26af-1e30-4624-94a4-7cbfebc53f93")
 	)
-	(text "-3.25V"
+	(text "-3.22V"
 		(exclude_from_sim no)
 		(at 194.31 106.68 0)
 		(effects
@@ -8727,7 +8738,7 @@
 		)
 		(uuid "2668056a-4eca-4d43-9597-7895423e73b6")
 	)
-	(text "For input sensibility at 1.2Vrms (+4dBu): R17=4k75 and R6=196R"
+	(text "For input sensibility at 1.2Vrms (+4dBu): R17=4k75 and R6=196R (LSK170B) or R6=182R (JFE150)."
 		(exclude_from_sim no)
 		(at 177.8 160.274 0)
 		(effects
@@ -8794,7 +8805,7 @@
 		)
 		(uuid "3597e775-520f-418e-a1b6-31b513370e9c")
 	)
-	(text "603mV"
+	(text "631mV"
 		(exclude_from_sim no)
 		(at 122.682 95.25 0)
 		(effects
@@ -8904,6 +8915,17 @@
 		)
 		(uuid "4d757039-1cc0-44ca-ab32-68b5103a4993")
 	)
+	(text "1.2Vrms max"
+		(exclude_from_sim no)
+		(at 23.114 73.152 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4e3e45ff-3506-490f-88f5-41684e97b306")
+	)
 	(text "U1 : OPA1611 (BIPOLAR) or OPA1641 (JFET)"
 		(exclude_from_sim no)
 		(at 13.97 166.37 0)
@@ -8915,7 +8937,7 @@
 		)
 		(uuid "4f0d84a2-33c6-4174-a11e-6c2d81a26f16")
 	)
-	(text "-7.04V"
+	(text "-7.14V"
 		(exclude_from_sim no)
 		(at 140.97 100.33 0)
 		(effects
@@ -8938,7 +8960,7 @@
 		)
 		(uuid "5799dd0f-9f3e-4123-abd8-3e7cddb3b0d3")
 	)
-	(text "+3.47V"
+	(text "+3.42V"
 		(exclude_from_sim no)
 		(at 195.58 63.5 0)
 		(effects
@@ -9020,7 +9042,7 @@
 		)
 		(uuid "6b4ba869-5c38-4781-aeca-8059a3b602a7")
 	)
-	(text "0.654v"
+	(text "0.649V"
 		(exclude_from_sim no)
 		(at 130.302 34.798 90)
 		(effects
@@ -9188,9 +9210,9 @@
 		)
 		(uuid "92d4cb95-f177-431e-a5d3-f0a259a1ab28")
 	)
-	(text "+40.28V"
+	(text "+40.18V"
 		(exclude_from_sim no)
-		(at 166.37 55.88 0)
+		(at 164.592 55.626 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9299,6 +9321,18 @@
 		)
 		(uuid "ab7aec6b-9a77-4eda-bc6e-f26a74023f27")
 	)
+	(text "+42,08V"
+		(exclude_from_sim no)
+		(at 120.904 40.386 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 3 20 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "b2a9bae1-1fae-47ee-a0a9-b7a554cc7ebb")
+	)
 	(text "+44V"
 		(exclude_from_sim no)
 		(at 105.41 41.91 0)
@@ -9366,7 +9400,7 @@
 		)
 		(uuid "bf7e69d7-fa9d-4c50-90e7-a0e832d7726e")
 	)
-	(text "-40.29V"
+	(text "-41.71V"
 		(exclude_from_sim no)
 		(at 164.846 114.046 0)
 		(effects
@@ -9422,6 +9456,18 @@
 		)
 		(uuid "cfeddde5-810a-44f4-b22e-b69bd1c555d1")
 	)
+	(text "-73mV"
+		(exclude_from_sim no)
+		(at 159.766 73.406 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 3 20 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "d209dd14-ed68-48c4-a1af-539b9c0d025b")
+	)
 	(text "Measure across R3 for current mirror."
 		(exclude_from_sim no)
 		(at 13.97 22.86 0)
@@ -9468,7 +9514,7 @@
 		)
 		(uuid "ee823590-ecbd-4107-bb1f-1a309e1b21af")
 	)
-	(text "0.639v"
+	(text "0.633V"
 		(exclude_from_sim no)
 		(at 184.912 136.398 90)
 		(effects
@@ -9514,7 +9560,7 @@
 		)
 		(uuid "f58dec00-f0f6-404d-87ad-a909dfe5fba8")
 	)
-	(text "+39.05V"
+	(text "+39.11V"
 		(exclude_from_sim no)
 		(at 140.97 59.69 0)
 		(effects
@@ -10896,7 +10942,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm"
 			(at 243.5352 137.16 0)
 			(effects
 				(font
@@ -10974,8 +11020,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330R"
-			(at 212.09 108.966 90)
+		(property "Value" "150R"
+			(at 212.344 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11010,7 +11056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "MRS25000C3300FCT00"
+		(property "Part#" "MRS25000C1500FRP00"
 			(at 209.55 106.68 90)
 			(effects
 				(font
@@ -11019,7 +11065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "594-MRS25000C3300FCT"
+		(property "Mouser" "594-MRS25000C1500FRP"
 			(at 209.55 106.68 90)
 			(effects
 				(font
@@ -11684,7 +11730,7 @@
 		(dnp no)
 		(uuid "38ce07ff-156d-480a-befc-b505532b044b")
 		(property "Reference" "R14"
-			(at 210.82 58.166 90)
+			(at 211.328 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11693,7 +11739,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 212.09 60.706 90)
+			(at 212.344 66.548 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13579,7 +13625,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "120R"
 			(at 157.48 60.96 90)
 			(effects
 				(font
@@ -13933,7 +13979,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm"
 			(at 242.2652 35.56 0)
 			(effects
 				(font
@@ -14010,7 +14056,7 @@
 				)
 			)
 		)
-		(property "Value" "120R"
+		(property "Value" "100R"
 			(at 160.02 111.3725 90)
 			(effects
 				(font
@@ -14370,7 +14416,7 @@
 				)
 			)
 		)
-		(property "Value" "5k1"
+		(property "Value" "4k75"
 			(at 56.7302 93.7195 0)
 			(effects
 				(font
@@ -14396,7 +14442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "5k1 resistor"
+		(property "Description" ""
 			(at 52.07 92.71 0)
 			(effects
 				(font
@@ -14405,7 +14451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "MRS25000C5101FRP00"
+		(property "Part#" "MRS25000C4751FRP00"
 			(at 52.07 92.71 0)
 			(effects
 				(font
@@ -14414,7 +14460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "594-MRS25000C5101FRP"
+		(property "Mouser" "594-MRS25000C4751FRP"
 			(at 52.07 92.71 0)
 			(effects
 				(font
@@ -15268,7 +15314,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100R/0.5W"
+		(property "Value" "196R/0.5W"
 			(at 121.158 104.019 0)
 			(effects
 				(font
@@ -15304,7 +15350,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "MRS25000C1000FC100"
+		(property "Part#" "MRS25000C1960FCT00"
 			(at 119.38 102.87 0)
 			(effects
 				(font
@@ -15313,7 +15359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "594-MRS25000C1000FCT"
+		(property "Mouser" "594-MRS25000C1960FCT"
 			(at 119.38 102.87 0)
 			(effects
 				(font
@@ -17971,7 +18017,7 @@
 			)
 		)
 		(property "Value" "IXTH48P20P"
-			(at 210.312 112.268 0)
+			(at 210.058 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17988,7 +18034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/240/ixyss09010_1-2272779.pdf"
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/240/media-3323106.pdf"
 			(at 219.71 106.68 0)
 			(effects
 				(font
