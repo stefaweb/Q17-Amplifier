@@ -31,8 +31,9 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-3 0-stereo](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/6ebd8f31-758f-45a4-9b8a-f3d3397181cd)
 
-![Q17-Mini-schematic](https://github.com/user-attachments/assets/f731b29c-f131-4b02-a2ca-7fcec25e92c0)
+![Q17-Mini-schematic](https://github.com/user-attachments/assets/fee30041-2718-44d9-a1f5-b25344c16745)
 
+OPA1611 + FQA46N15 + FQA36P15
 ![Q17-Mini-3 0_spectrum_1W_output_0dbu](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/652991bf-89b8-47a5-9773-a54ccd45459d)
 
 ![Q17-Mini-3 0_band_1W_output_0dbu](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/32247fd3-2e5e-40dc-b112-86db89531411)
