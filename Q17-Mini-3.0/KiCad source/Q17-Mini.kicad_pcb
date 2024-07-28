@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini, the Quad405 reborn")
-		(date "2024-07-01")
+		(date "2024-07-28")
 		(rev "3.0.1")
 		(company "PCB design by Stef")
 		(comment 1 "Zize 95 x 75 mm")
@@ -5202,7 +5202,7 @@
 				)
 			)
 		)
-		(property "Value" "100R/0.5W"
+		(property "Value" "196R/0.5W"
 			(at 5.08 2.37 0)
 			(layer "F.Fab")
 			(uuid "434bc994-5637-4d41-8dd5-0269dec753ee")
@@ -5252,7 +5252,7 @@
 				)
 			)
 		)
-		(property "Mouser" "594-MRS25000C1000FCT"
+		(property "Mouser" "594-MRS25000C1960FCT"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5264,7 +5264,7 @@
 				)
 			)
 		)
-		(property "Part#" "MRS25000C1000FC100"
+		(property "Part#" "MRS25000C1960FCT00"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6841,7 +6841,7 @@
 				)
 			)
 		)
-		(property "Value" "120R"
+		(property "Value" "100R"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
 			(uuid "9263e7f0-fc72-4da1-8b75-9f0793047475")
@@ -6891,7 +6891,7 @@
 				)
 			)
 		)
-		(property "Mouser" "594-MRS25000C1200FCT"
+		(property "Mouser" "594-MRS25000C1000FCT"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6903,7 +6903,7 @@
 				)
 			)
 		)
-		(property "Part#" "MRS25000C1200FCT00"
+		(property "Part#" "MRS25000C1000FCT00"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20712,7 +20712,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/240/ixyss09010_1-2272779.pdf"
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/240/media-3323106.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29537,7 +29537,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "150R"
 			(at 12.7 1.25 90)
 			(layer "F.Fab")
 			(uuid "e15600f1-82ba-4a83-bcd3-b5404126d651")
@@ -29587,7 +29587,7 @@
 				)
 			)
 		)
-		(property "Mouser" "594-MRS25000C3300FCT"
+		(property "Mouser" "594-MRS25000C1500FRP"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29599,7 +29599,7 @@
 				)
 			)
 		)
-		(property "Part#" "MRS25000C3300FCT00"
+		(property "Part#" "MRS25000C1500FRP00"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30467,7 +30467,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "120R"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
 			(uuid "00624a75-a485-4edf-be9a-c51fa2a523fb")
@@ -30517,7 +30517,7 @@
 				)
 			)
 		)
-		(property "Mouser" "594-MRS25000C1000FCT"
+		(property "Mouser" "594-MRS25000C1200FCT"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -30529,7 +30529,7 @@
 				)
 			)
 		)
-		(property "Part#" "MRS25000C1000FCT00"
+		(property "Part#" "MRS25000C1200FCT00"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -38897,7 +38897,7 @@
 				)
 			)
 		)
-		(property "Value" "5k1"
+		(property "Value" "4k75"
 			(at 5.08 2.37 180)
 			(layer "F.Fab")
 			(uuid "09de7c35-9d0b-4e17-953e-7baf87f432b6")
@@ -38934,7 +38934,7 @@
 				)
 			)
 		)
-		(property "Description" "5k1 resistor"
+		(property "Description" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38947,7 +38947,7 @@
 				)
 			)
 		)
-		(property "Mouser" "594-MRS25000C5101FRP"
+		(property "Mouser" "594-MRS25000C4751FRP"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -38959,7 +38959,7 @@
 				)
 			)
 		)
-		(property "Part#" "MRS25000C5101FRP00"
+		(property "Part#" "MRS25000C4751FRP00"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -46046,9 +46046,7 @@
 				(xy 121.862837 67.950983) (xy 121.682462 68.077284) (xy 121.682455 68.077289) (xy 121.526747 68.232997)
 				(xy 121.526742 68.233004) (xy 121.400441 68.413379) (xy 121.400439 68.413383) (xy 121.307376 68.612957)
 				(xy 121.25038 68.825664) (xy 121.250379 68.825671) (xy 121.231188 69.045034) (xy 121.224495 69.045034)
-				(xy 121.224495 66.153147) (xy 121.233367 66.120037) (xy 121.224495 66.120037) (xy 121.224495 65.620037)
-				(xy 121.233367 65.620037) (xy 121.233367 65.620036) (xy 121.224495 65.586925) (xy 121.224495 64.600037)
-				(xy 126.815495 64.600037)
+				(xy 121.224495 64.600037) (xy 126.815495 64.600037)
 			)
 		)
 	)

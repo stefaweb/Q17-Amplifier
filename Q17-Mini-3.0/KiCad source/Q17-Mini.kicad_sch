@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini Amplifier")
-		(date "2024-07-27")
+		(date "2024-07-28")
 		(rev "2.3.3")
 		(company "Principe circuit by Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-Mini project")
@@ -13660,7 +13660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "MRS25000C1000FCT00"
+		(property "Part#" "MRS25000C1200FCT00"
 			(at 157.48 55.88 90)
 			(effects
 				(font
@@ -13669,7 +13669,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "594-MRS25000C1000FCT"
+		(property "Mouser" "594-MRS25000C1200FCT"
 			(at 157.48 55.88 90)
 			(effects
 				(font
@@ -14091,7 +14091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "MRS25000C1200FCT00"
+		(property "Part#" "MRS25000C1000FCT00"
 			(at 160.02 114.3 90)
 			(effects
 				(font
@@ -14100,7 +14100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "594-MRS25000C1200FCT"
+		(property "Mouser" "594-MRS25000C1000FCT"
 			(at 160.02 114.3 90)
 			(effects
 				(font
