@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17 mono Power Supply Universal")
-		(date "2024-04-14")
-		(rev "1.0")
+		(date "2024-08-08")
+		(rev "1.0.1")
 		(company "by stef")
 	)
 	(lib_symbols
