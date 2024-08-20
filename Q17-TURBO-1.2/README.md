@@ -13,13 +13,13 @@ An amplifier that will warm up even the coldest speakers.
 <br>
 <b>Technical specifications:</b>
 
-THD: 0.001%<br>
-THD+N: 0.007%<br>
-Signal to Noise ratio (SNR): 104 dBFS<br>
+THD: 0.0010%<br>
+THD+N: 0.011%<br>
+Signal to Noise ratio (SNR): 98 dBFS<br>
 Intermodulation distortion: 0.012%<br>
 Frequency response: ±0,2 dB<br>
 Damping factor : 290<br>
-Default gain: 35 (with input gain R17 at 0.7Vrms)<br>
+Default gain: 35 with input gain R17 at 0.7Vrms<br>
 DC offset at output: less than 1mV (with R32=0R)<br>
 Power supply: 60vDC<br>
 Idle consumption: 15W @ 240vAC
@@ -51,12 +51,9 @@ Q17-TURBO-Drilling.jpg - Drilling plan for heatsink.<br>
 
 ![Q17-TURBO-schematic](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/30cccec9-6931-4f42-ab13-48dfb13967f7)
 <br>
+![Q17-Turbo_spectrum_1W](https://github.com/user-attachments/assets/934f9043-df99-40ad-b664-eaccd6c47b58)
 <br>
-![Q17-Turbo-1 2-spectrum_1W](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/248f07a7-63c4-4d6e-903c-07359bf50050)
-<br>
-<br>
-![Q17-Turbo-1 2-bandwitch](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/c24a9ce1-09ad-4bd7-9916-7a801052a2be)
-<br>
+![Q17-Turbo_band_1W](https://github.com/user-attachments/assets/5b90fe10-5366-4f8b-a71f-6c488135c02a)
 <br>
 Amplifier noise without signal.
 ![Q17-Turbo_1 2_no_signal_61v](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/df66cec7-f6ed-4381-a130-bb7c678b6d19)
