@@ -13,13 +13,13 @@ An amplifier that will warm up even the coldest speakers.
 <br>
 <b>Technical specifications:</b>
 
-THD: 0.001%<br>
-THD+N: 0.007%<br>
-Signal to Noise ratio (SNR): 104 dBFS<br>
+THD: 0.0010%<br>
+THD+N: 0.011%<br>
+Signal to Noise ratio (SNR): 98 dBFS<br>
 Intermodulation distortion: 0.012%<br>
 Frequency response: ±0,2 dB<br>
 Damping factor : 290<br>
-Default gain: 35 (with input gain R17 at 0.7Vrms)<br>
+Default gain: 35 with input gain R17 at 0.7Vrms<br>
 DC offset at output: less than 1mV (with R32=0R)<br>
 Power supply: 60vDC<br>
 Idle consumption: 15W @ 240vAC
