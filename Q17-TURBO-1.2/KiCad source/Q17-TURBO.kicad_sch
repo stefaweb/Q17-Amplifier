@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-TURBO (P2) Amplifier")
-		(date "2024-05-28")
-		(rev "1.3.3")
+		(date "2024-08-21")
+		(rev "1.3.4")
 		(company "by eng. Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-TURBO project")
 		(comment 4 "Q17 a QUAD405 audiophile approach")
@@ -10767,17 +10767,6 @@
 		)
 		(uuid "30a9138d-7a66-466c-b6ae-b90bc99fb80f")
 	)
-	(text "If you have ground loop concerns, you can put R32=0R on one board and R32=10R on the second board. This fixes the problem."
-		(exclude_from_sim no)
-		(at 84.836 15.494 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "32308116-df59-44ac-810d-fc014d49bca5")
-	)
 	(text "The value of R25 depends on the input voltage (42v = 2K7, 50v = 7K5, 60v = 8k2)."
 		(exclude_from_sim no)
 		(at 177.292 164.592 0)
@@ -10899,6 +10888,17 @@
 		)
 		(uuid "67c75d82-8019-4b69-85d8-157d8a7f3b8e")
 	)
+	(text "You may need to pair Q11 and Q11 transistors to have same Vbe or Vgs at 5mA. This improves the accuracy of the CCS+ current mirror.\n"
+		(exclude_from_sim no)
+		(at 13.716 162.052 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6c98fee1-208f-474c-b593-6da986d9e0af")
+	)
 	(text "Q1, Q13 : IRF610"
 		(exclude_from_sim no)
 		(at 13.97 171.45 0)
@@ -10943,7 +10943,7 @@
 		)
 		(uuid "713cbf2f-96d0-4836-acd5-5c8a8b6f80fe")
 	)
-	(text "For input sensibility at 0.7Vrms (0dBu): R17 = 5k1"
+	(text "For input sensibility at 0.7Vrms (0dBu): R17 = 5k1 and R6=100R"
 		(exclude_from_sim no)
 		(at 177.292 162.052 0)
 		(effects
@@ -11033,7 +11033,7 @@
 		)
 		(uuid "961dfdff-79f6-4f98-9dec-bd80f82b5e5a")
 	)
-	(text "For input sensibility at 1.2Vrms (+4dBu): R17=4k75 and R6=182R"
+	(text "For input sensibility at 1.2Vrms (+4dBu): R17=4k75 and R6=196R"
 		(exclude_from_sim no)
 		(at 177.292 159.512 0)
 		(effects
@@ -11099,6 +11099,17 @@
 			(justify left bottom)
 		)
 		(uuid "b26d1658-3a80-4645-8613-7d0749a3288b")
+	)
+	(text "Board consumption per voltage rail without power transistors: 10mA"
+		(exclude_from_sim no)
+		(at 120.904 14.986 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b420eccf-e1f3-4f18-8ff8-3a405b8b9dcb")
 	)
 	(text "Q16, Q18 : FQA36P15, IXTH48P20P or IRFP9240 (isolator)"
 		(exclude_from_sim no)
@@ -14519,6 +14530,91 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 143.51 114.3 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "549274c0-f9fd-4461-a7a1-2652ae7ce9bf")
+		(property "Reference" "R8"
+			(at 143.51 109.0738 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100R"
+			(at 143.51 111.373 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 143.51 116.078 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?28724"
+			(at 143.51 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 143.51 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "MRS25000C1000FCT00"
+			(at 143.51 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "594-MRS25000C1000FCT"
+			(at 143.51 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2881a2ba-f120-4a6b-9a97-59261044d937")
+		)
+		(pin "2"
+			(uuid "13c31af1-368e-4d7a-b6cc-2d3bbacb072d")
+		)
+		(instances
+			(project "Q17-TURBO"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 57.15 107.95 90)
 		(unit 1)
@@ -14779,6 +14875,91 @@
 			(project "Q17-TURBO"
 				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
 					(reference "Q18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 45.72 95.25 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5a8030e6-6554-4e3d-8f86-d6ca68958bdd")
+		(property "Reference" "R17"
+			(at 49.53 93.726 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4k75"
+			(at 49.784 96.012 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 47.498 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?28724"
+			(at 45.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 45.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "MRS25000C4751FRP00"
+			(at 45.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "594-MRS25000C4751FRP"
+			(at 45.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "40f66b0c-02f2-43d3-bf8f-fedd1faf5dd5")
+		)
+		(pin "2"
+			(uuid "81f1b51b-ec1e-410e-ac23-7822047f340a")
+		)
+		(instances
+			(project "Q17-TURBO"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -16400,176 +16581,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 143.51 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7a01ae7a-7f1e-40b2-b5f1-0a3fd770613f")
-		(property "Reference" "R8"
-			(at 143.51 109.0738 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "120R"
-			(at 143.51 111.3725 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 143.51 116.078 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?28724"
-			(at 143.51 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 143.51 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" "MRS25000C1200FCT00"
-			(at 143.51 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" "594-MRS25000C1200FCT"
-			(at 143.51 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b49ca401-9367-4f73-b00b-5e5ea2b4cafe")
-		)
-		(pin "2"
-			(uuid "2142e57d-ea26-4204-a32d-32580a3b94ab")
-		)
-		(instances
-			(project "Q17-TURBO"
-				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 45.72 95.25 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7bf364ab-ad4a-477e-ae5d-b48ef62abf83")
-		(property "Reference" "R17"
-			(at 49.53 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "5k1"
-			(at 50.3802 96.2595 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 47.498 95.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?28724"
-			(at 45.72 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 45.72 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" "MRS25000C5101FRP00"
-			(at 45.72 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" "594-MRS25000C5101FRP"
-			(at 45.72 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dcf69fae-733f-437e-862e-d2de7850c584")
-		)
-		(pin "2"
-			(uuid "dcd1ca3b-8d26-42c1-bba3-eacb03e88ef4")
-		)
-		(instances
-			(project "Q17-TURBO"
-				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
-					(reference "R17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GNDPWR")
 		(at 275.59 153.67 0)
 		(unit 1)
@@ -18000,93 +18011,6 @@
 			(project "Q17-TURBO"
 				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
 					(reference "Q4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 109.22 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a2b8650d-c185-4493-a744-6409245790bf")
-		(property "Reference" "R6"
-			(at 110.9981 101.7206 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100R/0.5W"
-			(at 110.998 104.019 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 107.442 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?28724"
-			(at 109.22 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 109.22 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" "MRS25000C1000FCT00"
-			(at 109.22 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" "594-MRS25000C1000FCT"
-			(at 109.22 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d1c53a7c-c223-4b52-8d9a-eb7dbafa1a9c")
-		)
-		(pin "2"
-			(uuid "45defe93-3be3-4db1-bfee-8401346bee4c")
-		)
-		(instances
-			(project "Q17-TURBO"
-				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
-					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -20549,6 +20473,93 @@
 			(project "Q17-TURBO"
 				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 109.22 102.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e0fd7337-bfe6-4f03-93a5-975ef750e695")
+		(property "Reference" "R6"
+			(at 110.9981 101.7206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "196R/0.5W"
+			(at 110.998 104.019 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 107.442 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?28724"
+			(at 109.22 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" "MRS25000C1960FCT00"
+			(at 109.22 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "594-MRS25000C1960FCT"
+			(at 109.22 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8d033781-21db-4f37-8a7a-9deebcb57fad")
+		)
+		(pin "2"
+			(uuid "5bb51ada-7e1a-4744-9e15-47ab7f2ab589")
+		)
+		(instances
+			(project "Q17-TURBO"
+				(path "/cafff4e3-949d-4238-9c26-62c53b5e7c3a"
+					(reference "R6")
 					(unit 1)
 				)
 			)
