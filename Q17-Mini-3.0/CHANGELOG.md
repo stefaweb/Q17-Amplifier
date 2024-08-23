@@ -1,5 +1,18 @@
 # Changelog Q17-Mini
 
+Version [3.0.2] (22-08-2024)
+
+- Added 2 diodes SL1M-AQ (D8/D9) for a more secure MOSFET protection.
+- Added SOT-23 footprint for Q1 and Q4 on back PCB (Q1' = SI2328DS and Q4' = SI2325DS). Need 15V 1N5245B zener on D2 and D3 to get 13V.
+- Replaced IXTH48P20P by IXTQ36P15P for Q16.
+- Replaced JFET choice OPA1641 by OPA828 (U1).
+- Updated R10 and R13 to 8R2 for IXTQ36P15 compatibility. Bias for class A stage is now 78mA (+8mA).
+- Moved Q7' SMD footprint closer to Q7.
+- The board now consume at idle 200mA @ 50Vdc (warm board).
+- Updated diagram with last components and values.
+- Updated Q17-Mini-BOM.html and Q17-Mini-SMD-BOM.md files.
+- Added Q17-Power-Transistors-Selection table on Github repository.
+
 Version [3.0.1] (27-07-2024)
 
 - Complete new PCB design and components placement.
@@ -18,8 +31,8 @@ Version [3.0.1] (27-07-2024)
 
 Version [2.2.1] (8-06-2024)
 
-- Modified C7 footprint to support 2.2uF MKP capacitor (Lead Spacing 22.5mm).
-- Added double footprint for SMD U2 (NDC7003P) or TH Q11 / Q111 (BS250P).
+- Modified C7 footprint to support 2.2uF MKP capacitor (Lead spacing 22.5mm).
+- Added double footprint for SMD U2 (NDC7003P) or TH Q11 / Q111 (2 matched BS250P).
 - Added D7 and D8 protection zener (MMSZ5245C).
 - Removed R33 and C20 (removed LFE at input no longer used).
 - Various changes on GND and GNDPWR backplane.
