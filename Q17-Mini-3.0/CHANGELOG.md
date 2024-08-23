@@ -1,6 +1,6 @@
 # Changelog Q17-Mini
 
-Version [3.0.2] (22-08-2024)
+Version [3.0.2] (23-08-2024)
 
 - Added 2 diodes SL1M-AQ (D8/D9) for a more secure MOSFET protection.
 - Added SOT-23 footprint for Q1 and Q4 on back PCB (Q1' = SI2328DS and Q4' = SI2325DS). Need 15V 1N5245B zener on D2 and D3 to get 13V.
