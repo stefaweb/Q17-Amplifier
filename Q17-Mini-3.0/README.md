@@ -32,11 +32,11 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-schematic](https://github.com/user-attachments/assets/37217848-08b2-4f85-b8b6-6bf7e136de19)
 
-![Q17-Mini-3 0_spectrum_1W_configS1_9 1](https://github.com/user-attachments/assets/f5802359-476a-42d7-a376-a151753d5414)
+![Q17-Mini-3 0_spectrum_1W_configA4](https://github.com/user-attachments/assets/1b353e3d-afee-4571-adf5-3f06a2b801e4)
 
-![Q17-Mini-3 0_band_1W_configS1_9 1](https://github.com/user-attachments/assets/cc1d88f0-9fc7-469c-bbdf-381a5218aa62)
+![Q17-Mini-3 0_band_1W_configA4](https://github.com/user-attachments/assets/2b5c92a0-c140-4f9d-8435-886a883331b1)
 
-![Q17-Mini-3 0_sweep_1W_configS1_9 1](https://github.com/user-attachments/assets/d6f2fdee-88a7-444f-a917-7444c8ef9318)
+![Q17-Mini-3 0_sweep_1W_configA4](https://github.com/user-attachments/assets/7ae4ac14-7593-4dd4-a049-7a254f943409))
 
 ![Q17-Mini-3D-FRONT](https://github.com/user-attachments/assets/89168bef-9a41-4b03-b930-015d1d5af1f0)
 
