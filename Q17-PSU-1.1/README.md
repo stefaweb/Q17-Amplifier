@@ -7,7 +7,7 @@ Version 1.1 published on August 16, 2024.
 <a href="https://audio.cyberkata.org/Q17-PSU-BOM.html">Online Q17-PSU-BOM</a><br>
 
 Classic version with Vishay bridge and Nichicon Muse capacitors (max 63V).
-![Q17-PSU-MUSE](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/fab3aace-2934-4a44-98ae-4f259ab853a2)
+![Q17-PSU-MUSE](https://github.com/user-attachments/assets/87f4b24f-f6e2-438b-9897-0356e6ff6ba1)
 
 ![Q17-PSU-3D](https://github.com/user-attachments/assets/6c5b35a5-572f-49b4-b0e0-e31eebf17603)
 
