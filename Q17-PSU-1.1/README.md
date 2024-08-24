@@ -9,8 +9,6 @@ Version 1.1 published on August 16, 2024.
 Classic version with Vishay bridge and Nichicon Muse capacitors (max 63V).
 ![Q17-PSU-MUSE](https://github.com/user-attachments/assets/87f4b24f-f6e2-438b-9897-0356e6ff6ba1)
 
-![Q17-PSU-3D](https://github.com/user-attachments/assets/6c5b35a5-572f-49b4-b0e0-e31eebf17603)
-
 ![Q17-PSU-PCB-FRONT](https://github.com/user-attachments/assets/24dba6fe-dbe9-448f-80b8-bc4d73acfcba)
 
 ![Q17-PSU-PCB-BACK](https://github.com/user-attachments/assets/a3d5961b-c8ca-4d41-a8fc-4e2d64790e75)
