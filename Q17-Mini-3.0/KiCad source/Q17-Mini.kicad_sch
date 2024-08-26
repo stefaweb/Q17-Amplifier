@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini Amplifier")
-		(date "2024-08-23")
+		(date "2024-08-26")
 		(rev "2.3.4")
 		(company "Principe circuit by Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-Mini project")
@@ -9489,7 +9489,7 @@
 		)
 		(uuid "b7473b7c-944d-46d6-be71-dc3e000b83c5")
 	)
-	(text "You may need to pair Q11 and Q11 transistors to have same Vbe or Vgs at 5mA. This improves the accuracy of the CCS+ current mirror.\n"
+	(text "You may need to pair Q11 and Q111 transistors to have same Vbe or Vgs at 5mA. This improves the accuracy of the CCS+ current mirror.\n"
 		(exclude_from_sim no)
 		(at 14.224 162.56 0)
 		(effects
@@ -18277,7 +18277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/240/ixyss09010_1-2272779.pdf"
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/240/media-3320788.pdf"
 			(at 219.71 111.76 0)
 			(effects
 				(font
@@ -18295,7 +18295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "IXTH48P20P"
+		(property "Part#" "IXTQ36P15P"
 			(at 219.71 111.76 0)
 			(effects
 				(font
@@ -18304,7 +18304,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "747-IXTH48P20P"
+		(property "Mouser" "747-IXTQ36P15P"
 			(at 219.71 111.76 0)
 			(effects
 				(font
