@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini, the Quad405 reborn")
-		(date "2024-08-23")
+		(date "2024-08-31")
 		(rev "3.0.2")
 		(company "PCB design by Stef")
 		(comment 1 "Zize 95 x 75 mm")
@@ -7425,7 +7425,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/293/e_ukw-1919118.pdf"
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/315/ABA0000C1209-1289053.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7451,7 +7451,7 @@
 				)
 			)
 		)
-		(property "Mouser" "647-UKW2A470MPD"
+		(property "Mouser" "667-EEU-FC1V470B"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7463,7 +7463,7 @@
 				)
 			)
 		)
-		(property "Part#" "UKW2A470MPD"
+		(property "Part#" "EEU-FC1V470B"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15171,7 +15171,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/293/e_ukw-1919118.pdf"
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/315/ABA0000C1209-1289053.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15197,7 +15197,7 @@
 				)
 			)
 		)
-		(property "Mouser" "647-UKW2A470MPD"
+		(property "Mouser" "667-EEU-FC1V470B"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15209,7 +15209,7 @@
 				)
 			)
 		)
-		(property "Part#" "UKW2A470MPD"
+		(property "Part#" "EEU-FC1V470B"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -21356,7 +21356,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/240/ixyss09010_1-2272779.pdf"
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/240/media-3320788.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21382,7 +21382,7 @@
 				)
 			)
 		)
-		(property "Mouser" "747-IXTH48P20P"
+		(property "Mouser" "747-IXTQ36P15P"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -21394,7 +21394,7 @@
 				)
 			)
 		)
-		(property "Part#" "IXTH48P20P"
+		(property "Part#" "IXTQ36P15P"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)

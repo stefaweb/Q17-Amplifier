@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini Amplifier")
-		(date "2024-08-26")
-		(rev "2.3.4")
+		(date "2024-08-31")
+		(rev "2.3.5")
 		(company "Principe circuit by Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-Mini project")
 		(comment 4 "Q17 a QUAD405 audiophile approach")
@@ -9036,7 +9036,7 @@
 		)
 		(uuid "4ad311ee-ad88-4e49-9312-1c325a48920a")
 	)
-	(text "C3, C6 : Nichicon UKZ1E470MPM"
+	(text "C3, C6 : Panasonic EEU-FC1V470B"
 		(exclude_from_sim no)
 		(at 68.834 191.77 0)
 		(effects
@@ -11736,7 +11736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/293/e_ukw-1919118.pdf"
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/315/ABA0000C1209-1289053.pdf"
 			(at 63.5 107.95 0)
 			(effects
 				(font
@@ -11754,7 +11754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "UKW2A470MPD"
+		(property "Part#" "EEU-FC1V470B"
 			(at 63.5 107.95 90)
 			(effects
 				(font
@@ -11763,7 +11763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "647-UKW2A470MPD"
+		(property "Mouser" "667-EEU-FC1V470B"
 			(at 63.5 107.95 90)
 			(effects
 				(font
@@ -15793,7 +15793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/293/e_ukw-1919118.pdf"
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/315/ABA0000C1209-1289053.pdf"
 			(at 63.5 57.15 0)
 			(effects
 				(font
@@ -15811,7 +15811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "UKW2A470MPD"
+		(property "Part#" "EEU-FC1V470B"
 			(at 63.5 57.15 90)
 			(effects
 				(font
@@ -15820,7 +15820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "647-UKW2A470MPD"
+		(property "Mouser" "667-EEU-FC1V470B"
 			(at 63.5 57.15 90)
 			(effects
 				(font
