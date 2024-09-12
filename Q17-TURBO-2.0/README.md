@@ -1,4 +1,4 @@
-# Q17-TURBO (P2) 2.0/b><br>
+# Q17-TURBO (P2) 2.0</b><br>
 
 <b>Q17-TURBO project (150W @ 8 Ohms).</b><br>
 
@@ -21,6 +21,7 @@ Idle consumption: 15W
 <br>
 <br>
 <a href="https://audio.cyberkata.org/Q17-TURBO-BOM-2.0.html">Online Q17-TURBO-BOM-2.0</a><br>
+<br>
 
 ![IMG_8994](https://github.com/user-attachments/assets/a716b65f-4bf1-4f3f-a0f1-738a2febb4c8)
 
