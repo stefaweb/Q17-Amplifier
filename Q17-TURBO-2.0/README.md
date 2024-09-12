@@ -33,7 +33,7 @@ Idle consumption: 15W
 
 ![Q17-TURBO-3D-BACK](https://github.com/user-attachments/assets/23a54750-2f4c-4ada-bea8-fdf378c31cd3)
 
-![Q17-TURBO-PCB-FRONT-green](https://github.com/user-attachments/assets/aab0042d-72e3-40ed-956c-a4b51b409579)
+![Q17-TURBO-PCB-FRONT](https://github.com/user-attachments/assets/e9968690-d464-4b57-9052-8793bba868a6)
 
 ![Q17-TURBO-PCB-BACK](https://github.com/user-attachments/assets/5b7ff120-fae1-4c01-b6b3-c17cf9866c4d)
 
