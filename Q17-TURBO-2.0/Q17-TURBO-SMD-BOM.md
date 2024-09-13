@@ -7,6 +7,7 @@ Some components of the Q17-Turbo amplifier board can also be used with SMD varia
 - Q1 and Q4 can be replaced by Q1' and Q4' below the PCB.
 
 	Q1': SI2328DS
+
 	Q4': SI2325DS
 
 	In this case with 60V rails, zeners D2 and D4 MUST BE REPLACED by 16V 1N5246B zener to get 14V.
