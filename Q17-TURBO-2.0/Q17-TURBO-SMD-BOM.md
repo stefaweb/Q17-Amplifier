@@ -12,7 +12,7 @@ Some components of the Q17-Turbo amplifier board can also be used with SMD varia
 
 	In this case with 60V rails, zeners D2 and D4 MUST BE REPLACED by 16V 1N5246B zener to get 14V.
 
-	Other Mosfet pairs are compatible and have been tested. For more information see the Q17-Power-Transistors-Selection PDF table available in the Github repository.
+	Other Mosfet pairs are compatible and have been tested. For more information see the Q17-Power-Transistors-Selection PDF file available in the Github repository.
 
 - Q7 can be replaced by Q7' below the PCB with a JFE150 (don't forget to change R6 value to 182R).
 
