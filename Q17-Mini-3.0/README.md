@@ -44,7 +44,7 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-3D-BACK](https://github.com/user-attachments/assets/24c6fa90-3f6a-40e8-abbc-7dc471d6af1e)
 
-![Q17-Mini-PCB-FRONT](https://github.com/user-attachments/assets/d15d27b4-1eab-44cf-8f77-b784655729e1)
+![Q17-Mini-PCB-FRONT](https://github.com/user-attachments/assets/b7a6efc4-606b-43eb-9256-5092a4f95056)
 
 ![Q17-Mini-PCB-BACK](https://github.com/user-attachments/assets/541a1f32-48bc-442b-b5cd-2e950ed50a59)
 
