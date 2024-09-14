@@ -17,7 +17,7 @@ Damping factor : 300<br>
 Default gain: 26 with input gain at 1.2Vrms.<br>
 DC offset at output: 1mV with OPA1611, 0mV with OPA828.<br>
 Power supply : 60Vdc (56-60V)<br>
-Idle consumption: 15W
+Idle consumption: 13W
 <br>
 <br>
 <a href="https://audio.cyberkata.org/Q17-TURBO-BOM-2.0.html">Online Q17-TURBO-BOM-2.0</a><br>
