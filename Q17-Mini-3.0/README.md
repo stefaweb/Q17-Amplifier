@@ -32,7 +32,7 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-3 0-stereo](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/6ebd8f31-758f-45a4-9b8a-f3d3397181cd)
 
-![Q17-Mini-schematic](https://github.com/user-attachments/assets/dab989dd-bd3d-4348-8cb0-7dd05af674c5)
+![Q17-Mini-schematic](https://github.com/user-attachments/assets/825a9a6e-9853-4e12-87be-fcec2c5c364d)
 
 ![Q17-Mini-3 0_spectrum_1W_configA4](https://github.com/user-attachments/assets/1b353e3d-afee-4571-adf5-3f06a2b801e4)
 
