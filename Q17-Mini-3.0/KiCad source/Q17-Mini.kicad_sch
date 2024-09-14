@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini Amplifier")
-		(date "2024-08-31")
+		(date "2024-09-14")
 		(rev "2.3.5")
 		(company "Principe circuit by Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-Mini project")
@@ -8928,7 +8928,7 @@
 	)
 	(text "R26, R28 : 22R 1% 1W TE Connectivity H4P22RFZA"
 		(exclude_from_sim no)
-		(at 107.95 176.53 0)
+		(at 107.95 179.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8992,9 +8992,9 @@
 		)
 		(uuid "3fd193b8-60ca-4e73-b77d-e78d6d111658")
 	)
-	(text "C2 : Non polar capacitor Nichicon Muse UES1A101MPM."
+	(text "C2 : Non polar capacitor Nichicon Muse UES1A101MPM"
 		(exclude_from_sim no)
-		(at 107.95 181.61 0)
+		(at 107.95 184.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9084,7 +9084,7 @@
 	)
 	(text "Board consumption per voltage rail without power transistors: 10mA"
 		(exclude_from_sim no)
-		(at 121.412 15.24 0)
+		(at 121.412 14.732 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9177,7 +9177,7 @@
 	)
 	(text "For resistor < 150R : sort then or use 1% range."
 		(exclude_from_sim no)
-		(at 107.95 166.37 0)
+		(at 107.95 168.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9213,7 +9213,7 @@
 	)
 	(text "For R27 use a good quality low noise 1W resistor."
 		(exclude_from_sim no)
-		(at 132.842 173.228 0)
+		(at 132.842 175.768 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9391,7 +9391,7 @@
 	)
 	(text "C15, C16 : 470uF 63v Panasonic EEU-FC1J471B"
 		(exclude_from_sim no)
-		(at 107.95 189.23 0)
+		(at 107.95 191.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9400,20 +9400,9 @@
 		)
 		(uuid "9e79a757-125e-4a34-8787-d303c0ac2788")
 	)
-	(text "C18, C19 : 0.1uF/160V MKP Vishay MKP1839410164"
+	(text "C17 : 100nF capacitor FKP3C031004C00JSSD or MKT1822410255"
 		(exclude_from_sim no)
 		(at 107.95 194.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9e7eeca4-0244-4158-8f36-6e50d5665b9d")
-	)
-	(text "C17 : 100nF capacitor FKP3C031004C00JSSD or MKT1822410255."
-		(exclude_from_sim no)
-		(at 107.95 191.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9424,7 +9413,7 @@
 	)
 	(text "0.25W, 0.5W resistor : Vishay MRS25 or CCF07 or MB"
 		(exclude_from_sim no)
-		(at 107.95 168.91 0)
+		(at 107.95 171.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9433,9 +9422,9 @@
 		)
 		(uuid "9fb5544a-76fb-42ec-a54d-3ad00a066032")
 	)
-	(text "C7 : 2.2uF Wima MKP4D042205I00KSSD or Vishay MKP1839522164"
+	(text "C7 : 2.2uF Wima MKP4D042205I00KSSD or 3.0uF CDE 935C1W3K-F"
 		(exclude_from_sim no)
-		(at 107.95 184.15 0)
+		(at 107.95 186.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9446,7 +9435,7 @@
 	)
 	(text "C1 : 470pF CDE CD15FD471JO3F or polystyrene capacitor."
 		(exclude_from_sim no)
-		(at 107.95 179.07 0)
+		(at 107.95 181.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9491,7 +9480,7 @@
 	)
 	(text "You may need to pair Q11 and Q111 transistors to have same Vbe or Vgs at 5mA. This improves the accuracy of the CCS+ current mirror.\n"
 		(exclude_from_sim no)
-		(at 14.224 162.56 0)
+		(at 83.82 17.272 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9546,7 +9535,7 @@
 	)
 	(text "R27 : 560R 1W 1% Ohmite WNB560FET or Vishay CMF60560R00JKR6"
 		(exclude_from_sim no)
-		(at 107.95 171.45 0)
+		(at 107.95 173.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9706,7 +9695,7 @@
 	)
 	(text "C10 : 47pF Mica CDE CD15ED470JO3 or ceramic NP0."
 		(exclude_from_sim no)
-		(at 107.95 186.69 0)
+		(at 107.95 189.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11175,7 +11164,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "270R"
 			(at 204.47 114.3 90)
 			(effects
 				(font
@@ -11211,7 +11200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "MRS25000C3300FCT00"
+		(property "Part#" "MRS25000C2700FCT00"
 			(at 201.93 111.76 90)
 			(effects
 				(font
@@ -11220,7 +11209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "594-MRS25000C3300FCT"
+		(property "Mouser" "594-MRS25000C2700FCT"
 			(at 201.93 111.76 90)
 			(effects
 				(font
@@ -11727,7 +11716,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P2.50mm_P5.00mm"
 			(at 67.31 106.9848 0)
 			(effects
 				(font
@@ -14916,8 +14905,8 @@
 				)
 			)
 		)
-		(property "Value" "2.2uF MKP or FKP"
-			(at 80.01 89.408 90)
+		(property "Value" "2.2uF MKP"
+			(at 76.708 89.408 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15784,7 +15773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P2.50mm_P5.00mm"
 			(at 59.69 58.1152 0)
 			(effects
 				(font
@@ -16099,7 +16088,7 @@
 		(dnp no)
 		(uuid "b4d0406f-814b-4f1d-9dd3-aa4dd0ca4b62")
 		(property "Reference" "Q13"
-			(at 204.216 18.2753 90)
+			(at 203.708 19.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16108,7 +16097,7 @@
 			)
 		)
 		(property "Value" "IRF610"
-			(at 203.2 20.32 90)
+			(at 208.534 20.828 90)
 			(effects
 				(font
 					(size 1.27 1.27)

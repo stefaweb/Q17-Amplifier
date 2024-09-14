@@ -20,14 +20,14 @@ These measurements were made with amateur measuring equipment. It is better to t
 The first version of the board was released on December 8, 2021.
 <br>
 <br>
-Version 3.0.2 was published on August 23, 2024.
+Version 3.0.3 was published on September 14, 2024.
 
 Read the CHANGELOG file to know what's new.
 
 <a href="https://audio.cyberkata.org/Q17-Mini-3.0-BOM.html">Q17-Mini-3.0-BOM Online Version</a>
 <br>
 <br>
-<a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=5ec4a1dbff">Order Q17-Mini-3.0.2-BOM at Mouser</a><br> 
+<a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=5ec4a1dbff">Order Q17-Mini-3.0.3-BOM at Mouser</a><br> 
 <br>
 
 ![Q17-Mini-3 0-stereo](https://github.com/stefaweb/Q17-Amplifier/assets/12907102/6ebd8f31-758f-45a4-9b8a-f3d3397181cd)
@@ -40,10 +40,11 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-3 0_sweep_1W_configA4](https://github.com/user-attachments/assets/7ae4ac14-7593-4dd4-a049-7a254f943409))
 
-![Q17-Mini-3D-FRONT](https://github.com/user-attachments/assets/89168bef-9a41-4b03-b930-015d1d5af1f0)
+![Q17-Mini-3D-FRONT](https://github.com/user-attachments/assets/07581f58-055c-4978-9c0e-1d2df7f48208)
 
-![Q17-Mini-3D-BACK](https://github.com/user-attachments/assets/8b913a2f-281a-4636-aa42-5e0e4daa2d04)
+![Q17-Mini-3D-BACK](https://github.com/user-attachments/assets/24c6fa90-3f6a-40e8-abbc-7dc471d6af1e)
 
-![Q17-Mini-PCB-FRONT](https://github.com/user-attachments/assets/13c97bee-267a-45fc-a129-14ae90ef7222)
+![Q17-Mini-PCB-FRONT](https://github.com/user-attachments/assets/d15d27b4-1eab-44cf-8f77-b784655729e1)
 
-![Q17-Mini-PCB-BACK](https://github.com/user-attachments/assets/1837d5e6-c01b-42e6-9daa-421569b40519)
+![Q17-Mini-PCB-BACK](https://github.com/user-attachments/assets/541a1f32-48bc-442b-b5cd-2e950ed50a59)
+
