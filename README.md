@@ -5,7 +5,7 @@ The project for porting the operating principle of the QUAD405 to a MOSFET base 
 
 Use KiCad 8.0 or later to open and edit source files. KiCad 8.0 can be <a href="https://www.kicad.org/download/">downloaded</a> from CERN.
 
-<b>Q17-Mini project (90W @ 8 Ohms)</b>
+<b>Q17-Mini project 3.0 (90W @ 8 Ohms)</b>
 
 The first version of the board was released on December 8, 2021.
 
