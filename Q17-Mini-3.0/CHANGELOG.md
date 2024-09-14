@@ -4,7 +4,7 @@ Version [3.0.3] (14-09-2024)
 
 - Reduced hole size for R26, R27, R28 and R31.
 - Added a dual footprint with lead spacing of 2.5mm and 5.0mm for C3 and C6.
-- Updated R15 to 270R.
+- Changed R15 to 270R.
 - Modified ground plane connection for C2.
 
 Version [3.0.2] (23-08-2024)
