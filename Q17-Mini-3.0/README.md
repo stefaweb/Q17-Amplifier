@@ -38,7 +38,7 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-3 0_band_1W_configA4](https://github.com/user-attachments/assets/2b5c92a0-c140-4f9d-8435-886a883331b1)
 
-![Q17-Mini-3 0_sweep_1W_configA4](https://github.com/user-attachments/assets/7ae4ac14-7593-4dd4-a049-7a254f943409))
+![Q17-Mini-3 0_sweep_1W_configA4](https://github.com/user-attachments/assets/7ae4ac14-7593-4dd4-a049-7a254f943409)
 
 PCB size: 95 mm * 75 mm
 
