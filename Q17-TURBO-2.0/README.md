@@ -29,6 +29,8 @@ Idle consumption: 13W
 
 ![Q17-Turbo-2 0_spectrum_1W_OPA828_SMD_Q1_Q4](https://github.com/user-attachments/assets/0b266776-5fcb-4ad7-8f5d-39673961dd9d)
 
+PCB size: 190 mm * 75 mm
+
 ![Q17-TURBO-3D-FRONT](https://github.com/user-attachments/assets/6829b290-90fd-4883-b6bd-5f4191d501cd)
 
 ![Q17-TURBO-3D-BACK](https://github.com/user-attachments/assets/23a54750-2f4c-4ada-bea8-fdf378c31cd3)
