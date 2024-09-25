@@ -40,6 +40,8 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-3 0_sweep_1W_configA4](https://github.com/user-attachments/assets/7ae4ac14-7593-4dd4-a049-7a254f943409))
 
+PCB size: 95 mm * 75 mm
+
 ![Q17-Mini-3D-FRONT](https://github.com/user-attachments/assets/07581f58-055c-4978-9c0e-1d2df7f48208)
 
 ![Q17-Mini-3D-BACK](https://github.com/user-attachments/assets/24c6fa90-3f6a-40e8-abbc-7dc471d6af1e)
