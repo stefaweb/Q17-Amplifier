@@ -40,3 +40,10 @@ PCB size: 190 mm * 75 mm
 ![Q17-TURBO-PCB-BACK](https://github.com/user-attachments/assets/5b7ff120-fae1-4c01-b6b3-c17cf9866c4d)
 
 ![Q17-TURBO-PCB](https://github.com/user-attachments/assets/982905fd-0377-4c28-aa5f-9b556460d607)
+
+Fixing Plate-Q17-Turbo
+216 x 80 mm
+
+![Fixing Plate-Q17-Turbo-216x80-1 0](https://github.com/user-attachments/assets/4fc6deb7-f407-4613-bd18-7835e0dd7876)
+
+
