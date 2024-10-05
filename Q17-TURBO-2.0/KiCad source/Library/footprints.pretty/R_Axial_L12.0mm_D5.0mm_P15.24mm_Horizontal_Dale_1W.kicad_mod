@@ -1,0 +1,207 @@
+(footprint "R_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Dale_1W"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Inductor, Axial series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=12*5mm")
+	(tags "Inductor Axial series Axial Horizontal pin pitch 15.24mm  length 12mm diameter 5mm Ohmite Little Rebel")
+	(property "Reference" "REF**"
+		(at 7.62 -3.62 0)
+		(layer "F.SilkS")
+		(uuid "9ba4c7ff-e95d-44f3-9130-7648a30c506e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "R_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Ohmite_Little_Rebel"
+		(at 7.62 3.62 0)
+		(layer "F.Fab")
+		(uuid "9a2c90c4-d108-490c-a4ef-f90839b42fec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "28083cab-ec83-48d3-a10f-019c173f2a39")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e8d4557-32f1-4786-b082-ae302668be80")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56414e09-02ce-4ff1-941e-1974dad62b68")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 1.44 0)
+		(end 1.5 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bfd87b05-4ebc-4172-9869-55843457474c")
+	)
+	(fp_line
+		(start 13.8 0)
+		(end 13.74 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b8413942-d6c5-419c-abde-ad0808ce4040")
+	)
+	(fp_rect
+		(start 1.4986 -2.1336)
+		(end 13.7414 2.1336)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "cff60eb3-c593-490c-a4bd-1a7ba54cec2c")
+	)
+	(fp_line
+		(start -1.45 -2.2352)
+		(end -1.45 2.2352)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d326ebbf-79b6-48d2-a6a7-ad8abb56bf3d")
+	)
+	(fp_line
+		(start -1.45 2.2352)
+		(end 16.69 2.2352)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e95bc7e1-afa8-4e79-944d-b78ff54851e4")
+	)
+	(fp_line
+		(start 16.69 -2.2352)
+		(end -1.45 -2.2352)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0c3504f3-b1ac-4d16-89e8-22bd078339b8")
+	)
+	(fp_line
+		(start 16.69 2.2352)
+		(end 16.69 -2.2352)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1c14fcf7-7afe-40ba-a136-a2c0456a4f51")
+	)
+	(fp_line
+		(start 0 0)
+		(end 1.62 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aed52a1c-d78d-4328-9a5b-0dae9cca9894")
+	)
+	(fp_line
+		(start 15.24 0)
+		(end 13.62 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cb71c3f8-0ed5-4b40-9de3-746f0ee4a205")
+	)
+	(fp_rect
+		(start 1.6256 -2.0066)
+		(end 13.6144 2.0066)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "2a63f417-79aa-42b1-9711-76c6546efc75")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 7.62 0 0)
+		(layer "F.Fab")
+		(uuid "0a607643-7cbe-40aa-8963-65165d337d58")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.4 2.4)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "afe0cfde-94cc-4693-91a4-31be17812179")
+	)
+	(pad "2" thru_hole circle
+		(at 15.24 0)
+		(size 2.4 2.4)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0da1fa1b-42c1-4d2b-a998-dadd3810d15b")
+	)
+	(model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 0.75 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

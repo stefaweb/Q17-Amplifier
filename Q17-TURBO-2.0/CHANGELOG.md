@@ -1,6 +1,6 @@
 # Changelog Q17-Turbo
 
-Version [2.0] (10-09-2024)
+Version [2.0.1] (5-10-2024)
 
 - Complete new PCB design and components placement.
 - Same PCB size, mounting holes and power transistor locations as v1.
@@ -18,7 +18,7 @@ Version [2.0] (10-09-2024)
 - Updated R15 and R35 to 270R for IXTQ36P15P compatibility.
 - Replaced JFET choice OPA1641 by OPA828 (U1).
 - Updated R10 and R13 to 8R2 for IXTQ36P15P compatibility. Bias for class A stage is now 78mA (+8mA).
-- The board now consume at idle 200mA @ 60Vdc (warm board).
+- The board now consume at idle 220mA @ 60Vdc (warm board).
 - Updated diagram with last components and values.
 - Updated iBOM Q17-Turbo-BOM.html and Q17-Turbo-SMD-BOM.md files.
 
