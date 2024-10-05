@@ -6,8 +6,6 @@ The natural evolution of the Q17-Mini, this time with two pairs of power transis
 
 An amplifier that will warm up even the coldest speakers.
 
-
-<br>
 <b>Technical specifications:</b>
 </b>
 THD: 0.01%<br>
