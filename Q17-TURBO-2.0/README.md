@@ -35,6 +35,8 @@ Q17-TURBO-BOM.html - interactive BOM for Q17-TURBO amplifier (to open with an In
 
 <a href="https://audio.cyberkata.org/Q17-TURBO-BOM-2.0.html">Online Q17-TURBO-BOM-2.0</a><br>
 
+<a href="https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=c6a0dfc411">Order Q17-TURBO-BOM-2.0-BOM at Mouser</a><br> 
+
 ![IMG_8994](https://github.com/user-attachments/assets/a716b65f-4bf1-4f3f-a0f1-738a2febb4c8)
 
 ![Q17-TURBO-schematic](https://github.com/user-attachments/assets/4d3b351f-4bca-4b53-95d7-1a07b372b313)
