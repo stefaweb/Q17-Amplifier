@@ -29,8 +29,11 @@ Read the CHANGELOG file to know what's new.
 All files are located in Q17-TURBO-1.2 directory. Old version files are located in Q17-TURBO Archives directory.
 
 KiCad source - Q17-TURBO amplifier KiCad source files.
+
 Gerber-Q17-TURBO-[version].zip - production gerber files for Q17-TURBO amplifier.
+
 Q17-TURBO-schematic.pdf - schematic for Q17-TURBO amplifier.
+
 Q17-TURBO-BOM.html - interactive BOM for Q17-TURBO amplifier (to open with an Internet Navigator).
 
 <a href="https://audio.cyberkata.org/Q17-TURBO-BOM-2.0.html">Online Q17-TURBO-BOM-2.0</a><br>
