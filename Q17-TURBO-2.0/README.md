@@ -33,10 +33,7 @@ Gerber-Q17-TURBO-[version].zip - production gerber files for Q17-TURBO amplifier
 Q17-TURBO-schematic.pdf - schematic for Q17-TURBO amplifier.
 Q17-TURBO-BOM.html - interactive BOM for Q17-TURBO amplifier (to open with an Internet Navigator).
 
-<br>
-<br>
 <a href="https://audio.cyberkata.org/Q17-TURBO-BOM-2.0.html">Online Q17-TURBO-BOM-2.0</a><br>
-<br>
 
 ![IMG_8994](https://github.com/user-attachments/assets/a716b65f-4bf1-4f3f-a0f1-738a2febb4c8)
 
