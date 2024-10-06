@@ -51,6 +51,5 @@ PCB size: 95 mm * 75 mm
 ![Q17-Mini-PCB-BACK](https://github.com/user-attachments/assets/541a1f32-48bc-442b-b5cd-2e950ed50a59)
 
 Drilling for Q17-Mini
-
 ![Drilling diagram Q17-Mini v3](https://github.com/user-attachments/assets/5f83658a-898b-4e74-b1a0-8d4a3226192d)
 
