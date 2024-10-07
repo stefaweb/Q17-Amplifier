@@ -60,7 +60,9 @@
         }
       ],
       "drc_exclusions": [
-        "courtyards_overlap|124619496|81627713|1a1ac858-1014-4861-873b-c31c5163e824|64679e49-f118-4460-8d6f-b27952e5756e"
+        "courtyards_overlap|124619496|81627713|1a1ac858-1014-4861-873b-c31c5163e824|64679e49-f118-4460-8d6f-b27952e5756e",
+        "courtyards_overlap|144223112|96944080|34a10dd6-6e52-47e7-9379-fc87ed56df6a|a3b742dd-fa20-46cd-a6a0-28309a06069e",
+        "courtyards_overlap|145308608|96069038|34a10dd6-6e52-47e7-9379-fc87ed56df6a|abac9de3-4707-4a88-8a61-686a2f0bdb83"
       ],
       "meta": {
         "filename": "board_design_settings.json",
@@ -486,7 +488,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../Gerber-Q17-Mini-3.0.3/",
+      "plot": "../Gerber-Q17-Mini-3.0.4/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

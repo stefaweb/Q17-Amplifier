@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Q17-Mini Amplifier")
-		(date "2024-09-14")
-		(rev "2.3.5")
+		(date "2024-10-07")
+		(rev "2.3.7")
 		(company "Principe circuit by Tiberiu Vicol")
 		(comment 1 "Modified by Stef for the Q17-Mini project")
 		(comment 4 "Q17 a QUAD405 audiophile approach")
@@ -8892,7 +8892,7 @@
 		)
 		(uuid "2668056a-4eca-4d43-9597-7895423e73b6")
 	)
-	(text "Q5 : FQP3P20 or FQPF7P20 (isolator)"
+	(text "Q5 : FQP3P20 (isolator) or FQPF7P20"
 		(exclude_from_sim no)
 		(at 13.97 181.61 0)
 		(effects
@@ -9140,7 +9140,7 @@
 		)
 		(uuid "5f6a5c07-7708-405a-a21d-141fad373fe7")
 	)
-	(text "Q6 : FQP3N30 or 2SK3564 (isolator)"
+	(text "Q6 : FQP3N30 (isolator) or FQPF3N80C"
 		(exclude_from_sim no)
 		(at 13.97 184.15 0)
 		(effects
@@ -9354,7 +9354,7 @@
 		)
 		(uuid "859eb132-4d4e-40d4-9c55-324f12000995")
 	)
-	(text "-14V"
+	(text "-13.86V"
 		(exclude_from_sim no)
 		(at 71.374 99.822 0)
 		(effects
@@ -14366,7 +14366,7 @@
 		(dnp no)
 		(uuid "7bdcb95c-7367-48a6-abc0-daea118df4a3")
 		(property "Reference" "U2"
-			(at 161.29 39.37 0)
+			(at 160.782 38.862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14374,7 +14374,7 @@
 			)
 		)
 		(property "Value" "NDC7003P"
-			(at 165.1 41.91 0)
+			(at 164.592 41.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15078,8 +15078,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2SK3564"
-			(at 168.91 109.982 0)
+		(property "Value" "FQPF3N80C"
+			(at 166.624 109.982 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15114,7 +15114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "2SK3564(STA4,Q,M)"
+		(property "Part#" "FQPF3N80C"
 			(at 179.07 114.3 0)
 			(effects
 				(font
@@ -15123,7 +15123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "757-2SK3564STA4QM"
+		(property "Mouser" "512-FQPF3N80C"
 			(at 179.07 114.3 0)
 			(effects
 				(font
@@ -17391,7 +17391,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "OPA1611"
+		(property "Value" "OPA828"
 			(at 72.39 71.12 0)
 			(effects
 				(font
@@ -17409,7 +17409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/opa1611"
+		(property "Datasheet" "https://www.ti.com/lit/gpn/opa828"
 			(at 72.39 76.2 0)
 			(effects
 				(font
@@ -17427,7 +17427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" "OPA1611AIDR"
+		(property "Part#" "OPA828IDR"
 			(at 72.39 76.2 0)
 			(effects
 				(font
@@ -17436,7 +17436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "595-OPA1611AIDR"
+		(property "Mouser" "595-OPA828IDR"
 			(at 72.39 76.2 0)
 			(effects
 				(font

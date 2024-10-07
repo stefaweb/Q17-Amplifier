@@ -1,5 +1,11 @@
 # Changelog Q17-Mini
 
+Version [3.0.4] (7-10-2024)
+
+- Modified low signal ground plane.
+- Replaced 2SK3564 by FQPF3N80C for Q6.
+- Updated Q17-Mini-BOM.html.
+
 Version [3.0.3] (14-09-2024)
 
 - Reduced hole size for R26, R27, R28 and R31.
