@@ -29,7 +29,6 @@ Version 2.0.1 was released on October 5, 2024.
 All files are located in Q17-TURBO-2.0 directory. Old version are located in Q17-TURBO Archives directory.
 
 Q17-TURBO v2.0 (190x75mm, 2 Oz PCB)
-
 ![Q17-Turbo-V2_wood](https://github.com/user-attachments/assets/a1847662-a5ab-4b26-a619-191d2d56ea6b)
 
 
