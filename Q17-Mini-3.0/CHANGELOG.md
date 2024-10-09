@@ -5,6 +5,7 @@ Version [3.0.4] (7-10-2024)
 - Modified low signal ground plane.
 - Replaced 2SK3564 by FQPF3N80C for Q6.
 - Updated Q17-Mini-BOM.html.
+- Updated measures.
 
 Version [3.0.3] (14-09-2024)
 
