@@ -36,7 +36,7 @@ Read the CHANGELOG file to know what's new.
 
 ![Q17-Mini-3 0-spectrum](https://github.com/user-attachments/assets/d7d05a89-988f-4f1e-bf39-596947bb1929)
 
-![Q17-Mini-3 0_band_1W_configA4](https://github.com/user-attachments/assets/2b5c92a0-c140-4f9d-8435-886a883331b1)
+![Q17-Mini-3 0_band](https://github.com/user-attachments/assets/c2675ce2-e18e-479c-883b-971517f79069)
 
 ![Q17-Mini-3 0_sweep_1W_configA4](https://github.com/user-attachments/assets/7ae4ac14-7593-4dd4-a049-7a254f943409)
 
