@@ -9,7 +9,7 @@ An amplifier that will warm up even the coldest speakers.
 <b>Technical specifications:</b>
 </b>
 THD: 0.01%<br>
-S/N : 102 dBFS A<br>
+S/N : 102 dB<br>
 Intermodulation distortion: 0,2%<br>
 Frequency response: ±0,2 dB<br>
 Damping factor : 300<br>
