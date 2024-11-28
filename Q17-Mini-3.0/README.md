@@ -5,7 +5,7 @@
 <b>Technical specifications:</b>
 
 THD: 0.011%<br>
-S/N : 102 dBFS A<br>
+S/N : 102 dB<br>
 Intermodulation distortion: 0,2%<br>
 Frequency response: ±0,2 dB<br>
 Damping factor : 350 with 1.2Vrms sensibility, 290 with 0.7Vrms sensibility<br>
