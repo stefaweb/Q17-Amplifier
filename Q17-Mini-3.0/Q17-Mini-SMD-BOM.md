@@ -6,7 +6,7 @@ Some components of the Q17-Mini amplifier board can also be used with SMD varian
 
 - Q1 and Q4 can be replaced by Q1' and Q4' below the PCB.
 
-	Q1': SI2328DS
+	Q1': SI2328DS<br>
 	Q4': SI2325DS
 
 	In this case, zeners D2 and D4 MUST be replaced by 15V 1N5245B zener to get 13V.
