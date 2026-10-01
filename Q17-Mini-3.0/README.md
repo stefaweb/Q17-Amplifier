@@ -7,7 +7,7 @@
 THD: 0.011%<br>
 S/N : 102 dB<br>
 Intermodulation distortion: 0,2%<br>
-Frequency response: ±0,2 dB<br>
+Frequency response: ±0,1 dB<br>
 Slew rate: 35 V/µs<br>
 Damping factor : 350 with 1.2Vrms sensibility, 290 with 0.7Vrms sensibility<br>
 Default gain: 22 with input gain at 1.2Vrms, 35 with input gain at 0.7Vrms.<br>
