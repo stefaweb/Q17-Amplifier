@@ -3,7 +3,7 @@ Q17 is an amplifier based on the QUAD405 current dumping principle.
 
 The project for porting the operating principle of the QUAD405 to a MOSFET base was originally created by engineer Tiberiu Vicol.
 
-Use KiCad to open and edit source files. KiCad can be <a href="https://www.kicad.org/download/">downloaded</a> from CERN.
+Use KiCad to open and edit source files. The great KiCad software can be <a href="https://www.kicad.org/download/">downloaded</a> from CERN.
 
 <b>Q17-Mini project 3.0 (90W @ 8 Ohms)</b>
 
