@@ -5,7 +5,7 @@
 <b>Technical specifications:</b>
 
 THD: 0.011%<br>
-S/N : 102 dB<br>
+S/N : 118 dB<br>
 Intermodulation distortion: 0,2%<br>
 Frequency response: ±0,1 dB<br>
 Slew rate: 35 V/µs<br>
