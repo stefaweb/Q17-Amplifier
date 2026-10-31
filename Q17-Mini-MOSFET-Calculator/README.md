@@ -1,6 +1,6 @@
 # Q17-Mini MOSFET Calculators
 
-Two Excel workbooks for evaluating MOSFET combinations used in the **Q17-Mini audio power amplifier**.
+This document describes two Excel workbooks for evaluating MOSFET combinations used in the **Q17-Mini audio power amplifier**. The package documented below contains the **Q15/Q16 workbook only**; the Q5/Q6 workbook is distributed separately.
 
 The calculators compare candidate devices, highlight electrical mismatches, and illustrate possible starting points for further engineering investigation. They are **not validated design tools**.
 
@@ -14,15 +14,15 @@ The calculators compare candidate devices, highlight electrical mismatches, and 
 
 | Workbook | Devices | Related resistors | Purpose |
 | --- | --- | --- | --- |
-| `Q17_MOSFET_Compatibility_List_1.1b38.xlsx` | Q15 (N-channel) / Q16 (P-channel) | R14 / R15 | Compare output MOSFET pairs, estimate initial gate-resistor values, and record physical validation and audio measurements. |
+| `Q15-Q16_MOSFET_Compatibility_List_1.1b38.xlsx` | Q15 (N-channel) / Q16 (P-channel) | R14 / R15 | Compare output MOSFET pairs, estimate initial gate-resistor values, and record physical validation and audio measurements. |
 | `Q5_Q6_MOSFET_Compatibility_1.0*.xlsx` | Q5 / Q6 complementary MOSFETs | R7 / R8 | Compare candidate Q5/Q6 pairs with the existing 100 Ω resistor values. |
 
 Both workbooks are intended for **Microsoft Excel**. They use formulas and visual indicators; open them in Excel to preserve the intended calculation and formatting behavior. The Q5/Q6 workbook is distributed separately and is not included in this Q15/Q16 package.
 
-## 1. Q17 MOSFET Compatibility List
+## 1. Q15/Q16 MOSFET Compatibility List
 
 **Current version:** 1.1b38  
-**File:** `Q17_MOSFET_Compatibility_List_1.1b38.xlsx`
+**File:** `Q15-Q16_MOSFET_Compatibility_List_1.1b38.xlsx`
 
 This workbook evaluates complementary **power MOSFET pairs** for the Q17-Mini output stage:
 
@@ -33,18 +33,18 @@ This workbook evaluates complementary **power MOSFET pairs** for the Q17-Mini ou
 ### Package structure
 
 ```text
-Q17_MOSFET_Compatibility_List_1.1b38/
-├── README.md
-├── Q17_MOSFET_Compatibility_List_1.1b38.xlsx
+Q15-Q16_MOSFET_Compatibility_List_1.1b38/
+├── Q15-Q16_MOSFET_Compatibility_List_1.1b38.xlsx
 └── Measurements/
-    ├── Q17-3.1_C7_1W.png
-    ├── Q17-3.1_C7_100W.png
-    ├── Q17-3.1_C7_104W_OUT_BEFORE_CLIP.png
-    ├── Q17-3.1_C7_106W_CLIP.png
-    └── Q17-3.1_C7_SHORTED.png
+    └── C7-IXTQ50N20P-IXTQ26P20P/
+        ├── Q17-3.1_C7_1W.png
+        ├── Q17-3.1_C7_100W.png
+        ├── Q17-3.1_C7_104W_OUT_BEFORE_CLIP.png
+        ├── Q17-3.1_C7_106W_CLIP.png
+        └── Q17-3.1_C7_SHORTED.png
 ```
 
-Keep the workbook and `Measurements` folder together. Add new test captures to `Measurements` as they become available. The captures currently included concern pair **C7 on Q17-3.1**.
+The README is distributed separately from this folder and its ZIP archive. Keep the workbook and `Measurements` folder together. Store test captures in one subfolder per pair inside `Measurements`, named `PairID-Q15reference-Q16reference` (for example, `C7-IXTQ50N20P-IXTQ26P20P`). Add new captures to the corresponding pair folder as they become available. The captures currently included concern pair **C7 on Q17-3.1**.
 
 ### Main features
 
@@ -53,7 +53,7 @@ Keep the workbook and `Measurements` folder together. Add new test captures to `
 - Effective gate-capacitance (**Ceff**) profile comparison.
 - Calculated **initial** R14/R15 values and their balance.
 - **Qgd (Miller charge)** similarity as an additional diagnostic, not a standalone acceptance criterion.
-- Configurable selection thresholds and suitability checks, including the **Ciss ≤ 3.5 nF** preselection limit used for the current Q17-Mini evaluation.
+- Configurable selection thresholds and suitability checks. In version 1.1b38, `Config!B23` sets the maximum Ciss to **3500 pF (3.5 nF)**; this is a configurable preselection threshold.
 - Theoretical classification of candidate pairs: **A — Very Good Candidate**, **B — Good Candidate**, **C — Needs Review**, and **X — Unsuitable**.
 - Separate tracking of physical Q17 test status, tested resistor values, and French/English test notes in the **Q17 PHYSICAL VALIDATION LOG** on `Selection`.
 - Per-pair measurement fields for **1 W**, **100 W**, **before clipping**, **clipping observed**, and **shorted-input noise**.
@@ -76,9 +76,9 @@ An **A** or **B** rating is a *theoretical preselection*, not confirmation of st
 
 Current measurement conditions are **8 Ω**, approximately **1 kHz**, and a **20 Hz–20 kHz** measurement bandwidth. Record the analyzer input range and dBr reference where fields are provided. Weighting is not specified in the supplied captures; do not assume an A-weighted result.
 
-- **1 W and 100 W:** record QA403 SNR, THD, H2, H3, H4, INPUT, and OUTPUT. INPUT and OUTPUT are in **Vrms**; the generator is connected directly to the amplifier input without intermediate attenuation.
+- **1 W and 100 W:** record QA403 SNR, THD (%), H2, H3, H4 (dBr), INPUT, and OUTPUT. Additional fields are available for THD+N and 50 Hz at 1 W. INPUT and OUTPUT are in **Vrms**; the generator is connected directly to the amplifier input without intermediate attenuation.
 - **Harmonics:** identify H2/H3/H4 by frequency, not by marker number. The QA403 marker list can change order between captures.
-- **50 Hz:** record the displayed dBr value and the reference shown in `Sys: Dbr`. The workbook converts the level using **dBV = dBr + reference dBV**.
+- **50 Hz:** record the displayed dBr value and the reference shown in `Sys: Dbr`. For the 1 W and SHORTED blocks, the workbook converts the level using **dBV = dBr + reference dBV**.
 - **Clipping:** use the oscilloscope to identify the onset of visible flattening, then record the QA403 output voltage immediately before clipping. Keep this limit separate from the fixed **100 W** comparison point.
 - **SHORTED:** disconnect the generator and short the amplifier input. Record the QA403 **RMS Volts** reading as output noise in **µVrms**. This includes the measurement system's contribution; the analyzer range must therefore be documented.
 
