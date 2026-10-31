@@ -19,9 +19,9 @@ The calculators compare candidate devices, highlight electrical mismatches, and 
 
 Both workbooks are intended for **Microsoft Excel**. They use formulas and visual indicators; open them in Excel to preserve the intended calculation and formatting behavior.
 
-## 1. Q15/Q16 MOSFET Compatibility and R14/R15 Calculator
+## 1. Q17 MOSFET Compatibility List
 
-**File:** `Q17_Q15-Q16_MOSFET_Compatibility_R14-R15_1.1*.xlsx`
+**File:** `Q17_MOSFET_Compatibility_List_1.1b38`
 
 This workbook evaluates complementary **power MOSFET pairs** for the Q17-Mini output stage:
 
