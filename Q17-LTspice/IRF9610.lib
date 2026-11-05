@@ -1,7 +1,0 @@
-*VDMOS with subthreshold (c) Ian Hegglun Apr 2019
-.model IRF9610 VDMOS (pchan Rg=6 Vto={(-3.76+2.5m*(0+temp-25))} Lambda=4m
-+ Rs={68m*(1+3m*(0+temp-25))} Tnom={temp} Kp={0.35/(1+3m*(0+temp-25))}
-+ Ksubthres={0.2*(1+4m*(0+temp-25))} Mtriode={0.5} Rd={2*(1+9m*(0+temp-25))}
-+ Cgdmax=120p Cgdmin=15p a=0.26 Cgs=113p Cjo=207p Tnom=temp
-+ m=0.75 VJ=2.5 IS=1p N=1.5 Rb=0.02 Vds=-200 Ron=3 Qg=11nC mfg=IH201904 )
-*
