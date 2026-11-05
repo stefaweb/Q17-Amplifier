@@ -8,5 +8,3 @@ Extract each archive into its own folder, open the `.asc` schematic in LTspice, 
 | **Q17-Turbo 1.3b29** | 1 kHz sine wave, 30 ms transient | 32.56 V RMS, 132.55 W, 0.027% THD |
 
 Both simulations save the final 10 ms for waveform and distortion analysis. Open **View → SPICE Error Log** to see the measurements and Fourier results.
-
-The Mini release uses ASCII `u` for micro-unit values in the schematic to avoid encoding errors. The Turbo release uses Gear integration and saves the input and output voltages plus the currents through R10, R13, and R3 to keep the waveform file small.
